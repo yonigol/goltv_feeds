@@ -1,0 +1,277 @@
+{
+	"type": {
+		"value": "feed"
+	},
+	"entry": [{
+		"type": {
+			"value": "video"
+		},
+		"id": "dicovery",
+		"title": "Discovery Channel",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/discoverychannel.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://i.vimeocdn.com/video/472715994_1280x720.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "nat_geo_il",
+		"title": "National Geographic IL",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nationalgeo.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://i.ytimg.com/vi/GzWs5Du4-TM/maxresdefault.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "nat_geo_us",
+		"title": "National Geographic US",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/national.geographic.us.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/logos/seo.ngsversion.1565614141405.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "nat_geo_wild_il",
+		"title": "Nat Geo Wild IL",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/natgeowild.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://i.ytimg.com/vi/ytYlHZlph9I/maxresdefault.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "nat_geo_wild_us",
+		"title": "Nat Geo Wild US",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/national.geographic.wild.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://presentationarchive.com/natgeowild2015/three-d.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "animal_planet_ca",
+		"title": "Animal Planet CA",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/animal.planet.canada.ca.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6552858/image_assets/20369793/cms.jpeg?1532553119"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "discovery_shed_uk",
+		"title": "Discovery Shed UK",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/discovery.shed.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://presentationarchive.com/discoveryshed/shed-f.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "discovery_turbo_uk",
+		"title": "Discovery Turbo UK",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/discovery.turbo.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://pro2-bar-s3-cdn-cf3.myportfolio.com/3dd31ee7-9338-4fce-bd40-30362278a120/ed0c9f66-a809-4273-b882-1feef6f937e4_rw_1920.jpg?h=8687379b133c77c49fc26c19a86c5cd5"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "histoy_channel_us",
+		"title": "Hisory Channel US",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/history.channel.us.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.uktvapps.com/wp-content/uploads/2016/02/history.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "documentary_ca",
+		"title": "Documentary Channel CA",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/documentary.channel.canada.ca.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://lh4.googleusercontent.com/proxy/BGIAMG7bsZA4BsRedSIF81ieBay8O6H4ZrYq2gHgIKDyfNI0bT_bqNjByIh8eungAIvIL4lFgRj9boWz_4R417RitVRZLDxOwzmYYBBCok8Pt69JbVYd"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "nasa",
+		"title": "NASA",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nasa.4k.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.komando.com/wp-content/uploads/2019/04/NasaTV.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "science_us",
+		"title": "Science US",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/science.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://lh6.googleusercontent.com/proxy/lmY-oufxTZegiGTFlwrij3SRKApaX2H6OuKM8vrt-wUfgIDwHjJUIqejKqcvAJUQBklndXyI5QstKPySLQpGbEjICjlkOUNKlRybmIk_hY4tJ2u7"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "bbc_earth",
+		"title": "BBC Earth",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/bbc.earth.ca.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://assets.nvinteractive.com/nvgr01w13-cache/b/7/9/b/a/b/b79bab7a20e7a7560996a410892b5766c88378b9.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "smithsonian_channel",
+		"title": "Smithsonian Channel",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/smithsonian.channel.usa.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.smithsonianchannel.com/site/image-bin/images/0_0_0/0_0_0_02_1200x630.jpg"
+			}]
+		}]
+	}],
+	"author": {
+		"name": "Juan José"
+	},
+	"id": "GolTV_Nature",
+	"title": "Nature & Science"
+}

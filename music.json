@@ -1,0 +1,296 @@
+{
+	"type": {
+		"value": "feed"
+	},
+	"entry": [{
+		"type": {
+			"value": "video"
+		},
+		"id": "mtv_us",
+		"title": "MTV US",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/mtv.usa.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/mtv.usa.eastern.us.png"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "mtv_2_us",
+		"title": "MTV 2 US",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/mtv.2.east.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/mtv.2.east.us.png"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "vh1_us",
+		"title": "VH1 US",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/vh1.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/vh1.eastern.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "vh1_europe",
+		"title": "VH1 Europe",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/vh1.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/vh1.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "mtv_hits",
+		"title": "MTV Hits",
+		"summary": "",
+		"content": {
+			"src": "ttps://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/mtv.hits.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/mtv.hits.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "oye",
+		"title": "Oye",
+		"summary": "",
+		"content": {
+			"src": "https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8?DVR&dvrOffset=10800&type=dvr",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/235/channels/510/image_assets/18446572/original.jpg?1516310168"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "mtv_live",
+		"title": "MTV Live",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/mtv.live.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/mtv.live.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "mtv_music_UK",
+		"title": "MTV Music UK",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/mtv.music.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/mtv.music.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "music_choise",
+		"title": "Music Choise",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/music.choice.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/music.choice.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "mtv_base",
+		"title": "MTV Base",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/mtv.base.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/mtv.base.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "mtv_classic_europe",
+		"title": "MTV Classic Europe",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/mtv.classic.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/mtv.classic.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "mtv_classic_us",
+		"title": "MTV Classic US",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/mtv.classic.east.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/mtv.classic.east.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "mtv_live_us",
+		"title": "MTV LIVE US",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/mtv.live.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/mtv.live.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "music_choice_tropical",
+		"title": "Music Choice Tropical",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/music.choice.tropical.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/music.choice.tropical.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "nick_music",
+		"title": "Nick Music",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nickmusic.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/nickmusic.us.png"
+			}]
+		}]
+	}],
+	"author": {
+		"name": "Juan José"
+	},
+	"id": "GolTV_Music",
+	"title": "Music"
+}

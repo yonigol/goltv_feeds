@@ -1,0 +1,429 @@
+{
+	"type": {
+		"value": "feed"
+	},
+	"entry": [{
+		"type": {
+			"value": "video"
+		},
+		"id": "hot_3",
+		"title": "HOT 3",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hot3.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/hot3.il.png"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "yes_3",
+		"title": "YES 3",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/yes3.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEKvlHUe3O-AA4JO2WQZCGBvt8Z4Z-pAOWqxjHBy33zHVGwQUp&s"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "hot_hbo",
+		"title": "HOT HBO",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hothbo.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://i.ytimg.com/vi/goLYsm9ojR0/maxresdefault.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "hot_zone",
+		"title": "HOT Zone",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hotzone.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/hotzone.il.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "bidur",
+		"title": "בידור ישראלי",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hotbidurisraeli.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://i.ytimg.com/vi/UQVWUfY50kY/maxresdefault.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "food_il",
+		"title": "ערוץ האוכל",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/foodchannel.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://upload.wikimedia.org/wikipedia/he/archive/9/94/20190101144245%21%D7%A2%D7%A8%D7%95%D7%A5_%D7%94%D7%90%D7%95%D7%9B%D7%9C.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "food_network",
+		"title": "Food Network",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/foodnetwork.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://pmcvariety.files.wordpress.com/2016/01/food-network-logo.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "cooking",
+		"title": "The Cooking Channel",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/the.cooking.channel.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://cook.fnr.sndimg.com/content/dam/images/cook/editorial/homepage/cctv-recipeImage-default.jpg.rend.hgtvcom.616.347.suffix/1475775673528.jpeg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "home_plus",
+		"title": "בית+",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/homeplus.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.partner.co.il/globalassets/global/tv-channels/web/images/channels/home.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "hgtv",
+		"title": "HGTV",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hgtv.usa.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://i.pinimg.com/originals/ff/d4/55/ffd455818746bb96801d07b92e7f92ff.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "diy",
+		"title": "DIY",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/do.it.yourself.network.usa.east.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://premierguidemiami.com/wp-content/uploads/2010/07/DIY-NETWORK.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "good_life",
+		"title": "ערוץ החיים הטובים",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/goodlife.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://assets.makoplay.com/upload/SRk6gTg0df3aa4d1c67f3a4408f547d28dd36d30-600.jpeg?name=+&credit=+"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "travel",
+		"title": "Travel Channel",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/travel.channel.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://services.tegrazone.com/sites/default/files/pcgame-featured-image/Travel_Channel_mfg.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "tiulim",
+		"title": "ערוץ הטיולים",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/travel.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "http://masada-misaviv.com/files/%D7%A2%D7%A8%D7%95%D7%A5_%D7%94%D7%98%D7%99%D7%95%D7%9C%D7%99%D7%9D.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "trvl",
+		"title": "Trvl",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/travel.us.east.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://travel.home.sndimg.com/content/dam/images/travel/editorial/homepage/TRVL-default-image_4x3.jpg.rend.hgtvcom.616.462.suffix/1539121995359.jpeg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "outdoor",
+		"title": "Outdoor Channel",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/outdoor.channel.us.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/57409e50258033.58cb840c2bbbb.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "humour",
+		"title": "ערוץ ההומור",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/humor.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG9fmbcWcOY3xtMFYdN0durtLPHAUu9tTkwWiDddOIoPEOvfU&s"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "comedy_central",
+		"title": "Comedy Central",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/comedy.central.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2019/01/11140801/CC_Refresh__Hero_Logo.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "e_entertainment",
+		"title": "E! Entertainment",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/eentertainment.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.squarespace-cdn.com/content/v1/5c47de63f8370ad5312b68f0/1548639879973-WOM2AF06KHN3IXU8QMUJ/ke17ZwdGBToddI8pDm48kGKPDUlqtZxZsCUK2myRENFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIzeT9NOQUMXgPn9t_EcYcFWBMMHWrXgQzVDF-3qiLkzgKMshLAGzx4R3EDFOm1kBS/e_new_logo_h.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "health",
+		"title": "ערוץ הבריאות",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/health.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://yt3.ggpht.com/a/AGF-l78fDOTYLFQyVF5lkAxqX5TeeGqicaB9nIFOYw=s900-c-k-c0xffffffff-no-rj-mo"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "destination",
+		"title": "Destination America",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/destination.america.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://pmcvariety.files.wordpress.com/2015/03/destination-america.jpg?w=1000"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "hero",
+		"title": "הירו",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hero.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://i.ytimg.com/vi/IWNHj5XpVwM/maxresdefault.jpg"
+			}]
+		}]
+	}],
+	"author": {
+		"name": "Juan José"
+	},
+	"id": "GolTV_Entertainment",
+	"title": "Entertainment"
+}

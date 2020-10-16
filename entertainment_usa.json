@@ -1,0 +1,353 @@
+{
+	"type": {
+		"value": "feed"
+	},
+	"entry": [{
+		"type": {
+			"value": "video"
+		},
+		"id": "hbo",
+		"title": "HBO",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hbo.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg?w=681&h=383&crop=1"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "hbo_2",
+		"title": "HBO 2",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hbo.2.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6980145/image_assets/22601445/cms.jpg?1559777057"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "hbo_comedy",
+		"title": "HBO Comedy",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hbo.comedy.east.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.pngitem.com/pimgs/m/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "hbo_family",
+		"title": "HBO Family",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hbo.family.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://logospng.org/wp-content/uploads/hbo-family.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "hbo_signature",
+		"title": "HBO Signature",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.nicepng.com/png/detail/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "hbo_zone",
+		"title": "HBO Zone",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hbo.zone.east.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmxpGaUDmsd840vlo51tXarayPIJpq0coDMoUIHQedYglQS9rj&s"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "abc_spark",
+		"title": "ABC Spark",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/abc.spark.ca.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://2.bp.blogspot.com/-seQwmXYf24g/TqyqVN3QZjI/AAAAAAAACh0/N2_N8qlR84Q/s500/ABC+Spark+logo.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "starz",
+		"title": "Starz",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/starz.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://pmcvariety.files.wordpress.com/2017/11/starz-logo.jpg?w=1000"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "starz_kids_family",
+		"title": "Starz Kids Family",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/starz.kids.family.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://i.ytimg.com/vi/g4WBr41Dn7Y/maxresdefault.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "discovery_family",
+		"title": "Discovery Family",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/discovery.family.channel.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.logolynx.com/images/logolynx/9f/9f5e2f0da2431022a6aaeb956710a199.jpeg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "showtime",
+		"title": "Showtime",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/showtime.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.cordcuttersnews.com/wp-content/uploads/2019/09/Showtime_logo.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "showtime_2",
+		"title": "Showtime 2",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/showtime.2.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://webcdn3.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime2.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "showtime_beyond",
+		"title": "Showtime Beyond",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/showtime.beyond.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://b1.pngbarn.com/png/452/941/tv-channel-icons-pack-showtime-beyond-color-png-clip-art.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "showtime_extreme",
+		"title": "Showtime Extreme",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/showtime.extreme.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://cdn-wbn.b-cdn.net/wp-content/uploads/Promoter-Body-LOGOS/sho-extreme.JPG"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "showtime_family_zone",
+		"title": "Showtime Family Zone",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/showtime.family.zone.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://webcdn3.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-familyzone.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "showtime_next",
+		"title": "Showtime Next",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/showtime.next.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://webcdn3.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-next.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "showtime_showcase",
+		"title": "Showtime Showcase",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/showtime.showcase.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.directhd.tv/wp-content/uploads/2018/09/showtime-showcase.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "showtime_women",
+		"title": "Showtime Women",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/showtime.women.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://cdn.clipart.email/256827de46f71aca6e9fd1b570bdd89d_showtime-women-logo-png-transparent-png-transparent-png-image-_500-280.jpeg"
+			}]
+		}]
+	}],
+	"author": {
+		"name": "Juan José"
+	},
+	"id": "GolTV_Entertainment_USA",
+	"title": "Entertainment USA"
+}

@@ -1,0 +1,258 @@
+{
+	"type": {
+		"value": "feed"
+	},
+	"entry": [{
+		"type": {
+			"value": "video"
+		},
+		"id": "sport_5",
+		"title": "Sport 5",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/5sporthd.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.globes.co.il/images/NewGlobes/big_image_800/2015/01_logo_sport-chanel-blue_Square800jpg.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "sport_5_gold",
+		"title": "Sport 5 Gold",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/5gold.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://cdn.the7eye.org.il/uploads/2014/02/342342341.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "sport_5_live",
+		"title": "Sport 5 Live",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/5live.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/liveHD.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sport_5_plus",
+		"title": "Sport 5 Plus",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/5plus.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.showtime.co.il/wp-content/uploads/2020/04/5_plus.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sport_5_stars",
+		"title": "Sport 5 Stars",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/5starts.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.partner.co.il/globalassets/global/tv-channels/web/images/channels/sport5.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sport_1",
+		"title": "Sport 1",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sport1.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://lh3.googleusercontent.com/proxy/BCvF3FEviHbZwlji5w2xrvWiR2U3YNjWR_2_094xHDNjSn7RxWky_HneHMwdNkOSdH74IuYUfMYa13izTuf3ruSFCQQUPzhjVs5MZ3jlMjPqWNcGMUduh6Llg1MZdb8DSRMwTow"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sport_2",
+		"title": "Sport 2",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sport2.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdWWxVd6DpJXboJ-SfY6epQIdyUHkuqrTzU8AVGx8ZW1SIH6AX&s"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sport_3",
+		"title": "Sport 3",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sport3.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://lh5.googleusercontent.com/proxy/mbqsusb6eUd_pEzRc7AqPkcdchdnIZU-_ie61Xn3rdLbMhiD-l58gHNuGdy4XIRq-K82b42DkkKh9yBkzWyzhXoJFLGmy_sIc4ZbyfgB2t4V_2K5yw6a"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sport_4",
+		"title": "Sport 4",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sport4.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://lh3.googleusercontent.com/proxy/qLzzGgvwQQNLF8H1KkV_FfKpV9Zt9uX1AweC-RQtJJx3QascZoG7SkK0k4nwPYBH--T8C-tU_nmKmb_uz80hDf-icTAc02223SpKMnr70Ph1S3PeoEG9"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sport_one",
+		"title": "Sport ONE",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/one.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://lh5.googleusercontent.com/proxy/YZGlqQRDo2dR5s55gaL_K3lNNyc5WpV8C0Wsz6yE_nOBeEnMdwNfBocyxcVTT9m6EnL0gCnf5EzP-qR-63TojkAZvF1cYRcPTZg_TH8biuxfHdH4g662_2n6ZQu08ccduuY"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sport_one_2",
+		"title": "Sport ONE 2",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/one2.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.partner.co.il/globalassets/global/tv-channels/web/images/channels/one2.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "eurosport_1",
+		"title": "Eurosport 1",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/eurosport1.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://mumbrella.com.au/wp-content/uploads/2020/01/Eurosport-New-Logo-full-size.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "eurosport_2",
+		"title": "Eurosport 2",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/eurosport2.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://tvepg.eu/img/united_kingdom/reviews/eurosport_2/news_eurosport_2_news.png"
+			}]
+		}]
+	}],
+	"author": {
+		"name": "Juan José"
+	},
+	"id": "GolTV_Sport_IL",
+	"title": "Sport IL"
+}

@@ -1,0 +1,524 @@
+{
+	"type": {
+		"value": "feed"
+	},
+	"entry": [{
+		"type": {
+			"value": "video"
+		},
+		"id": "yes_action",
+		"title": "YES Action",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/yesaction.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/yesaction.il.png"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "hot_action",
+		"title": "HOT Action",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hotaction.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/hotaction.il.png"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "hot_drama",
+		"title": "HOT Drama",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hotdrama.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/hotdrama.il.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "hot_fun",
+		"title": "HOT Fun",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hotfun.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/hotfun.il.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "hot_gold",
+		"title": "HOT Gold",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hotgold.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/hotgold.il.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sky_atlantic",
+		"title": "Sky Atlantic",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.atlantic.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/sky.atlantic.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sky_action",
+		"title": "Sky Action",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.action.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/sky.cinema.action.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sky_comedy",
+		"title": "Sky Comedy",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.comedy.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/sky.cinema.comedy.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sky_disney",
+		"title": "Sky Disney",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.disney.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/sky.cinema.disney.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sky_drama",
+		"title": "Sky Drama",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.drama.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/sky.cinema.drama.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sky_family",
+		"title": "Sky Family",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.family.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/sky.cinema.family.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sky_cinema_greats",
+		"title": "Sky Cinema Greats",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.greats.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/sky.cinema.greats.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sky_cinema_hit",
+		"title": "Sky Cinema Hits",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.hits.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/sky.cinema.hits.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sky_cinema_premiere",
+		"title": "Sky Cinema Premiere",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.premiere.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/sky.cinema.premiere.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sky_cinema_scifi_horror",
+		"title": "Sky Cinema Sci-fi Horror",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.sci.fihorror.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/sky.cinema.sci.fihorror.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sky_cinema_thriller",
+		"title": "Sky Cinema Thriller",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.thriller.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/sky.cinema.thriller.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "starz cinema",
+		"title": "Starz Cinema",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/starz.cinema.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/starz.cinema.eastern.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "starz_comedy",
+		"title": "Starz Comedy",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/starz.comedy.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/starz.comedy.eastern.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "starz_edge",
+		"title": "Starz Edge",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/starz.edge.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/starz.edge.eastern.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "starz_encore",
+		"title": "Starz Encore",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/starz.encore.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/starz.encore.eastern.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sony_movie_channel",
+		"title": "Sony Movie Channel",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sony.movie.channel.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/sony.movie.channel.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "mgm_us",
+		"title": "MGM US",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/mgm.usa.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/mgm.usa.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "hallmark_channel",
+		"title": "Hallmark Channel",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hallmark.channel.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/hallmark.channel.eastern.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "hallmark_drama",
+		"title": "Hallmark Drama",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hallmark.drama.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/hallmark.drama.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "hallmark_mysteries",
+		"title": "Hallmark Mysteries",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hallmark.movies.mysteries.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/hallmark.movies.mysteries.eastern.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "hot_bollywood",
+		"title": "HOT Bollywood",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hotbollywood.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/hotbollywood.il.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "hot_bombay",
+		"title": "HOT Bombay",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hotbombay.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/hotbombay.il.png"
+			}]
+		}]
+	}],
+	"author": {
+		"name": "Juan José"
+	},
+	"id": "GolTV_Movies",
+	"title": "Movies"
+}

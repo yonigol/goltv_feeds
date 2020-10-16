@@ -1,0 +1,448 @@
+{
+	"type": {
+		"value": "feed"
+	},
+	"entry": [{
+		"type": {
+			"value": "video"
+		},
+		"id": "i24",
+		"title": "i24",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/i24.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "http://www.dealood.com/content/uploads/images/June2019/I24-News-1[1]-large.png"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "keshet_news",
+		"title": "חדשות 12",
+		"summary": "",
+		"content": {
+			"src": "http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6460516/image_assets/19290100/cms.jpg?1525416100"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "ynet_news",
+		"title": "Ynet News",
+		"summary": "",
+		"content": {
+			"src": "https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&rebase=on",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6630315/image_assets/21621472/cms.jpg?1548060007"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "cnn_international",
+		"title": "CNN International",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/cnn.international.north.america.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.dailydot.com/wp-content/uploads/2020/04/cnn-international-logo.png"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "cnn_usa",
+		"title": "CNN USA",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/cnn.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://pmcdeadline2.files.wordpress.com/2016/11/cnn-logo-2.jpg?w=681&h=383&crop=1"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "fox_news",
+		"title": "Fox News",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/fox.news.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "Sky_News",
+		"title": "Sky News",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.news.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431222/image_assets/19067974/cms.jpg?1521493324"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "bbc_world",
+		"title": "BBC World",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/bbc.world.north.america.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431225/image_assets/19093925/cms.jpg?1525418359"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "euronews",
+		"title": "Euronews",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/euronews.ze.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.aerox.es/wp-content/uploads/2019/01/euronews_-1024x576.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "fox_business",
+		"title": "Fox Business",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/fox.business.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://pmcvariety.files.wordpress.com/2014/02/fox-business-network.jpg?w=1000"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "bloomberg",
+		"title": "Bloomberg",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/bloomberg.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431226/image_assets/19093930/cms.jpg?1521493517"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "cnbc",
+		"title": "CNBC",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/cnbc.world.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/cnbc.world.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "msnbc",
+		"title": "MSNBC",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/msnbc.usa.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/msnbc.usa.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "rt_uk",
+		"title": "RT UK",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/rt.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/rt.uk.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "telemundo",
+		"title": "Telemundo FL",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/telemundo.wscv.fort.lauderdale.fl.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/telemundo.wscv.fort.lauderdale.fl.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "univision",
+		"title": "Univisión",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/univision.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/univision.eastern.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "cbc",
+		"title": "CBC",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/cbc.network.ca.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/cbc.network.ca.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "CGTN",
+		"title": "CGTN",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/cgtn.news.ze.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/cgtn.news.ze.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "DW",
+		"title": "Deutsche Welle",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/deutsche.welle.ze.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/deutsche.welle.ze.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sabc_news",
+		"title": "SABC News",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sabc.news.ze.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/sabc.news.ze.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sky_news_au",
+		"title": "Sky News AU",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nsw.sydney.sky.news.au.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/nsw.sydney.sky.news.au.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "band_news",
+		"title": "Band News",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/band.news.br.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/band.news.br.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "globo_news",
+		"title": "Globo Noticias",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/globo.news.br.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/globo.news.br.png"
+			}]
+		}]
+	}],
+	"author": {
+		"name": "Juan José"
+	},
+	"id": "GolTV_News",
+	"title": "News"
+}
