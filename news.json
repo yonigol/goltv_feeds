@@ -177,6 +177,215 @@
 		"type": {
 			"value": "video"
 		},
+		"id": "abc_ny",
+		"title": "ABC New York",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/abc.wabc.new.york.ny.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/abc.wabc.new.york.ny.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "abc_fl",
+		"title": "ABC Miami",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/abc.wplg.miami.fl.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/abc.wplg.miami.fl.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "cbs_ny",
+		"title": "CBS New York",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/cbs.wcbs.new.york.ny.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/cbs.wcbs.new.york.ny.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "cbs_fl",
+		"title": "CBS Miami",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/cbs.wfor.miami.fl.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/cbs.wfor.miami.fl.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "fox_ny",
+		"title": "FOX New York",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/fox.wnyw.new.york.ny.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/fox.wnyw.new.york.ny.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "fox_fl",
+		"title": "FOX Miami",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/fox.wsvn.miami.fl.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/fox.wsvn.miami.fl.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "nbc_ny",
+		"title": "NBC New York",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nbc.wnbc.new.york.ny.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/nbc.wnbc.new.york.ny.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "nbc_fl",
+		"title": "NBC Miami",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nbc.wtvj.miami.fl.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/nbc.wtvj.miami.fl.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "telemundo",
+		"title": "Telemundo FL",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/telemundo.wscv.fort.lauderdale.fl.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://variety.com/wp-content/uploads/2014/03/telemundo-logo.jpg?w=1000"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "univision",
+		"title": "Univisión",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/univision.eastern.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://variety.com/wp-content/uploads/2018/02/univision-logo.jpg?w=1000"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "long_island_12",
+		"title": "News12 Long Island",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/news.12.long.island.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/news.12.long.island.us.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
 		"id": "fox_business",
 		"title": "Fox Business",
 		"summary": "",
@@ -266,44 +475,6 @@
 				"type": "image",
 				"key": "image_base",
 				"src": "https://mirror.umd.edu/xbmc/addons/gotham/plugin.video.rt/fanart.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "telemundo",
-		"title": "Telemundo FL",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/telemundo.wscv.fort.lauderdale.fl.us.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://variety.com/wp-content/uploads/2014/03/telemundo-logo.jpg?w=1000"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "univision",
-		"title": "Univisión",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/univision.eastern.us.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://variety.com/wp-content/uploads/2018/02/univision-logo.jpg?w=1000"
 			}]
 		}]
 	},{
