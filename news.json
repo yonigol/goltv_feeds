@@ -177,6 +177,101 @@
 		"type": {
 			"value": "video"
 		},
+		"id": "fox_business",
+		"title": "Fox Business",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/fox.business.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQipcqC3Gdrl_RonF3lxIrxrhJdf_gg0rUctQ&usqp=CAU"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "bloomberg",
+		"title": "Bloomberg",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/bloomberg.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431226/image_assets/19093930/cms.jpg?1521493517"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "cnbc",
+		"title": "CNBC",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/cnbc.world.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.kasparov.com/wp-content/uploads/2017/02/cnbccs.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "msnbc",
+		"title": "MSNBC",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/msnbc.usa.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://am14.mediaite.com/med/cnt/uploads/2019/11/msnbc_logo.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "rt_uk",
+		"title": "RT UK",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/rt.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://mirror.umd.edu/xbmc/addons/gotham/plugin.video.rt/fanart.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
 		"id": "abc_ny",
 		"title": "ABC New York",
 		"summary": "",
@@ -386,101 +481,6 @@
 		"type": {
 			"value": "video"
 		},
-		"id": "fox_business",
-		"title": "Fox Business",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/fox.business.us.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQipcqC3Gdrl_RonF3lxIrxrhJdf_gg0rUctQ&usqp=CAU"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "bloomberg",
-		"title": "Bloomberg",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/bloomberg.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431226/image_assets/19093930/cms.jpg?1521493517"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "cnbc",
-		"title": "CNBC",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/cnbc.world.us.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://www.kasparov.com/wp-content/uploads/2017/02/cnbccs.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "msnbc",
-		"title": "MSNBC",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/msnbc.usa.us.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://am14.mediaite.com/med/cnt/uploads/2019/11/msnbc_logo.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "rt_uk",
-		"title": "RT UK",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/rt.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://mirror.umd.edu/xbmc/addons/gotham/plugin.video.rt/fanart.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
 		"id": "cbc",
 		"title": "CBC",
 		"summary": "",
@@ -569,7 +569,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://i.vimeocdn.com/video/719194898.webp?mw=1100&mh=619&q=70"
+				"src": "https://www.livenewsnow.com/wp-content/uploads/2015/01/Sky-News-Au-1-640x410.jpeg"
 			}]
 		}]
 	},{
