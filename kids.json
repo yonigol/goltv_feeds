@@ -94,7 +94,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/disney.junior.canada.ca.png"
+				"src": "https://i.pinimg.com/originals/40/c9/bf/40c9bf7afdfbccdd4d594a375762c55c.png"
 			}]
 		}]
 	},{
@@ -113,7 +113,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/universal.kids.us.png"
+				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTj77f0U81QX6aHPU0nyv0pvuAf0s7lRlJ9VA&usqp=CAU"
 			}]
 		}]
 	},{
@@ -132,7 +132,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/starz.kids.family.pacific.us.png"
+				"src": "https://i.ytimg.com/vi/g4WBr41Dn7Y/maxresdefault.jpg"
 			}]
 		}]
 	},{
@@ -170,7 +170,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/nick.jr.us.png"
+				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRcr6ra5x0olDD82hX31oaOupgrjG87GZyeEA&usqp=CAU"
 			}]
 		}]
 	},{
@@ -208,7 +208,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/nickelodeon.usa.east.us.png"
+				"src": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d1dc5d90114971.5e0e2c1ddf7c5.png"
 			}]
 		}]
 	},{
@@ -227,7 +227,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/pbs.kids.us.png"
+				"src": "https://i.ytimg.com/vi/QoybbBvuHRE/maxresdefault.jpg"
 			}]
 		}]
 	},{
@@ -265,7 +265,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/knowledge.network.ca.png"
+				"src": "https://www.imaginecanada.ca/sites/default/files/2019-05/1_Wordmark.png"
 			}]
 		}]
 	},{
@@ -322,7 +322,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/baby.first.tv.us.png"
+				"src": "http://archive.boston.com/lifestyle/health/mdmama/BabyFirstTV.jpg"
 			}]
 		}]
 	},{
@@ -330,7 +330,26 @@
 			"value": "video"
 		},
 		"id": "baby_tv",
-		"title": "Baby TV",
+		"title": "Baby TV IL",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/baby.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.new4u.co.il/wp-content/uploads/2018/01/%D7%9C%D7%95%D7%92%D7%95-%D7%91%D7%99%D7%99%D7%91%D7%99-%D7%A2%D7%A0%D7%9F-%D7%A9%D7%9B%D7%91%D7%95%D7%AA.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "baby_tv",
+		"title": "Baby TV US",
 		"summary": "",
 		"content": {
 			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/baby.tv.us.m3u8",
@@ -341,7 +360,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/baby.tv.us.png"
+				"src": "https://imag.malavida.com/mvimgbig/download-fs/babytv-22214-1.jpg"
 			}]
 		}]
 	},{
@@ -360,7 +379,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/jimjam.ze.png"
+				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSE83nFNr5jMx_abKV_ezj30DJutSizyj2ClA&usqp=CAU"
 			}]
 		}]
 	},{
@@ -379,7 +398,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/cartoon.network.usa.eastern.us.png"
+				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRqOPD0jcBhaKfCNtZ5Kdzzb0BObWSfXiTaXg&usqp=CAU"
 			}]
 		}]
 	},{
@@ -513,25 +532,6 @@
 				"type": "image",
 				"key": "image_base",
 				"src": "https://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/luli.png"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "baby_tv",
-		"title": "Baby TV",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/baby.il.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://www.new4u.co.il/wp-content/uploads/2018/01/%D7%9C%D7%95%D7%92%D7%95-%D7%91%D7%99%D7%99%D7%91%D7%99-%D7%A2%D7%A0%D7%9F-%D7%A9%D7%9B%D7%91%D7%95%D7%AA.png"
 			}]
 		}]
 	},{
