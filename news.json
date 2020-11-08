@@ -189,7 +189,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/abc.wabc.new.york.ny.us.png"
+				"src": "https://cdn.abcotvs.net/abcotv/assets/news/wabc/images/logos/default_800x450.jpg"
 			}]
 		}]
 	},{
@@ -208,7 +208,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/abc.wplg.miami.fl.us.png"
+				"src": "https://arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/SQTVCA7KBBCUHHLGF5K5SAPM6Y.png"
 			}]
 		}]
 	},{
@@ -227,7 +227,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/cbs.wcbs.new.york.ny.us.png"
+				"src": "https://cbsnews2.cbsistatic.com/hub/i/r/2019/06/21/4c38de54-b327-4e24-9225-937b01441d85/thumbnail/1200x630/8bb5d1ebc47bc01b8f7458df714f0442/logo-cbsnny-1920x1080-new.jpg"
 			}]
 		}]
 	},{
@@ -246,7 +246,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/cbs.wfor.miami.fl.us.png"
+				"src": "https://pbs.twimg.com/media/ElbmH33XEAIONeV.jpg"
 			}]
 		}]
 	},{
@@ -265,7 +265,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/fox.wnyw.new.york.ny.us.png"
+				"src": "https://operationsplash.org/wp-content/uploads/2019/10/default-image.png"
 			}]
 		}]
 	},{
@@ -284,7 +284,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/fox.wsvn.miami.fl.us.png"
+				"src": "https://i1.wp.com/www.fybush.com/wp-content/uploads/2020/02/whdh.jpg?ssl=1"
 			}]
 		}]
 	},{
@@ -303,7 +303,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/nbc.wnbc.new.york.ny.us.png"
+				"src": "https://i1.wp.com/www.fybush.com/wp-content/uploads/2017/04/wnbc.jpg?ssl=1"
 			}]
 		}]
 	},{
@@ -322,7 +322,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/nbc.wtvj.miami.fl.us.png"
+				"src": "https://www.newscaststudio.com/wp-content/uploads/2012/07/wtvj_7.png"
 			}]
 		}]
 	},{
@@ -379,7 +379,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/news.12.long.island.us.png"
+				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCEHFbSJ6BTA5W8BsztUfii5FVGwq7Cg0YKg&usqp=CAU"
 			}]
 		}]
 	},{
