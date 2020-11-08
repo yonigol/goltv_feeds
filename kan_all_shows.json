@@ -29,8 +29,8 @@
 				"value": "feed"
 			},
 			"content": {
-				"type": "",
-				"src": ""
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2NzQmbWFpbkNhdElkPTM="
 			},
 			"screen_type": "5852aa84-0356-47db-aaa4-83ebb98cdc05"
 		},
