@@ -48,7 +48,7 @@
 		"title": "Reshet - Channel 13",
 		"summary": "",
 		"content": {
-			"src": "https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/channel13.il.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -67,7 +67,7 @@
 		"title": "חינוכית 23",
 		"summary": "",
 		"content": {
-			"src": "https://kanapi.media.kan.org.il/Redirector/ipbc/direct/kan-23/hls-live.m3u8",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/kankids.il.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -162,7 +162,7 @@
 		"title": "ערוץ הכנסת",
 		"summary": "",
 		"content": {
-			"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6460515/image_assets/19290096/cms.jpg?1523827363",
+			"src": "http://w3.013.gostreaming.tv:1935/Knesset/myStream/chunklist_w997581554.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -170,7 +170,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "http://w3.013.gostreaming.tv:1935/Knesset/myStream/chunklist_w997581554.m3u8"
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6460515/image_assets/19290096/cms.jpg?1523827363"
 			}]
 		}]
 	},{
