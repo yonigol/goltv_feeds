@@ -1,0 +1,3585 @@
+{
+	"type": {
+		"value": "feed"
+	},
+	"entry": [{
+			"id": "1674",
+			"title": "שעת נעילה",
+			"summary": "יצירה טלוויזיונית מטלטלת על ימיה הראשונים של מלחמת יום הכיפורים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/1/imgid=39730_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/1/imgid=39730_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/10/1/imgid=39730_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "",
+				"src": ""
+			},
+			"screen_type": "5852aa84-0356-47db-aaa4-83ebb98cdc05"
+		},
+		{
+			"id": "1700",
+			"title": "אחרי נעילה",
+			"summary": "מבט מעמיק על מלחמת יום הכיפורים - הקרבות, הפצעים, האנשים והשירים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/15/imgid=40559_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/15/imgid=40559_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/10/15/imgid=40559_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE3MDAmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1636",
+			"title": "מנאייכ",
+			"summary": "דרמת מתח משטרתית בכיכובם של שלום אסייג ועמוס תמם",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/21/imgid=36796_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/21/imgid=36796_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/7/21/imgid=36796_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MzYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1627",
+			"title": "טהרן",
+			"summary": "תמר רביניאן (ניב סולטן) היא סוכנת מוסד הנשלחת למשימתה הראשונה בלב טהרן",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/25/imgid=33995_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/25/imgid=33995_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/6/24/imgid=35721_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MjcmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1489",
+			"title": "שב\"ס",
+			"summary": "תכנית מערכונים המביאה את קורותיהם של הסוהרים והאסירים בכלא ענבים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/8/23/imgid=37746_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/8/23/imgid=37746_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/8/23/imgid=37746_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0ODkmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "47",
+			"title": "היהודים באים",
+			"summary": "סאטירה ישראלית החוזרת לרגעים הגדולים (וגם הקטנים) של העם היהודי",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/7/imgid=33071_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/7/imgid=33071_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/5/7/imgid=33071_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTQ3Jm1haW5DYXRJZD0z"
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1595",
+			"title": "זהו זה 2020",
+			"summary": "תוכנית הקאלט המיתולוגית נקראה לדגל וחוזרת לרגל המצב",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/3/26/imgid=30844_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/3/26/imgid=30844_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/3/30/imgid=30844_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1OTUmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "42",
+			"title": "המרדף",
+			"summary": "שעשועון טריוויה אינטליגנטי, זוכה פרס האקדמיה, בהנחיית עידו רוזנבלום",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/26/imgid=41075_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/26/imgid=41075_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/10/26/imgid=41075_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTQyJm1haW5DYXRJZD0z"
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1076",
+			"title": "כאן דוקו",
+			"summary": "יצירה דוקומנטרית, מקורית, מרגשת וחדשנית מבית כאן 11",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/11/imgid=16437_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/11/imgid=16437_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/7/11/imgid=16437_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEwNzYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1066",
+			"title": "זמן אמת",
+			"summary": "אסף ליברמן בתכנית תחקירים עם הסיפורים העיתונאיים החשובים ביותר",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/29/imgid=3672_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/29/imgid=3672_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3672_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEwNjYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1274",
+			"title": "אנחנו על המפית",
+			"summary": "השף ברק יחזקאלי פוגש את השפים שחוקרים את המטבח המקומי והעכשווי",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/8/25/imgid=37834_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/8/25/imgid=37834_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/8/25/imgid=37834_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyNzQmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1653",
+			"title": "רבנו",
+			"summary": "סדרה תיעודית בשלושה חלקים המביאה את סיפורו של רבי נחמן מברסלב",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/8/23/imgid=37742_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/8/23/imgid=37742_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/8/23/imgid=37742_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2NTMmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1671",
+			"title": "קול השכונה",
+			"summary": "מיטב האמנים באים להתארח ולהופיע על הגג של המנצח בן יפת בשכונת התקווה",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/1/imgid=39716_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/1/imgid=39716_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/10/1/imgid=39716_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2NzEmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1462",
+			"title": "האזרח גואטה",
+			"summary": "חבר הכנסת לשעבר יגאל גואטה יוצא לטפל בעוולות ועיוותים שפוגעים בציבור",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/5/14/imgid=12544_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/5/14/imgid=12544_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/14/imgid=12544_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0NjImbWFpbkNhdElkPTM="
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1292",
+			"title": "קופה ראשית",
+			"summary": "סדרה מוקומנטרית על המתרחש בסניף של רשת סופרמרקטים קטנה במרכז הארץ",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/12/31/imgid=26108_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/12/31/imgid=26108_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/12/31/imgid=26108_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyOTImbWFpbkNhdElkPTM="
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1614",
+			"title": "עוד ניפגש",
+			"summary": "חמישה ישראלים יוצאים למסע לחידוש הקשר עם קרובי משפחה שחזרו בתשובה",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/7/imgid=33105_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/7/imgid=33105_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/5/11/imgid=33270_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MTQmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1271",
+			"title": "שטוקהולם",
+			"summary": "דרמה קומית המבוססת על ספרה של נעה ידלין",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/6/imgid=31573_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/6/imgid=31573_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/4/6/imgid=31573_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyNzEmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1597",
+			"title": "הלילה עם לוסי וגורי",
+			"summary": "הדייט הלילי שלכם לימי הקורונה עם לוסי איוב וגורי אלפי",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/3/26/imgid=30939_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/3/26/imgid=30939_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/3/26/imgid=30939_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1OTcmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1206",
+			"title": "פעם בשבוע עם תם אהרון",
+			"summary": "תכנית הסאטירה של תם אהרון, עם נקודת מבט קצת אחרת על סדר היום שלנו",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/9/18/imgid=20742_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/9/18/imgid=20742_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/9/18/imgid=20742_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyMDYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1416",
+			"title": "מהצד השני עם גיא זהר",
+			"summary": "בימים של שטף בלתי פוסק של מסרים ואינפורמציה, גיא זהר מנסה לעשות סדר",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/15/imgid=36677_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/15/imgid=36677_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/7/15/imgid=36677_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0MTYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1633",
+			"title": "שמיים בצבע אדום",
+			"summary": "סדרה תיעודית בשלושה חלקים המביאה את סיפור הקמתה של מערכת \"כיפת ברזל\"",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/19/imgid=36678_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/19/imgid=36678_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/7/19/imgid=36678_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MzMmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1616",
+			"title": "מתחילים מאפס",
+			"summary": "שישה אנשים נפרדים מכל רכושם למשך שבועיים כדי לגלות מה באמת חשוב בחיים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/22/imgid=36866_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/22/imgid=36866_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/7/22/imgid=36866_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MTYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1629",
+			"title": "עושים לביתנו",
+			"summary": "סדרה תיעודית על ההחלטות הכלכליות שעיצבו את החברה הישראלית",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/6/10/imgid=34832_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/6/10/imgid=34832_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/6/10/imgid=34832_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MjkmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1605",
+			"title": "המהפכה הגאה",
+			"summary": "איך דווקא בלב המזה\"ת הדתי והשמרני, המהפכה הגאה כל כך הצליחה?",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/12/imgid=33313_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/12/imgid=33313_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/5/12/imgid=33313_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MDUmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1604",
+			"title": "ארוחת ארבע",
+			"summary": "השף ברק יחזקאלי מארח שף המביא עמו סיפורים אישיים הקשורים למנות שלו",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/10/imgid=31750_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/10/imgid=31750_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/4/7/imgid=31647_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MDQmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1623",
+			"title": "חי בגימל מהיכל התרבות",
+			"summary": "שלומי שבן מארח את מיטב אמני ישראל בתוכנית מיוחדת מהיכל התרבות",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/6/4/imgid=34537_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/6/4/imgid=34537_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/6/4/imgid=34537_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MjMmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1606",
+			"title": "מלחמה בלי שם",
+			"summary": "הסיפור שלא סופר על שנות הלחימה ברצועת הביטחון בלבנון",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/21/imgid=32250_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/21/imgid=32250_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/4/21/imgid=32250_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MDYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1628",
+			"title": "קצה חוט",
+			"summary": "סדרת דוקו פשע העוקבת אחרי תיקי רצח ופענוחם",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/6/17/imgid=35262_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/6/17/imgid=35262_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/6/17/imgid=35262_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MjgmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1522",
+			"title": "אלי כהן: לוחם 566",
+			"summary": "סדרה דוקומנטרית החושפת לראשונה את תיק הריגול של אלי כהן",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/27/imgid=32589_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/27/imgid=32589_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/5/3/imgid=32830_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MjImbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "41",
+			"title": "עד כאן!",
+			"summary": "מיכאל הנגבי וחבורתו בתכנית סאטירה בועטת ונשכנית",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/25/imgid=33994_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/25/imgid=33994_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/2/18/imgid=28739_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTQxJm1haW5DYXRJZD0z"
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1593",
+			"title": "כאן איתכם",
+			"summary": "תוכנית אולפן יומית בהנחיית רינת ספיבק שמיועדת לגיל השלישי",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/26/imgid=32468_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/26/imgid=32468_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/4/21/imgid=32237_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1OTMmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1594",
+			"title": "יחסים ויראליים עם שחר חסון ויוחאי ספונדר",
+			"summary": "שחר חסון ויוחאי ספונדר יוצאים כדי לפזר את ענני הפייק ניוז ואי הוודאות",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/3/25/imgid=30827_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/3/25/imgid=30827_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/3/25/imgid=30827_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1OTQmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1539",
+			"title": "הדבר הגדול המיוחד",
+			"summary": "כשיהודית מגלה שהיא חולה בסרטן, דניאלה מחליטה לקחת אותה למסע משנה חיים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/2/24/imgid=29010_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/2/24/imgid=29010_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/2/24/imgid=29010_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MzkmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1229",
+			"title": "סוכן תרבות",
+			"summary": "מגזין תרבות שבועי בהגשת קובי מידן",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2018/12/24/imgid=1635_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2018/12/24/imgid=1635_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=1635_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyMjkmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1129",
+			"title": "בואו לאכול איתי",
+			"summary": "תכנית הקאלט האהובה חוזרת בעונת זוגות צבעונית ומפתיעה",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/12/25/imgid=25803_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/12/25/imgid=25803_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/4/11/imgid=9425_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExMjkmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1509",
+			"title": "מתיר עגונות",
+			"summary": "אביב אלוש מגלם רב-בלש שמסייע לנשים מסורבות גט להשתחרר מן הכלא ההלכתי",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/10/22/imgid=22244_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/10/22/imgid=22244_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/10/23/imgid=22244_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MDkmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1555",
+			"title": "נייעס",
+			"summary": "סדרה תעודה המעניקה הצצה אל תוך עולם התקשורת החרדית",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/3/3/imgid=29571_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/3/3/imgid=29571_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/3/3/imgid=29571_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1NTUmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1644",
+			"title": "השריקה של התנועה",
+			"summary": "סיפורן של תנועות הנוער בארץ מזווית אישית ומורכבת של בוגריה ופורשיה",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/27/imgid=37120_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/27/imgid=37120_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/7/27/imgid=37122_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2NDQmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1426",
+			"title": "יוצאים מהכלל",
+			"summary": "רוני קובן יוצא לחוות מקרוב את חייהן של קהילות ייחודיות בשולי החברה",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/6/19/imgid=14979_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/6/19/imgid=14979_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/6/19/imgid=14980_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0MjYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1592",
+			"title": "סוכן תרבות - המהדורה היומית",
+			"summary": "מגזין יומי על תרבות וענייני היום - עם קובי מידן וגאולה אבן-סער",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/3/18/imgid=30447_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/3/18/imgid=30447_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/3/18/imgid=30447_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1OTImbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1613",
+			"title": "אירוויזיון - העזנו לחלום",
+			"summary": "הצצה אל מאחורי הקלעים של אירוויזיון 2019 בתל אביב",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/5/imgid=32955_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/5/imgid=32955_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/5/5/imgid=32955_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MTMmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1669",
+			"title": "פסטיבל ימי זמר בתיאטרון חולון",
+			"summary": "מבחר הופעות מפסטיבל המוזיקה הישראלית המרכזי בישראל, המצדיע לזמר העברי",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/9/29/imgid=39636_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/9/29/imgid=39636_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/10/11/imgid=39636_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2NjkmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1521",
+			"title": "אבא משתדל",
+			"summary": "דרמה קומית על יוסי (טל פרידמן), אב לילדה בעלת צרכים מיוחדים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/10/24/imgid=22347_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/10/24/imgid=22347_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/10/24/imgid=22347_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MjEmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1510",
+			"title": "80 וארבע",
+			"summary": "מה קורה כשמקימים גן ילדים בתוך דיור מוגן?",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/10/20/imgid=22135_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/10/20/imgid=22135_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/10/20/imgid=22135_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MTAmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1276",
+			"title": "סליחה על השאלה",
+			"summary": "התכנית ששואלת כל מה שרציתם לדעת, אבל חששתם לשאול",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/31/imgid=17576_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/31/imgid=17576_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/7/31/imgid=17576_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyNzYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1189",
+			"title": "פגישה עם רוני קובן",
+			"summary": "תכנית ראיונות אישית, זוכת פרס האקדמיה, בהובלת העיתונאי רוני קובן",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/11/4/imgid=41562_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/11/4/imgid=41562_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/1/27/imgid=25088_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExODkmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1640",
+			"title": "חוש היופי",
+			"summary": "כולנו חושבים שאנחנו יודעים מהו יופי, האם קיים יופי אוניברסלי?",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/28/imgid=37239_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/28/imgid=37239_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/7/28/imgid=37240_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2NDAmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1625",
+			"title": "תמונות ששינו את העולם",
+			"summary": "הסיפורים מאחורי התמונות המוכרות ביותר שתיעדו אירועים ששינו את העולם",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/6/15/imgid=35100_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/6/15/imgid=35100_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/6/15/imgid=35100_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MjUmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1665",
+			"title": "רכבת האוכל בווייטנאם",
+			"summary": "השף לוק נגוין נוסע ברכבת ברחבי וייטנאם ומבשל מנות מקומיות",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/9/25/imgid=39487_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/9/25/imgid=39487_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/9/25/imgid=39487_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2NjUmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1525",
+			"title": "אמריקה מהאוויר",
+			"summary": "מבט ממעוף הציפור על הערים השוקקות והמרתקות בארצות הברית",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/11/6/imgid=23043_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/11/6/imgid=23043_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/11/6/imgid=23043_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MjUmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1649",
+			"title": "ריטואלים",
+			"summary": "סדרה הסוקרת פולחנים מסביב לעולם",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/27/imgid=41143_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/27/imgid=41143_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/10/27/imgid=41144_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2NDkmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1366",
+			"title": "אתרים קדושים",
+			"summary": "סדרה דוקומנטרית שחוקרת אתרים ומבנים עתיקים בעלי משמעויות לדתות השונות",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3561_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3561_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/6/29/imgid=35944_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzNjYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1624",
+			"title": "רכיבה עולמית: הודו",
+			"summary": "קיידן קליינהאנס יוצא לבדו למסע חובק העולם על אופניים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/8/30/imgid=38101_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/8/30/imgid=38101_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/8/30/imgid=38101_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MjQmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1550",
+			"title": "משנים מקום משנים מזל?",
+			"summary": "מה עלה בגורלם של הזוגות שהכרנו בסדרה \"משנים מקום\"? ",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/9/8/imgid=38693_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/9/8/imgid=38693_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/9/8/imgid=38693_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1NTAmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1549",
+			"title": "סטוריז",
+			"summary": "סדרה דוקומנטרית העוקבת אחר חמישה צעירים שנולדו אל תוך דור המסכים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/1/16/imgid=26898_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/1/16/imgid=26898_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/1/15/imgid=26898_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1NDkmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1531",
+			"title": "מלכויות של מטה",
+			"summary": "סדרת תעודה בת שלושה חלקים המעניקה הצצה לעולמם של החסידים מנקודת מבטם",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/11/20/imgid=23832_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/11/20/imgid=23832_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/11/21/imgid=23832_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MzEmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1524",
+			"title": "מעברים",
+			"summary": "סדרת דוקו המלווה את הלוחמי המשטרה הצבאית במעברי הביטחון והמחסומים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/10/23/imgid=22291_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/10/23/imgid=22291_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/10/23/imgid=22291_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MjQmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1500",
+			"title": "תוצאות האמת",
+			"summary": "סדרת דוקו העוקבת אחר רגעי המתח של מערכות הבחירות הדרמטיות ביותר",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/1/28/imgid=27563_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/1/28/imgid=27563_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/1/28/imgid=27563_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MDAmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1536",
+			"title": "אולפן הקלטות",
+			"summary": "מעניקים הזדמנות של פעם בחיים להעניק מתנה בצורת שיר לסגירת מעגל",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/12/3/imgid=24542_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/12/3/imgid=24542_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/12/3/imgid=24542_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MzYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1480",
+			"title": "גאולה ולונדון",
+			"summary": "גאולה אבן-סער וירון לונדון נפגשים לתכנית תרבות קצת אחרת",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/2/imgid=15799_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/2/imgid=15799_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/28/imgid=12954_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0ODAmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1603",
+			"title": "חכמים בלילה",
+			"summary": "ירון לונדון ופאנל הקומיקאים שלו מנסים לענות על השאלות הכי מופרכות שיש",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/7/imgid=31642_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/7/imgid=31642_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/4/7/imgid=31642_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MDMmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1125",
+			"title": "טיול אחרי צבא",
+			"summary": "פבלו רוזנברג וגל תורן שוב אורזים את המוצ'ילות ויוצאים לטיול ביפן",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/12/29/imgid=25977_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/12/29/imgid=25977_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/12/29/imgid=25977_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExMjUmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1423",
+			"title": "חדר 101",
+			"summary": "עונה חדשה! עינב גלילי ממשיכה לברר ממה המרואיינים רוצים להיפטר לתמיד",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/3/14/imgid=6437_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/3/14/imgid=6437_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=6437_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0MjMmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1437",
+			"title": "ליגה ג'",
+			"summary": "דוקו על הליגה האחרונה בכדורגל שמלווה אנשים מהפריפריה הנשכחת של ישראל",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/6/23/imgid=15150_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/6/23/imgid=15150_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/6/23/imgid=15150_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0MzcmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1473",
+			"title": "וואי וואי וואי",
+			"summary": "סדרה דוקומנטרית של היוצר יאיר אגמון, המספרת את סיפורם של בני דור ה -Y ",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/11/imgid=16444_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/11/imgid=16444_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/7/11/imgid=16444_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0NzMmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1472",
+			"title": "טיול שורשים",
+			"summary": "סדרת דוקו שבה בכל פרק יוצאת דמות מוכרת למסע שורשים ",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/5/2/imgid=10803_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/5/2/imgid=10803_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/8/20/imgid=10803_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0NzImbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1467",
+			"title": "רילוקיישן",
+			"summary": "סדרה העוקבת אחרי שלוש משפחות ישראליות העוברות למדינה אחרת",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=12557_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=12557_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=12557_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0NjcmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1114",
+			"title": "כאן ספיישלים",
+			"summary": "תכניות ומשדרים מיוחדים ששודרו בכאן 11 בחגים ומועדים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/11/imgid=16439_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/11/imgid=16439_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/7/11/imgid=16439_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExMTQmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1617",
+			"title": "Eurovision: Europe Shine a Light",
+			"summary": "מופע מיוחד שחוגג את השירים והמוסיקאים שנבחרו להופיע באירוויזיון 2020",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/6/imgid=33036_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/6/imgid=33036_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MTcmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1390",
+			"title": "פמת\"א",
+			"summary": "מרסל, פרקליטה חדשה ושוטרת לשעבר, מוצאת את עצמה במרכז פרשיית שחיתות",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3540_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3540_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3540_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzOTAmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1494",
+			"title": "ניפגש בלובי",
+			"summary": "אורי גוטליב מצטרף לטיול מאורגן",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/8/1/imgid=17714_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/8/1/imgid=17714_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/8/1/imgid=17714_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0OTQmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1355",
+			"title": "מה נסגר?",
+			"summary": "רועי בר נתן עם כל הרגעים המצחיקים והמוזרים ששודרו במהלך השבוע",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/5/14/imgid=12556_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/5/14/imgid=12556_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=12556_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzNTUmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1464",
+			"title": "דוז פואה",
+			"summary": "סיפורו של זמר צרפתי הומוסקסואל ומוסלמי, הנקלע לקנוניה בין-לאומית",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/5/14/imgid=12554_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/5/14/imgid=12554_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/14/imgid=12554_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0NjQmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1413",
+			"title": "מעברות",
+			"summary": "סיפורן של המעברות, דרך חומרי ארכיון נדירים ועדויות יוצאות דופן",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/2/13/imgid=4626_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/2/13/imgid=4626_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=4626_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0MTMmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1433",
+			"title": "ימי בגין",
+			"summary": "ממהפך 77' ועד התפטרותו: סיפורו של ראש הממשלה שעשה שלום, והוביל למלחמה",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/3/18/imgid=6640_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/3/18/imgid=6640_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=6640_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0MzMmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1391",
+			"title": "המתמודדים",
+			"summary": "ענת גורן במסע קומי-טראגי בעקבות המתמודדים לבחירות המוניציפליות",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2018/12/16/imgid=1142_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2018/12/16/imgid=1142_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=991_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzOTEmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1542",
+			"title": "סליחה על השאלה בערבית",
+			"summary": "התכנית ששואלת כל מה שרציתם לדעת, אבל חששתם לשאול מערוץ מכאן",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/12/22/imgid=25544_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/12/22/imgid=25544_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/12/22/imgid=25544_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1NDImbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1384",
+			"title": "משתפים פעולה",
+			"summary": "החדר האפל בסכסוך הישראלי-פלסטיני: סיפורם של אלו שבחרו לסייע לישראל",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3481_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3481_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3481_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzODQmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1488",
+			"title": "המוח | מדריך למשתמש",
+			"summary": "מסע חוויתי ומונגש אל מסתורי המוח האנושי",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/4/imgid=15974_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/4/imgid=15974_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/1/27/imgid=15974_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0ODgmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1359",
+			"title": "העברים",
+			"summary": "סדרת סרטים תיעודיים העוסקים במשוררים ששיריהם נשזרו בהוויה הישראלית",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2018/12/13/imgid=989_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2018/12/13/imgid=989_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=989_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzNTkmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1386",
+			"title": "החיים על פי דביר",
+			"summary": "דביר בנדק יוצא לבדוק איך אפשר לשמור על הגוף ולהמנע מסכות בריאותיות",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2018/12/10/imgid=660_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2018/12/10/imgid=660_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=660_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzODYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1541",
+			"title": "בוכרא פי (א)למישמיש",
+			"summary": "סרט תעודי החושף את סיפורם של האחים פרנקל - חלוצי האנימציה הערבית",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/12/22/imgid=25441_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/12/22/imgid=25441_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/12/19/imgid=25441_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1NDEmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1398",
+			"title": "מונא",
+			"summary": "אהבה וזהות ישראלית נבחנות על רקע סבב לחימה נוסף בעזה",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2018/12/27/imgid=1882_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2018/12/27/imgid=1882_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=1882_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzOTgmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1246",
+			"title": "הפסיכולוגית",
+			"summary": "ד\"ר תותי ליבליך (קרן מור) היא פסיכולוגית המפתחת שיטת טיפול ב-3 דקות",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/6/18/imgid=14887_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/6/18/imgid=14887_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3612_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyNDYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1230",
+			"title": "מכאן ומשם",
+			"summary": "מכאן ומשם – מיטב הסרטונים של 'כאן דיגיטל' ומיטב הכתבות מ'חדשות הערב'",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/11/imgid=16442_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/11/imgid=16442_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/7/11/imgid=16442_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyMzAmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1236",
+			"title": "מתנה לחג | עם שאנן סטריט",
+			"summary": "סולן להקת \"הדג נחש\" במסע דוקומנטרי הבודק את השפעת החגים על חיי ישראלים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3548_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3548_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3548_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyMzYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1174",
+			"title": "בין השמשות",
+			"summary": "תכנית ראיונות אישית בהגשת דב אלבוים בתפר בין חול לקודש",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3490_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3490_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/28/imgid=3490_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExNzQmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1454",
+			"title": "ערב טוב אירופה",
+			"summary": "דפנה לוסטיג ואביה מלכה מלוות את ההכנות לאירוויזיון בתכנית מגזין יומית",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/4/11/imgid=9416_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/4/11/imgid=9416_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/28/imgid=9416_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0NTQmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1470",
+			"title": "אסקייפ",
+			"summary": "משחק הרפתקאות קבוצתי ותחרותי המתרחש בחדר בריחה",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/5/12/imgid=12450_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/5/12/imgid=12450_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/12/imgid=12455_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0NzAmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1291",
+			"title": "הקו האדום",
+			"summary": "ארבעה מתמודדים משחקים זה נגד זה, אבל גם נגד קו אדום אימתני",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/3/17/imgid=6578_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/3/17/imgid=6578_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3544_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyOTEmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1635",
+			"title": "תקומה",
+			"summary": "סדרת טלוויזיה תיעודית המספרת על ההיסטוריה של מדינת ישראל",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/21/imgid=36790_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/21/imgid=36790_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/7/21/imgid=36790_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MzUmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1493",
+			"title": "האיש שניסה למנוע מלחמה",
+			"summary": "דרמה. ניסיונותיו של לוי אשכול למנוע את מלחמת ששת הימים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/17/imgid=16792_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/17/imgid=16792_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/7/17/imgid=16792_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0OTMmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1165",
+			"title": "הנשר הגדול",
+			"summary": "חייו והגותו של הרמב\"ם, רבי משה בן מימון, גדול ההוגים בתולדות היהדות",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3527_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3527_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3527_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExNjUmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "64",
+			"title": "והארץ הייתה תוהו ובוהו",
+			"summary": "סדרת תעודה על תולדות ארץ ישראל מהזמן הקדום ביותר ועד העת החדשה בתקופה ",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3526_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3526_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3526_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTY0Jm1haW5DYXRJZD0z"
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1503",
+			"title": "הסיבוב השני",
+			"summary": "גיא זהר יוצא למסע בן שני פרקים בעקבות הבחירות החוזרות בישראל",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/9/15/imgid=20545_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/9/15/imgid=20545_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/9/15/imgid=20545_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MDMmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1280",
+			"title": "יחידה מעורבת | אריות הירדן",
+			"summary": "סדרת דוקו העוקבת אחר טירונות קרבית של אריות הירדן בה משרתים בנות ובנים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/28/imgid=3611_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/28/imgid=3611_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/28/imgid=3611_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyODAmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1279",
+			"title": "חסידיסטוק",
+			"summary": "סדרת דוקו על גיבורי התרבות של המוסיקה היהודית העכשווית בארץ ובעולם",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3501_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3501_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3501_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyNzkmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1267",
+			"title": "נישואין במשבר",
+			"summary": "דוקו דרמה העוקבת אחרי עשרה גברים ונשים במסע במדבר בעקבות פירוק הזוגיות",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/5/27/imgid=3550_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/5/27/imgid=3550_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3550_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyNjcmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1157",
+			"title": "לא תשקוט הארץ",
+			"summary": "4 פרקים שמתעדים לעומק ובהרחבה, ועם גילויים, את מלחמת יום הכיפורים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3518_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3518_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3518_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExNTcmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1177",
+			"title": "ירוסלם",
+			"summary": "סיפורה המורכב של קהילת יהודי אתיופיה בישראל: הדילמות, השורשים והקשיים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3521_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3521_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3521_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExNzcmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1167",
+			"title": "צייד המרגלים",
+			"summary": "סרט העוקב אחרי כמה סיפורי ריגול מקומיים, בשנותיה הראשונות של המדינה",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3525_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3525_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3525_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExNjcmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1213",
+			"title": "שליחי האל",
+			"summary": "תיעוד נדיר של נוער הגבעות במוקד סמלי בשומרון: חוות גלעד",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3524_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3524_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/28/imgid=3524_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyMTMmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1251",
+			"title": "צו האופנה",
+			"summary": "סיפור האופנה הישראלית לאורך מאה שנות התיישבות",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3520_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3520_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/28/imgid=3520_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyNTEmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1065",
+			"title": "קארפול קריוקי",
+			"summary": "תוכנית ראיונות מוזיקלית קומית עם ניקי גולדשטיין",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3555_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3555_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/28/imgid=3555_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEwNjUmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1241",
+			"title": "אירופה לשלוש דקות",
+			"summary": "שירי האירוויזיון, הסיפורים, התחושות והחוויות שמאחוריהם שנה אחר שנה",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3551_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3551_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3551_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyNDEmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1286",
+			"title": "סולו | הדרך לאירוויזיון הקלאסי לצעירים",
+			"summary": "מרינה מקסימיליאן מלווה מוסיקאים קלאסיים צעירים בדרך לאירוויזיון הקלאסי",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/2/21/imgid=5169_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/2/21/imgid=5169_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/28/imgid=3545_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyODYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1245",
+			"title": "בחזרה אל הרגע",
+			"summary": "סדרה בת 6 פרקים מסגרתה אנשים מבוגרים משתפים אותנו בניסיון ובידע שצברו",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3557_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3557_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/1/27/imgid=3557_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyNDUmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1170",
+			"title": "על המשמר",
+			"summary": "תכנית אקטואליה חברתית-כלכלית בהגשת לינוי בר גפן",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3536_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3536_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3536_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExNzAmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1173",
+			"title": "מדינת הגמדים",
+			"summary": "סיכום השבוע, מזווית אחרת. הגרסה הישראלית לפורמט הבריטי \"ניזוידס\"",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/3/17/imgid=6574_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/3/17/imgid=6574_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/28/imgid=3499_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExNzMmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1147",
+			"title": "קפיטליזם",
+			"summary": "התפתחות רעיון הקפיטליזם והשפעותיו הפוליטיות והחברתיות",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3559_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3559_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/28/imgid=3559_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExNDcmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1138",
+			"title": "שטח הפקר",
+			"summary": "גיא זהר מגיש את העונה החדשה של תכנית התחקירים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/2/26/imgid=5382_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/2/26/imgid=5382_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/2/26/imgid=5382_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExMzgmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "8007ff5c-6549-41b9-8a6b-12572715751c"
+		},
+		{
+			"id": "1607",
+			"title": "זיכרון בסלון",
+			"summary": "לזכור ולא לשכוח - בסלון. כאן מציגים מפגשי זיכרון מצולמים בסלון",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/20/imgid=32188_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/20/imgid=32188_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/4/20/imgid=32196_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MDcmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		}
+	]
+}
