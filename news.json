@@ -253,6 +253,44 @@
 		"type": {
 			"value": "video"
 		},
+		"id": "rai_news",
+		"title": "Rai News",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/rai.news.it.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/rai.news.it.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sky_tg_24",
+		"title": "Sky TG24",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.tg24.it.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/sky.tg24.it.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
 		"id": "rt_uk",
 		"title": "RT UK",
 		"summary": "",
