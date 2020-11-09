@@ -291,8 +291,27 @@
 		"type": {
 			"value": "video"
 		},
+		"id": "realmadrid_tv",
+		"title": "Realmadrid TV",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/real.madrid.es.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/real.madrid.es.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
 		"id": "sky_serie_a",
-		"title": "Sky Sports Serie A",
+		"title": "Sky Sport Serie A",
 		"summary": "",
 		"content": {
 			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.sport.serie.a.it.m3u8",
@@ -304,6 +323,44 @@
 				"type": "image",
 				"key": "image_base",
 				"src": "https://media.tv4.live/sky.sport.serie.a.it.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sky_sport_uno",
+		"title": "Sky Sport Uno",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.sport.uno.it.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/sky.sport.uno.it.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sky_sport_arena_ita",
+		"title": "Sky Sport Arena ITA",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.sport.arena.it.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/sky.sport.arena.it.png"
 			}]
 		}]
 	},{
