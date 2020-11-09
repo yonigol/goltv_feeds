@@ -7,7 +7,7 @@
 			"value": "video"
 		},
 		"id": "yes_action",
-		"title": "YES Action",
+		"title": "Yes Action",
 		"summary": "",
 		"content": {
 			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/yesaction.il.m3u8",
@@ -21,7 +21,64 @@
 				"src": "https://media.tv4.live/yesaction.il.png"
 			}]
 		}]
-	}, {
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "yes_comedy",
+		"title": "Yes Comedy",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/yes.movies.comady.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/yes.movies.comady.il.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "yes_drama",
+		"title": "Yes Drama",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/yes.movies.drama.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/yes.movies.drama.il.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "yes_kids",
+		"title": "Yes Kids",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/yes.movies.kids.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/yes.movies.kids.il.png"
+			}]
+		}]
+	},{
 		"type": {
 			"value": "video"
 		},
@@ -40,7 +97,7 @@
 				"src": "https://media.tv4.live/hotaction.il.png"
 			}]
 		}]
-	}, {
+	},{
 		"type": {
 			"value": "video"
 		},
