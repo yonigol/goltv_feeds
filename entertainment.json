@@ -101,6 +101,63 @@
 		"type": {
 			"value": "video"
 		},
+		"id": "yes_tv_action",
+		"title": "Yes TV Action",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/yesaction.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/yesaction.il.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "yes_tv_comedy",
+		"title": "Yes TV Action",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/yescomedy.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/yescomedy.il.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "yes_tv_drama",
+		"title": "Yes TV Drama",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/yesdrama.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/yesdrama.il.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
 		"id": "food_il",
 		"title": "ערוץ האוכל",
 		"summary": "",
@@ -114,6 +171,25 @@
 				"type": "image",
 				"key": "image_base",
 				"src": "https://upload.wikimedia.org/wikipedia/he/archive/9/94/20190101144245%21%D7%A2%D7%A8%D7%95%D7%A5_%D7%94%D7%90%D7%95%D7%9B%D7%9C.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "cooking",
+		"title": "The Cooking Channel",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/the.cooking.channel.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://cook.fnr.sndimg.com/content/dam/images/cook/editorial/homepage/cctv-recipeImage-default.jpg.rend.hgtvcom.616.347.suffix/1475775673528.jpeg"
 			}]
 		}]
 	},{
@@ -139,11 +215,11 @@
 		"type": {
 			"value": "video"
 		},
-		"id": "cooking",
-		"title": "The Cooking Channel",
+		"id": "food_network_it",
+		"title": "Food Network Italia",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/the.cooking.channel.us.m3u8",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/food.network.it.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -151,7 +227,26 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://cook.fnr.sndimg.com/content/dam/images/cook/editorial/homepage/cctv-recipeImage-default.jpg.rend.hgtvcom.616.347.suffix/1475775673528.jpeg"
+				"src": "https://pmcvariety.files.wordpress.com/2016/01/food-network-logo.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "canal_cocina",
+		"title": "Canal Cocina",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/canal.cocina.es.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/canal.cocina.es.png"
 			}]
 		}]
 	},{
@@ -285,6 +380,25 @@
 				"type": "image",
 				"key": "image_base",
 				"src": "https://travel.home.sndimg.com/content/dam/images/travel/editorial/homepage/TRVL-default-image_4x3.jpg.rend.hgtvcom.616.462.suffix/1539121995359.jpeg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "viajar",
+		"title": "Viajar",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/viajar.es.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/viajar.es.png"
 			}]
 		}]
 	},{
