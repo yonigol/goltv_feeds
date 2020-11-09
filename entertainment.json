@@ -158,6 +158,25 @@
 		"type": {
 			"value": "video"
 		},
+		"id": "yes_docu",
+		"title": "Yes Docu",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/yesdoku.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.tv4.live/yesdoku.il.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
 		"id": "food_il",
 		"title": "ערוץ האוכל",
 		"summary": "",
