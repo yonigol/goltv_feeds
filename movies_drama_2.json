@@ -367,11 +367,11 @@
 		"type": {
 			"value": "video"
 		},
-		"id": "lady_and_tramp",
-		"title": "Lady and the Tramp",
+		"id": "hidden_life",
+		"title": "A Hidden Life",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt8096832",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt5827916",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -379,18 +379,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://pbs.twimg.com/media/EG2NnUVU0AEMh5t.jpg:large"
+				"src": "https://i.pinimg.com/originals/af/1b/1b/af1b1b80776aa9b7119e5c7ead013f18.png"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "klaus",
-		"title": "Klaus",
+		"id": "dark_waters",
+		"title": "Dark Waterss",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt4729430",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt9071322",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -398,18 +398,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://image.yenisafak.com/resim/imagecrop/2019/12/20/09/28/resized_31381-c56c0cf5fgfg.jpg"
+				"src": "https://bsreviews.org/wp-content/uploads/2019/12/dark-waters-banner-672x372.png"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "pets_united",
-		"title": "Pets United",
+		"id": "ford_ferrari",
+		"title": "Ford Vs. Ferrari",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt11276598",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt1950186",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -417,18 +417,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://pixhost.icu/avaxhome/29/24/007c2429.jpg"
+				"src": "https://media.caradvice.com.au/image/private/q_auto/v1581399083/rkzx71auslyqdluudh9j.jpg"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "maleficient_evil",
-		"title": "Maleficent: Mistress of Evil",
+		"id": "the_good_liar",
+		"title": "The Good Liar",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt4777008",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt5563334",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -436,18 +436,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://lumiere-a.akamaihd.net/v1/images/p_incredible_maleficent2_mobile_b55ba119.jpeg?region=0,0,640,400"
+				"src": "https://i.pinimg.com/736x/db/8d/2f/db8d2f334619d700d52a7a3deb2f6ad8.jpg"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "adams_family",
-		"title": "The Addams Family",
+		"id": "copperfield",
+		"title": "The Personal History of David Copperfield",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt1620981",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt6439020",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -455,18 +455,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://image.tmdb.org/t/p/original/xS89uFXPKKwyWJgM7ljAmuAtDMh.jpg"
+				"src": "https://ohthatfilmblog.files.wordpress.com/2020/01/1408993876_6091640569001_6091635584001-vs.jpg?w=1200"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "scoob_zombieland",
-		"title": "cooby-Doo! Return to Zombie Island",
+		"id": "irishman",
+		"title": "The Irishman",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt10622136",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt1302006",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -474,18 +474,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://constantthinkercom.files.wordpress.com/2019/07/scooby-doo-return-to-zombie-island2.jpg?w=1280"
+				"src": "https://pbs.twimg.com/media/EOVns8dXsAA69Tn.png"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "superman_return",
-		"title": "The Death and Return of Superman",
+		"id": "the_king",
+		"title": "The King",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt11043546",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt7984766",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -493,18 +493,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://talkingcomicssite.files.wordpress.com/2020/01/the-death-and-return-of-superman.jpg"
+				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQSI2sP94Q0tDakODsgrXDDeSajdBfdH9vG5w&usqp=CAU"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "farmageddon",
-		"title": "Shaun the Sheep: Farmageddon",
+		"id": "joker",
+		"title": "Joker",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt6193408",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt7286456",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -512,18 +512,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://merl.reading.ac.uk/wp-content/uploads/sites/20/2019/09/770x430-v2.jpg"
+				"src": "https://lh3.googleusercontent.com/proxy/PABtTSzOp57k5P3Q2t-4bLF63yXxkBDZq7g053RxeaVTckcKO3Wd3cRKprXQtIQj5WbnYzhT9gn17WCutQe9RMrdAwsLmrSeYOjjPuNHGuURJbnMcx_Z6Q7TiPX_ucbG3fZyRFc7qORJ"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "steven_universe",
-		"title": "Steven Universe: The Movie",
+		"id": "the_goldfinch",
+		"title": "The Goldfinch",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt10515852",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt3864056",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -531,18 +531,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://i.ytimg.com/vi/b3fQr3ec-9o/maxresdefault.jpg"
+				"src": "https://www.kcrw.com/culture/articles/kcrw-partner-screening-the-goldfinch/@@images/image/page-header?v=1567659406.73"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "dora_gold",
-		"title": "Dora and the Lost City of Gold",
+		"id": "the_report",
+		"title": "The Report",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt7547410",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt8236336",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -550,18 +550,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://pixelleration.com/img/projects/dora/header.jpg"
+				"src": "https://d3i6fh83elv35t.cloudfront.net/static/2019/11/TheReport-1024x576.jpg"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "angr_birds_2",
-		"title": "Angry Birds 2",
+		"id": "incut_gems",
+		"title": "Uncut Gems",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt6095472",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt5727208",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -569,18 +569,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://www.mommyhoodcentral.com/wp-content/uploads/2019/08/angrybirds2movie-2.jpg"
+				"src": "https://www.brotherrice.org/wp-content/uploads/2020/03/uncut-gems-pic.jpg"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "batman_hush",
-		"title": "Batman: Hush",
+		"id": "bacurau",
+		"title": "Bacurau",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt8752440",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt2762506",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -588,18 +588,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://i1.wp.com/image.tmdb.org/t/p/w500/reR0uW3nOdfKJIPIkCFHugzAPnK.jpg"
+				"src": "https://lh3.googleusercontent.com/proxy/aJUsyfuiu7OymYyUJOpRzGmlufYVH4o-IHxWHbB3CENSYqEoqVBgLZCqR1CO85eOlP57UA31-kZBGckktQ8VkITHbP2bza_NMpizXmMGpDHLn2NlqMhUeYpCO3ygFsfZyksUbvVMyk5UuqCIc5wO9xn6uIY"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "weathering",
-		"title": "Weathering with You",
+		"id": "once_hollywood",
+		"title": "Once Upon a Time… in Hollywood",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt9426210",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt7131622",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -607,18 +607,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://i.ytimg.com/vi/Q6iK6DjV_iE/maxresdefault.jpg"
+				"src": "https://tribaltribune.org/wp-content/uploads/2019/08/D6FF18AC-B461-4E19-93FA-A9812E03FE70-2652-0000013F8E290605-900x506.jpg"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "pokemon_evolution",
-		"title": "Pokémon: Mewtwo Strikes Back - Evolution",
+		"id": "the_traitor",
+		"title": "The Traitor",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt8856470",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt7736478",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -626,18 +626,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://pbs.twimg.com/media/ERxH7-9XYAIZtGj.jpg"
+				"src": "https://i.ytimg.com/vi/z2ttC4VNn0s/maxresdefault.jpg"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "the_lion_king_new",
-		"title": "The Lion King",
+		"id": "rocketman",
+		"title": "Rocketman",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt6105098",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt2066051",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -645,18 +645,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://img01.products.bt.co.uk/content/dam/bt/portal/images/articles/tv/tv-films-LionKing-hero.jpg/_jcr_content/renditions/landscape-desktop.764.430.jpg"
+				"src": "https://louderthanadoubt.com/wp-content/uploads/2019/09/rocketman.jpg"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "spiderman_far",
-		"title": "Spider-Man: Far from Home",
+		"id": "pain_and_glory",
+		"title": "Pain and Glory",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt6320628",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt8291806",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -664,18 +664,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://tribaltribune.org/wp-content/uploads/2019/09/960x0.jpg"
+				"src": "https://see.news/wp-content/uploads/2020/02/pain-and-glory-banner.jpg"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "toy_story_4",
-		"title": "Toy Story 4",
+		"id": "highway",
+		"title": "The Highwaymen",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt1979376",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt1860242",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -683,7 +683,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2019/06/gdytwuy57967.jpg"
+				"src": "https://occ-0-299-300.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABR_1t7InhcHmM0TDTmPBsKw0C1VZxY2SrWW90gQrpYeU6v4xSUCtkGm_A_ABqiptFoEwFn3BTuQAH7IimyRk116KF56CDq5lX7qss7gQYSNjBy_YWwsFBB9PPHKYHA.jpg?r=ff7"
 			}]
 		}]
 	},{
