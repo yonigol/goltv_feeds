@@ -18,7 +18,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://www.yes.co.il/SiteCollectionImages/2020/channel/new_home_channels/cube/TV_ACTION_270X175.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/yes_action.jpg"
 			}]
 		}]
 	},{
@@ -37,7 +37,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://www.yes.co.il/SiteCollectionImages/2020/channel/new_home_channels/cube/MOVIES_COMEDY_270X175.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/yes_comedy.jpg"
 			}]
 		}]
 	},{
@@ -56,7 +56,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://www.yes.co.il/SiteCollectionImages/2020/channel/new_home_channels/cube/MOVIES_DRAMA_270X175.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/yes_drama.jpg"
 			}]
 		}]
 	},{
@@ -170,7 +170,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/sky.atlantic.uk.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_atlantic.jpg"
 			}]
 		}]
 	},{
@@ -189,7 +189,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/sky.cinema.action.uk.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_action.jpg"
 			}]
 		}]
 	},{
@@ -208,7 +208,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/sky.cinema.comedy.uk.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_comdy.jpg"
 			}]
 		}]
 	},{
@@ -227,7 +227,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/sky.cinema.disney.uk.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_disney.jpg"
 			}]
 		}]
 	},{
@@ -246,7 +246,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/sky.cinema.drama.uk.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_drama.jpg"
 			}]
 		}]
 	},{
@@ -265,7 +265,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/sky.cinema.family.uk.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_family.jpg"
 			}]
 		}]
 	},{
@@ -284,7 +284,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/sky.cinema.greats.uk.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_greats.jpg"
 			}]
 		}]
 	},{
@@ -303,7 +303,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/sky.cinema.hits.uk.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_hits.jpg"
 			}]
 		}]
 	},{
@@ -322,7 +322,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/sky.cinema.premiere.uk.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_premiere.jpg"
 			}]
 		}]
 	},{
@@ -341,7 +341,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/sky.cinema.sci.fihorror.uk.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_scifi.jpg"
 			}]
 		}]
 	},{
@@ -360,7 +360,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/sky.cinema.thriller.uk.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_thriller.jpg"
 			}]
 		}]
 	},{
@@ -379,7 +379,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/starz.cinema.eastern.us.png"
+				"src": "https://i.ytimg.com/vi/8XP7tX550FM/maxresdefault.jpg"
 			}]
 		}]
 	},{
@@ -398,7 +398,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/starz.comedy.eastern.us.png"
+				"src": "https://i.vimeocdn.com/video/473574756_1280x720.jpg"
 			}]
 		}]
 	},{
@@ -417,7 +417,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/starz.edge.eastern.us.png"
+				"src": "https://i.vimeocdn.com/video/473608829_1280x720.jpg"
 			}]
 		}]
 	},{
@@ -436,7 +436,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/starz.encore.eastern.us.png"
+				"src": "https://www.unblockitall.com/wp-content/uploads/2018/10/starz-encore-300x194.jpg"
 			}]
 		}]
 	},{
@@ -455,7 +455,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/sony.movie.channel.us.png"
+				"src": "https://upload.wikimedia.org/wikipedia/en/d/de/Sonymoviesuk.jpg"
 			}]
 		}]
 	},{
@@ -474,7 +474,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/mgm.usa.us.png"
+				"src": "https://static.hollywoodreporter.com/sites/default/files/2020/01/mgm_logo_-_h_-_2019-928x523.jpg"
 			}]
 		}]
 	},{
@@ -493,7 +493,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/hallmark.channel.eastern.us.png"
+				"src": "https://nitrocdn.com/tPmOtEiKDWAARLPbkNDMvQBJYLQuGGXp/assets/static/optimized/rev-cd2ff2c/wp-content/uploads/2018/05/2018-05-15_15-11-53-990x556.png"
 			}]
 		}]
 	},{
@@ -512,7 +512,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/hallmark.drama.us.png"
+				"src": "https://hallmark.brightspotcdn.com/dims4/default/34a991c/2147483647/strip/true/crop/853x448+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fhallmark-channel-brightspot.s3.amazonaws.com%2F32%2Fb0%2Fc3efe488a6f6152224adf464f152%2Fhp17-slide-hallmarkdrama-853x570-02-f.jpg"
 			}]
 		}]
 	},{
@@ -531,7 +531,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/hallmark.movies.mysteries.eastern.us.png"
+				"src": "https://media.soapoperanetwork.com/2014/12/hallmark_moviesandmysteries_01_640x400.jpg"
 			}]
 		}]
 	},{
@@ -550,7 +550,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/hotbollywood.il.png"
+				"src": "https://lh3.googleusercontent.com/proxy/mdIp2HHv1sJ9XtoHr5_4NTraVdfvc36jNnoeWlSskLrWbjiWl2GBbPpvnNka3duk0SBZB0mkkcwVQIdQMJ9W-VZFZW8USaAIgK3pF1M6WCdc8XyydMeOjQ"
 			}]
 		}]
 	},{
