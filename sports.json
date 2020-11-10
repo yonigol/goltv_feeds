@@ -227,7 +227,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/bein.laliga.es.png"
+				"src": "https://www.mundoplus.tv/img/03608656708deffab39679bfd2a7ea0e"
 			}]
 		}]
 	},{
@@ -246,7 +246,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/bein.sports.es.png"
+				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-E6iYjRw9drRvUMzla29dRGIL2prvRSMXuQ&usqp=CAU"
 			}]
 		}]
 	},{
@@ -265,7 +265,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/laligatv.uk.png"
+				"src": "https://lh3.googleusercontent.com/F-sCk1Grb90B21nor5TwwA4KLiRcf7uZ5-JFfAd0oE4i8x4jOgUTttw2loUEmoVAnqY"
 			}]
 		}]
 	},{
@@ -284,7 +284,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/laligatv.uk.png"
+				"src": "https://images2.imgbox.com/75/5a/LgPtF6wk_o.jpg"
 			}]
 		}]
 	},{
@@ -322,7 +322,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/sky.sport.serie.a.it.png"
+				"src": "https://www.digital-news.it/img/palinsesti/2018/09/1537543096-skysport-seriea.jpg"
 			}]
 		}]
 	},{
@@ -341,7 +341,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/sky.sport.uno.it.png"
+				"src": "https://1.bp.blogspot.com/-KUS7Ep2NsNw/XsPbUDS-KCI/AAAAAAAADBA/35I7H1Uk9jQkbm0fmlZrOksQ_GrQ6LB_QCLcBGAsYHQ/s640/Sky%2BSport%2B1%2BHD%2BUno%2BITALIA.jpg"
 			}]
 		}]
 	},{
@@ -379,7 +379,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/diiefbxx.ss.png"
+				"src": "https://matchannell.com/images/sky-premierleague.png"
 			}]
 		}]
 	},{
@@ -398,7 +398,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/bt.sport.1.uk.png"
+				"src": "https://1.bp.blogspot.com/--39tlGEDcKg/Xrlu4H9h8RI/AAAAAAAAC0w/8DKRvcdZkvcpB-UY2y37IcMYDOlsICceACLcBGAsYHQ/s640/bt%2Bsport%2B1%2Bhd.jpg"
 			}]
 		}]
 	},{
@@ -417,7 +417,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/bt.sport.2.uk.png"
+				"src": "https://1.bp.blogspot.com/-cdEdB1nUzR8/Xrlu04SX5YI/AAAAAAAAC0k/Drb931RKTSotbd4IsLSD-Nc-SXC0kwv0ACLcBGAsYHQ/s640/BT%2BSport%2B2%2BHD.jpg"
 			}]
 		}]
 	},{
@@ -436,7 +436,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/bt.sport.3.uk.png"
+				"src": "https://1.bp.blogspot.com/-PFtd5AUmEDw/Xrlu1_xJjEI/AAAAAAAAC0s/jOGcsAytVHgAqtLBvpYFjWBKJEimFfgDwCLcBGAsYHQ/s640/BT%2BSport%2B3%2BHD.jpg"
 			}]
 		}]
 	},{
@@ -455,7 +455,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/premier.1.uk.png"
+				"src": "https://1.bp.blogspot.com/-pod9UBc08z8/Xrlu40dJlfI/AAAAAAAAC04/sxtCnFk11fkYB-2IKzdl5rlMkCbUscBpwCLcBGAsYHQ/s640/premier%2Bsports%2B1.jpg"
 			}]
 		}]
 	},{
@@ -474,15 +474,15 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/premier.2.uk.png"
+				"src": "https://1.bp.blogspot.com/-fnCrbg-BMqo/Xrlu5M6OikI/AAAAAAAAC08/0gpEwW7EtLQz6BNx6RlWwV32RcZRgiJpACLcBGAsYHQ/s1200/premier%2Bsports%2B2.jpg"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "premier_3",
-		"title": "Premier 3",
+		"id": "freesports",
+		"title": "FreeSports",
 		"summary": "",
 		"content": {
 			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/premier.3.uk.m3u8",
@@ -493,7 +493,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/premier.3.uk.png"
+				"src": "https://www.tvwhirl.co.uk/media/115587/freesports2018b_9.jpg"
 			}]
 		}]
 	},{
@@ -512,7 +512,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/nbc.sports.network.us.png"
+				"src": "https://www.sailingscuttlebutt.com/wp-content/uploads/2016/03/NBCSN.jpg"
 			}]
 		}]
 	},{
@@ -531,7 +531,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/cbs.sports.network.usa.us.png"
+				"src": "https://sportsfly.cbsistatic.com/fly-1016/bundles/sportsmediacss/images/fantasy/default-article-image-large.png"
 			}]
 		}]
 	},{
@@ -550,7 +550,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/espn.deportes.us.png"
+				"src": "https://www.newswhip.com/wp-content/uploads/2018/02/Espndeportes-1080x625.png"
 			}]
 		}]
 	},{
@@ -569,7 +569,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/espn.us.png"
+				"src": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
 			}]
 		}]
 	},{
@@ -588,7 +588,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/fox.sports.1.us.png"
+				"src": "https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg"
 			}]
 		}]
 	},{
@@ -607,7 +607,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/fox.sports.2.us.png"
+				"src": "https://cdn.technadu.com/wp-content/uploads/2020/02/FS2.png"
 			}]
 		}]
 	},{
@@ -626,7 +626,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/nsw.sydney.bein.sports.1.au.png"
+				"src": "https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-AUSTRALIA.jpg"
 			}]
 		}]
 	},{
@@ -645,7 +645,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/nsw.sydney.bein.sports.2.au.png"
+				"src": "https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-AUSTRALIA.jpg"
 			}]
 		}]
 	},{
@@ -664,7 +664,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/nsw.sydney.bein.sports.3.au.png"
+				"src": "https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-AUSTRALIA.jpg"
 			}]
 		}]
 	},{
@@ -683,7 +683,102 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/nba.tv.usa.us.png"
+				"src": "https://pbs.twimg.com/profile_images/973556939799048192/A_lCFKM7.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "nba_pass_toronto",
+		"title": "NBA Toronto Raptors",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nba.toronto.raptors.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://thestreamable.com/media/pages/news/sling-tv-to-offer-free-preview-of-nba-league-pass-to-start-2019-2020-season/37f9fd0feb-1598051129/2019-10-21-at-7.27-am.jpeg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "nba_pass_clipper",
+		"title": "NBA L.A. Clippers",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nba.los.angeles.clippers.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://thestreamable.com/media/pages/news/sling-tv-to-offer-free-preview-of-nba-league-pass-to-start-2019-2020-season/37f9fd0feb-1598051129/2019-10-21-at-7.27-am.jpeg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "nba_pass_miami",
+		"title": "NBA Miami Heat",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nba.miami.heat.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://thestreamable.com/media/pages/news/sling-tv-to-offer-free-preview-of-nba-league-pass-to-start-2019-2020-season/37f9fd0feb-1598051129/2019-10-21-at-7.27-am.jpeg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "nba_pass_knicks",
+		"title": "NBA NY Knicks",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nba.new.york.knicks.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://thestreamable.com/media/pages/news/sling-tv-to-offer-free-preview-of-nba-league-pass-to-start-2019-2020-season/37f9fd0feb-1598051129/2019-10-21-at-7.27-am.jpeg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "nba_pass_rockets",
+		"title": "NBA Houston Rockets",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nba.houston.rockets.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://thestreamable.com/media/pages/news/sling-tv-to-offer-free-preview-of-nba-league-pass-to-start-2019-2020-season/37f9fd0feb-1598051129/2019-10-21-at-7.27-am.jpeg"
 			}]
 		}]
 	},{
@@ -702,7 +797,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/olympic.channel.us.png"
+				"src": "https://stillmed.olympic.org/media/Images/OlympicOrg/News/2017/06/16/2017-06-16-oc-logo-thumbnail.jpg"
 			}]
 		}]
 	},{
@@ -721,7 +816,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://mumbrella.com.au/wp-content/uploads/2020/01/Eurosport-New-Logo-full-size.jpg"
+				"src": "https://image.discovery.indazn.com/eu/v2/eu/image/?id=492216389022_image-header_pEs_1592239841000&quality=70"
 			}]
 		}]
 	},{
@@ -740,7 +835,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://tvepg.eu/img/united_kingdom/reviews/eurosport_2/news_eurosport_2_news.png"
+				"src": "https://image.discovery.indazn.com/eu/v2/eu/image/?id=492216389018_image-header_pEs_1592239841000"
 			}]
 		}]
 	}],
