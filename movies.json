@@ -10,7 +10,7 @@
 		"title": "Yes Action",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/yesaction.il.m3u8",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/yes.movies.action.il.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -18,7 +18,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/yesaction.il.png"
+				"src": "https://www.yes.co.il/SiteCollectionImages/2020/channel/new_home_channels/cube/TV_ACTION_270X175.png"
 			}]
 		}]
 	},{
@@ -37,7 +37,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/yes.movies.comady.il.png"
+				"src": "https://www.yes.co.il/SiteCollectionImages/2020/channel/new_home_channels/cube/MOVIES_COMEDY_270X175.png"
 			}]
 		}]
 	},{
@@ -56,7 +56,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/yes.movies.drama.il.png"
+				"src": "https://www.yes.co.il/SiteCollectionImages/2020/channel/new_home_channels/cube/MOVIES_DRAMA_270X175.png"
 			}]
 		}]
 	},{
@@ -75,7 +75,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/yes.movies.kids.il.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/yes_movies_kids.png"
 			}]
 		}]
 	},{
