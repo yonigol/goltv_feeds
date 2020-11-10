@@ -18,29 +18,10 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/hot3.il.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/hot3.png"
 			}]
 		}]
-	}, {
-		"type": {
-			"value": "video"
-		},
-		"id": "yes_3",
-		"title": "YES 3",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/yes3.il.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEKvlHUe3O-AA4JO2WQZCGBvt8Z4Z-pAOWqxjHBy33zHVGwQUp&s"
-			}]
-		}]
-	}, {
+	},{
 		"type": {
 			"value": "video"
 		},
