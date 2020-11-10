@@ -94,7 +94,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/hotaction.il.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/hotaction.jpg"
 			}]
 		}]
 	},{
@@ -113,7 +113,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/hotdrama.il.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/hotdrama.jpg"
 			}]
 		}]
 	},{
@@ -132,7 +132,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/hotfun.il.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/hotfun.jpg"
 			}]
 		}]
 	},{
@@ -151,7 +151,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://media.tv4.live/hotgold.il.png"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/hotgold.jpg"
 			}]
 		}]
 	},{
