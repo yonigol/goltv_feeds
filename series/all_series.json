@@ -1,1 +1,104 @@
-
+{
+	"type": {
+		"value": "feed"
+	},
+	"entry": [{
+			"id": "1674",
+			"title": "שעת נעילה",
+			"summary": "יצירה טלוויזיונית מטלטלת על ימיה הראשונים של מלחמת יום הכיפורים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/1/imgid=39730_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2NzQmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1700",
+			"title": "אחרי נעילה",
+			"summary": "מבט מעמיק על מלחמת יום הכיפורים - הקרבות, הפצעים, האנשים והשירים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/15/imgid=40559_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE3MDAmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1636",
+			"title": "מנאייכ",
+			"summary": "דרמת מתח משטרתית בכיכובם של שלום אסייג ועמוס תמם",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/21/imgid=36796_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MzYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "1607",
+			"title": "זיכרון בסלון",
+			"summary": "לזכור ולא לשכוח - בסלון. כאן מציגים מפגשי זיכרון מצולמים בסלון",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/20/imgid=32188_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/20/imgid=32188_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/4/20/imgid=32196_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MDcmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		}
+	]
+}
