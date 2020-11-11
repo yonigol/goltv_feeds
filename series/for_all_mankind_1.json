@@ -1,5 +1,6 @@
 {
 	"title": "For All Mankind",
+	"subtitle": "For All Mankind is an American science fiction web television series created and written by Ronald D. Moore, Matt Wolpert and Ben Nedivi and produced for Apple TV+. The series dramatizes an alternate history depicting what would have happened if the global space race had never ended after the Soviet Union succeeds in the first manned Moon landing.",
 	"type": {
 		"value": "feed"
 	},
@@ -8,7 +9,7 @@
 			"value": "feed"
 		},
 		"content": {
-			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9zZXJpZXMvZm9yX2FsbF9tYW5raW5kXzIuanNvbg=="
+			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvaXRlbUpzb25UVi5hc2h4P2NhdFR5cGU9MSZjYXRJZD0xNjc0Jm1haW5DYXRJZD0z"
 		}
 	}]
 }
