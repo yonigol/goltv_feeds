@@ -1,0 +1,203 @@
+{
+	"xmlns:applicaster": "http://schemas.applicaster.com/atom/1",
+	"xmlns": "http://www.w3.org/2005/Atom",
+	"xml:lang": "en-us",
+	"title": "The Spy",
+	"subtitle": "",
+	"link": {
+		"rel": "self",
+		"type": "atom",
+		"href": "http://www.example.com/news_feed.atom"
+	},
+	"updated": "",
+	"id": "the_spy",
+	"author": {
+		"name": "GolTV"
+	},
+	"entry": [{
+			"type": {
+				"value": "video"
+			},
+			"title": "01 - The Immigrant",
+			"summary": "Desperate to get an agent inside Syria, Mossad recruits Egyptian-born Eli and puts him through a crash course in spycraft.",
+			"id": "pre",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/636/broadcasters/737/vod_items/7208678/8634c8002c89ecb1e2ca/prog_index_ipad.m3u8?hdnea=exp=1569159212~acl=%2F%2A~hmac=a44a2ab02e154e594a52aea05bb6abe3d5c9dd5ec2f9e9bfbc40efdf70c09f56"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7208678/image_assets/23229101/cms.jpg?1568554412",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "02 - What's new, Buenos Aires?",
+			"summary": "Solidifying his cover identity in Buenos Aires, Eli makes a serendipitous connection. But his fervor puts the entire mission in jeopardy.",
+			"id": "02",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/636/broadcasters/737/vod_items/7208681/d8700779ab667872f761/prog_index_ipad.m3u8?hdnea=exp=1569168394~acl=%2F%2A~hmac=f01838059aefc70d5061a015b6837187fcbc005c60b0aa5104ccebe7dbf47fef"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7208681/image_assets/23229540/cms.jpg?1568563594",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "03 - Alone in Damascus",
+			"summary": "Eli makes an influential ally. Though early operations in Damascus quickly bear fruit, Dan fears Eli's bold methods will get him killed.",
+			"id": "03",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/636/broadcasters/737/vod_items/7208680/55af416816e3eb12f941/prog_index_ipad.m3u8?hdnea=exp=1569167585~acl=%2F%2A~hmac=ea8cc9d70ae90a0fe8f8749ca8c84323a871eeeab7336e430f0bd4c8ecc7133f"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7208680/image_assets/23229437/cms.jpg?1568562783",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "04 - The Odd Couples",
+			"summary": "Eli's mission takes a dangerous turn as he tries to report on a secret military installation. Back home, Nadia struggles to raise the children alone.",
+			"id": "04",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/636/broadcasters/737/vod_items/7208679/add70b04d5e27598c2ef/prog_index_ipad.m3u8?hdnea=exp=1569167653~acl=%2F%2A~hmac=2454b77c705ea58a71b2e118ad91ebb44ab57f964f22cb5f84369481565dbd71"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7208679/image_assets/23229453/cms.jpg?1568562852",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "05 - Fish Gotta Swim",
+			"summary": "After a bloody coup, Eli insinuates himself closer to the center of Syrian power. But the emotional demands of the job take a severe toll.",
+			"id": "05",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/636/broadcasters/737/vod_items/7208683/7b135fc9c2862b556594/prog_index_ipad.m3u8?hdnea=exp=1569172365~acl=%2F%2A~hmac=a7c97b6c5e64f81e469b3c45ca5e0de4d3047d74a109840aceffd3a8761836e7"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7208683/image_assets/23229668/cms.jpg?1568567565",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "06 - Home",
+			"summary": "While Israel prepares to strike a Syrian target identified by Eli, suspicion closes in around him. Retaliation is swift -- and ruthless.",
+			"id": "06",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/636/broadcasters/737/vod_items/7208682/4dbad7566a93063d7219/prog_index_ipad.m3u8?hdnea=exp=1569172442~acl=%2F%2A~hmac=de6b7b9d30aa7c33f252ed3860cde1b6f0d994f44e0f5f3440d97529e047396a"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7208682/image_assets/23229675/cms.jpg?1568567641",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		}
+	],
+	"type": {
+		"value": "feed"
+	}
+}

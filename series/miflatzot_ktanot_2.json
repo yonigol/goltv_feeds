@@ -1,0 +1,263 @@
+{
+	"xmlns:applicaster": "http://schemas.applicaster.com/atom/1",
+	"xmlns": "http://www.w3.org/2005/Atom",
+	"xml:lang": "en-us",
+	"title": "מפלצות קטנות",
+	"subtitle": "",
+	"link": {
+		"rel": "self",
+		"type": "atom",
+		"href": "http://www.example.com/news_feed.atom"
+	},
+	"updated": "",
+	"id": "miflatzot",
+	"author": {
+		"name": "GolTV"
+	},
+	"entry": [{
+			"type": {
+				"value": "video"
+			},
+			"title": "מאחורי הקלעים של מפלצות קטנות",
+			"summary": "רגע לפני העונה החדשה של ׳מפלצות קטנות׳ בואו לראות איך נראה מאחורי הקלעים של הסדרה!",
+			"id": "pre",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/7239416/4b2b85e62d0f4636d341/prog_index_ipad.m3u8?hdnea=exp=1580595985~acl=%2F%2A~hmac=975f758b6ac748152a610997db6cb9a8057cbadef44421ecedc801475ba0b138"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7249325/image_assets/24038642/cms.jpg?1579991829",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "פרק 1: פיטר פן",
+			"summary": "שחר מביים הצגת `פיטר פן` בגן ונקלע למאבקי יוקרה ואגו עם הילדים משתתפי ההצגה ובעיקר עם ההורים שרוצים את טובת הילד הפרטי שלהם בלבד.",
+			"id": "02",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/7240131/4ef029146b2ae4f1d7c4/prog_index_ipad.m3u8?hdnea=exp=1580595982~acl=%2F%2A~hmac=31c4f682b13e4bd67dfc4038c4881d3128c7fd1040b6e184906229054431d919"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7249324/image_assets/24038634/cms.jpg?1579991771",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "פרק 2: לא ליד הילדים",
+			"summary": "שחר מגלה שהגננת לא תלתה את הציורים של נום נום בגן, רינה מגלה שהוריה אכלו גלידה בלעדיה ומענישה את כולם ואריק ולירית מגלים שאי אפשר לריב לא ליד הילדים",
+			"id": "03",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/7243456/3427447c94b65c112edd/prog_index_ipad.m3u8?hdnea=exp=1580595980~acl=%2F%2A~hmac=00a26cbeb22b56319fde24e8e557b5a08281379d3c1d36a9ffc7b58de3e66d19"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7249323/image_assets/24038625/cms.jpg?1579991709",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "פרק 3: לא כל מה שרוצים אפשר",
+			"summary": "נועם הבן ונועם הבת מתכננים תמונה משפחתית משותפת, לירית יוצאת למסע נקמה לא מתוכנן, עידן ושרון מתכננים סוף סוף חופשה זוגית, אבל לרינה יש תוכניות אחרות...",
+			"id": "04",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/7246412/f80eb629108cf8b66725/prog_index_ipad.m3u8?hdnea=exp=1580595978~acl=%2F%2A~hmac=60e9d49629df9ae89990d0d4f2b4618d20b3752eb38939b2bafe71ae179e89d1"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7249322/image_assets/24038618/cms.jpg?1579991661",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "פרק 4: לא הולכים הביתה",
+			"summary": "דדה ונועם הבן עושים את המוות לסבא וסבתא בגינה. בינתיים בבית, רינה ואיגי שוברים את הכלים (ואת הפלאפון ואת המשקפיים...) ועידן מאבד את זה.",
+			"id": "05",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/7249281/9c75e39ef8785575f8a3/prog_index_ipad.m3u8?hdnea=exp=1580595977~acl=%2F%2A~hmac=4f3de8a715d1414d431fc85c65fa75bce45492fcdd0a11fc4afeb431e2c493ca"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7249321/image_assets/24038611/cms.jpg?1579991608",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "פרק 5: יום הולדת חגיגה נחמדת",
+			"summary": "לנועם הבן יש יומולדת, מאיה משתדלת לארגן לו את האירוע המושלם, אבל לא הכל מצליח כמתוכנן. עידן מנסה להתיש את רינה ואיגי כדי לזכות בלילה אחד עם אשתו ולירית מגלה שדדה תקוע בשירותים עם גבר זר",
+			"id": "06",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/7253135/f4e87a4be9de21323efd/prog_index_ipad.m3u8?hdnea=exp=1580595975~acl=%2F%2A~hmac=4824ecd590274a28b31f0ef01a3408b6b59bd3047925187dbe529e00d0588d16"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7249320/image_assets/24038604/cms.jpg?1579991552",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "פרק 6: כסף לא גדל על העצים",
+			"summary": "דדה שותל את הכסף של אמא שלו בגינה כדי שיצמח עוד ומוצא יונה מתה, הילדים מתקשים להבין שהיונה לא ישנה, ההורים מתחבטים איך לספר לילדיהם על מהו מוות וחוטפים שיעור על החיים עצמם",
+			"id": "07",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/7256839/8128d76e917c6e3e658f/prog_index_ipad.m3u8?hdnea=exp=1580595972~acl=%2F%2A~hmac=0009e530b9ebf68d589803da6e9a97bd190967bb5428a4e3c0ea19186c356011"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7173869/image_assets/24038597/cms.jpg?1579991490",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "פרק 7: מסיבת יום העצמאות",
+			"summary": "בפרק הסיום של העונה, סודות נחשפים ודברים שאי אפשר להתחרט עלייהם נאמרים, במסיבת העצמאות בשכונה כשבמקביל לילדים נמאס מההורים והם מתכננים נקמה",
+			"id": "10",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/7258107/0898a5a5deb0a3b2535a/prog_index_ipad.m3u8?hdnea=exp=1580595971~acl=%2F%2A~hmac=1aea462217293fe5941d3de10129684e0da4a744612b11c595671ffcc90165ff"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7173868/image_assets/24038590/cms.jpg?1579991424",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		}
+	],
+	"type": {
+		"value": "feed"
+	}
+}

@@ -1,0 +1,263 @@
+{
+	"xmlns:applicaster": "http://schemas.applicaster.com/atom/1",
+	"xmlns": "http://www.w3.org/2005/Atom",
+	"xml:lang": "en-us",
+	"title": "הרמון",
+	"subtitle": "",
+	"link": {
+		"rel": "self",
+		"type": "atom",
+		"href": "http://www.example.com/news_feed.atom"
+	},
+	"updated": "",
+	"id": "harmon",
+	"author": {
+		"name": "GolTV"
+	},
+	"entry": [{
+			"type": {
+				"value": "video"
+			},
+			"title": "עונה 1 - פרק 1",
+			"summary": "",
+			"id": "pre",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/6374683/35604d4f4eb15ed2f10e/prog_index_ipad.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6440246/image_assets/19136381/cms.jpg?1521793158",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "עונה 1 - פרק 2",
+			"summary": "",
+			"id": "02",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/6374684/afedefb8c0cb8cf0c24d/prog_index_ipad.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6440245/image_assets/19136375/cms.jpg?1521793147",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "עונה 1 - פרק 3",
+			"summary": "",
+			"id": "03",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/6363075/54ddace47df84fecafef/prog_index_ipad.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6440244/image_assets/19136364/cms.jpg?1521793134",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "עונה 1 - פרק 4",
+			"summary": "",
+			"id": "04",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/6372383/5253e0642182d91916d0/prog_index_ipad.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6440243/image_assets/19136357/cms.jpg?1521793120",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "עונה 1 - פרק 5",
+			"summary": "",
+			"id": "05",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/6372384/593a6296faae1ebf22b0/prog_index_ipad.m3u8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6440242/image_assets/19136353/cms.jpg?1521793107",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "עונה 1 - פרק 6",
+			"summary": "",
+			"id": "06",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/6381014/c7bdea86be9a51232b1d/prog_index_ipad.m3u8?hdnea=exp=1569146181~acl=%2F%2A~hmac=c728c3bb0fe1da006774d50ac29b3236987fbc4719323109fe68e6f27033a000"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7133009/image_assets/23228481/cms.jpg?1568541605",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "עונה 1 - פרק 7",
+			"summary": "",
+			"id": "07",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/6389627/a807929bf5ee6bc0f0a4/prog_index_ipad.m3u8?hdnea=exp=1569146183~acl=%2F%2A~hmac=562e18549fc3727c38acfbef97a967e5d7f58051a3773198236555ac445d21ae"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7133010/image_assets/23228488/cms.jpg?1568541620",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "עונה 1 - פרק 8",
+			"summary": "",
+			"id": "08",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/6426152/c5e515273952c2b7bc84/prog_index_ipad.m3u8?hdnea=exp=1569146184~acl=%2F%2A~hmac=f270877531235050fda95a4037aef47fb500c6b7ec8be9c3221712d6e6b27950"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7133011/image_assets/23228495/cms.jpg?1568541628",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		}
+	],
+	"type": {
+		"value": "feed"
+	}
+}

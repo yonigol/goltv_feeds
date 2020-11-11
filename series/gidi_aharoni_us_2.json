@@ -1,0 +1,233 @@
+{
+	"xmlns:applicaster": "http://schemas.applicaster.com/atom/1",
+	"xmlns": "http://www.w3.org/2005/Atom",
+	"xml:lang": "en-us",
+	"title": "גידי ואהרוני באמריקה",
+	"subtitle": "",
+	"link": {
+		"rel": "self",
+		"type": "atom",
+		"href": "http://www.example.com/news_feed.atom"
+	},
+	"updated": "",
+	"id": "gidi_aharoni",
+	"author": {
+		"name": "GolTV"
+	},
+	"entry": [{
+			"type": {
+				"value": "video"
+			},
+			"title": "פרק 1: המסע מתחיל",
+			"summary": "המסע המופלא של אהרוני וגידי, עונה 7, פרק 1: המסע מתחיל",
+			"id": "pre",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/6810696/735671e0fcbb59a9326d/prog_index_ipad.m3u8?hdnea=exp=1557607096~acl=%2F%2A~hmac=8bbe8c4fb2b2c97b8413c3122d1c178730cdb8f5216d3d580d19c0d98fbc15b4"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6878676/image_assets/21695099/cms.jpg?1549234805",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "פרק 2: ניו יורק ופילדלפיה",
+			"summary": "המסע המופלא של אהרוני וגידי, עונה 7, פרק 2: ניו יורק ופילדלפיה",
+			"id": "02",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/6819425/8bd6adc3b4d7248bbac9/prog_index_ipad.m3u8?hdnea=exp=1569144069~acl=%2F%2A~hmac=2c8ea1253158d673d9430faa2eef88b0b89fffddc9c58a18de584d8da0927f7d"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6878676/image_assets/21695099/cms.jpg?1549234805",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "פרק 3: הסוד שמאחורי ההמבורגר",
+			"summary": "המסע המופלא של אהרוני וגידי, עונה 7, פרק 3: הסוד שמאחורי ההמבורגר",
+			"id": "03",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/6825070/b2d046d6453392bb28df/prog_index_ipad.m3u8?hdnea=exp=1569144071~acl=%2F%2A~hmac=dae14da4dac8ae0f3be271c643ec3a41a8425aeac989de37cc143b887b53af3c"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6878676/image_assets/21695099/cms.jpg?1549234805",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "פרק 4: המאפיה האיטלקית",
+			"summary": "המסע המופלא של אהרוני וגידי, עונה 7, פרק 4: המאפיה האיטלקית",
+			"id": "04",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/6834580/1e4cd9d53a4b6f85b847/prog_index_ipad.m3u8?hdnea=exp=1569144073~acl=%2F%2A~hmac=f99ea5071f5b79f73534807368365149e38c05368542c66977920159b74d75ac"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6878676/image_assets/21695099/cms.jpg?1549234805",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "פרק 5: המערב הפרוע",
+			"summary": "המסע המופלא של אהרוני וגידי, עונה 7, פרק 5: המערב הפרוע",
+			"id": "05",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/6840213/b132c1eff1f505da0d7c/prog_index_ipad.m3u8?hdnea=exp=1569144074~acl=%2F%2A~hmac=0e2eee8acb7634ee317ab9ba15f9a0edec7517efd1542ad31b3adf78af2d982b"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6878676/image_assets/21695099/cms.jpg?1549234805",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "פרק 6: המבורגר מפלצתי",
+			"summary": "מסע המופלא של אהרוני וגידי, עונה  7, פרק 6: המבורגר מפלצתי",
+			"id": "06",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/6847976/1f493e37b6f4d8a5565f/prog_index_ipad.m3u8?hdnea=exp=1569144075~acl=%2F%2A~hmac=2adc09f0d2629bb9dd161ed320d327395c637905b9d3daff1f3f60a27b4b22c8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6878676/image_assets/21695099/cms.jpg?1549234805",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "פרק 7: פרק סיום עונה",
+			"summary": "",
+			"id": "07",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/32/broadcasters/1/vod_items/6861439/80f732e70038b3d2c6f5/prog_index_ipad.m3u8?hdnea=exp=1569144077~acl=%2F%2A~hmac=1d733df849a89a6e79a64d91b8f30bd02932dafc89518d9dd6199b453fd500ee"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6878676/image_assets/21695099/cms.jpg?1549234805",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		}
+	],
+	"type": {
+		"value": "feed"
+	}
+}

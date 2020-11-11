@@ -1,0 +1,263 @@
+{
+	"xmlns:applicaster": "http://schemas.applicaster.com/atom/1",
+	"xmlns": "http://www.w3.org/2005/Atom",
+	"xml:lang": "en-us",
+	"title": "Little America",
+	"subtitle": "For All Mankind is an American science fiction web television series created and written by Ronald D. Moore, Matt Wolpert and Ben Nedivi and produced for Apple TV+. The series dramatizes an alternate history depicting what would have happened if the global space race had never ended after the Soviet Union succeeds in the first manned Moon landing.",
+	"link": {
+		"rel": "self",
+		"type": "atom",
+		"href": "http://www.example.com/news_feed.atom"
+	},
+	"updated": "",
+	"id": "Little America",
+	"author": {
+		"name": "GolTV"
+	},
+	"entry": [{
+			"type": {
+				"value": "video"
+			},
+			"title": "01 - The Manager",
+			"summary": "After his parents are deported, 12-year-old Kabir is left to run the family's motel.",
+			"id": "Red Moon",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7261833/00e7c14a35e654b854e0/prog_index_ipad.m3u8?hdnea=exp=1580662306~acl=%2F%2A~hmac=ad48ed117a21afcbe81704fc088cc560340bc24d371af6f75f9b6fbb9408b187"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7261833/image_assets/24060356/cms.jpg?1580057591",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "02 - The Jaguar",
+			"summary": "An undocumented high school student's life is changed by an urban squash coach.",
+			"id": "02",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7261836/2c068c1c63ff528c321d/prog_index_ipad.m3u8?hdnea=exp=1580662308~acl=%2F%2A~hmac=5ec3591413458e1cb3c5c540277d9ac84144460320b593552a957a0192c2a856"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7261836/image_assets/24060363/cms.jpg?1580057652",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "03 - The Cowboy",
+			"summary": "A Nigerian student finds a sense of connection through the cowboy culture in Oklahoma.",
+			"id": "03",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/636/broadcasters/737/vod_items/7222728/4f5a555b084e39bfd122/prog_index_ipad.m3u8?hdnea=exp=1571690718~acl=%2F%2A~hmac=622de0f0f57055a35a0f0d0c10e4387745b2d209d10bfa0f435b08bea7dc3eaa"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7261834/image_assets/24060370/cms.jpg?1580057792",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "04 - The Silence",
+			"summary": "",
+			"id": "04",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7261840/67f42b4b2feca8814a79/prog_index_ipad.m3u8?hdnea=exp=1588406371~acl=%2F%2A~hmac=39c5e4f33aeb69317b0e58a12b8bb2ea0194e7ddbb809cd5a72a7bca07e4c5b6"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7261840/image_assets/24535715/cms.jpg?1587801640",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "05 - The Baker",
+			"summary": "",
+			"id": "05",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7261837/68352ebc5282cee7afa1/prog_index_ipad.m3u8?hdnea=exp=1588406496~acl=%2F%2A~hmac=55af611d57e359272f78642749685a95949c110ebf37b150b293fcc01a1bc098"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7261837/image_assets/24535722/cms.jpg?1587801741",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "06 - The Grand Prize Expo Winners",
+			"summary": "",
+			"id": "06",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7261838/0b641cb0ed90840d072e/prog_index_ipad.m3u8?hdnea=exp=1588406551~acl=%2F%2A~hmac=1cc418c81fc25fae0f7d86a328aa65cee703a951327ec69fe827f1fbcb453dda"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7261838/image_assets/24535729/cms.jpg?1587801802",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "07 - The Rock",
+			"summary": "",
+			"id": "07",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7261839/3e14b718f8ee0a33d3bd/prog_index_ipad.m3u8?hdnea=exp=1588406613~acl=%2F%2A~hmac=ed252a172cdce56ce26c6ba39198f6fea4a0a7de634826e9ca8dcd17fd5c81d8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7261839/image_assets/24535736/cms.jpg?1587801865",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "08 - The Son",
+			"summary": "Season finale. A gay Syrian refugee dreams of being granted asylum in America so he can live openly.",
+			"id": "10",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7261835/9f037bb93103f752e6d5/prog_index_ipad.m3u8?hdnea=exp=1580662311~acl=%2F%2A~hmac=25fcc8e5a9da83c79d37044502f0a10df071707ddeec9173c02472573dd31982"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7261835/image_assets/24060377/cms.jpg?1580057844",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		}
+	],
+	"type": {
+		"value": "feed"
+	}
+}

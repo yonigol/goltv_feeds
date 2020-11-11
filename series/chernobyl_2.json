@@ -1,0 +1,143 @@
+{
+	"xmlns:applicaster": "http://schemas.applicaster.com/atom/1",
+	"xmlns": "http://www.w3.org/2005/Atom",
+	"xml:lang": "en-us",
+	"title": "Chernobyl",
+	"subtitle": "",
+	"link": {
+		"rel": "self",
+		"type": "atom",
+		"href": "http://www.example.com/news_feed.atom"
+	},
+	"updated": "",
+	"id": "chernobyl",
+	"author": {
+		"name": "GolTV"
+	},
+	"entry": [{
+			"type": {
+				"value": "video"
+			},
+			"title": "01- 1:23:45",
+			"summary": "Plant workers and firefighters put their lives on the line to control a catastrophic April 1986 explosion at a Soviet nuclear power plant.",
+			"id": "pre",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260839/7b03fa0fbaa871ca57e5/prog_index_ipad.m3u8?hdnea=exp=1579990435~acl=%2F%2A~hmac=2bf1ca16bec04883502083e4c7df8cda77bcac7517dfee58c8c5b1369e3cde9a"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260839/image_assets/23977142/cms.jpg?1579385363",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "03 - Open Wide, O Earth",
+			"summary": "Valery creates a detailed plan to decontaminate Chernobyl; Lyudmilla ignores warnings about her firefighter husband's contamination.",
+			"id": "02",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260842/33e4499cbce6cf8aeaf2/prog_index_ipad.m3u8?hdnea=exp=1579990437~acl=%2F%2A~hmac=06d7aa3a76a4f970ffc271bbf04f41bb7de3bc0a6c39510ecba7f1e7eca59799"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260842/image_assets/23977149/cms.jpg?1579385441",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "04 - The Happiness of All Mankind",
+			"summary": "Valery and Boris attempt to find solutions to removing the radioactive debris; Ulana attempts to find out the cause of the explosion.",
+			"id": "03",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260840/d6f49d00e84fb1de6199/prog_index_ipad.m3u8?hdnea=exp=1579990439~acl=%2F%2A~hmac=205fa4129c6888d0e5378d9de0751c2825d2343ceba1bb53ee95517f878bd971"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260840/image_assets/23977158/cms.jpg?1579385518",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "05 - Vichnaya Pamyat",
+			"summary": "Valery, Boris and Ulana risk their lives and reputations to expose the truth about Chernobyl.",
+			"id": "10",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260841/193f0c1f569286bcf93e/prog_index_ipad.m3u8?hdnea=exp=1579990440~acl=%2F%2A~hmac=824c8c4504705912f3dd075f52239f3c990267b349ec85881f3dd4193ec91fa0"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260841/image_assets/23977165/cms.jpg?1579385604",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		}
+	],
+	"type": {
+		"value": "feed"
+	}
+}
