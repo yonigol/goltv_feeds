@@ -3,13 +3,13 @@
 		"value": "feed"
 	},
 	"entry": [{
-			"id": "1674",
-			"title": "שעת נעילה",
-			"summary": "יצירה טלוויזיונית מטלטלת על ימיה הראשונים של מלחמת יום הכיפורים",
+			"id": "for_all_mankind",
+			"title": "For All Mankind",
+			"summary": "For All Mankind is an American science fiction streaming television series created and written by Ronald D. Moore, Matt Wolpert and Ben Nedivi and produced for Apple TV+. The series dramatizes an alternate history depicting `what would have happened if the global space race had never ended` after the Soviet Union succeeds in the first crewed Moon landing ahead of the United States.",
 			"media_group": [{
 				"type": "image",
 				"media_item": [{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/1/imgid=39730_A.jpeg&W=454&Q=80",
+						"src": "https://financerewind.com/wp-content/uploads/2020/08/ezgif-7-48c256863270-1.jpg",
 						"key": "image_base",
 						"type": "image"
 					}
@@ -20,7 +20,7 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2NzQmbWFpbkNhdElkPTM="
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9zZXJpZXMvZm9yX2FsbF9tYW5raW5kXzEuanNvbg=="
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
