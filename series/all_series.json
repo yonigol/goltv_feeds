@@ -64,6 +64,35 @@
 			"screen_type": "7c0ef1b5-fc7e-4572-ac91-c43f32ad4412"
 		}, 
 		{
+			"id": "chernobyl",
+			"title": "Chernobyl",
+			"summary": "",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/categories/354101/image_assets/23229582/cms.jpeg?1568564912",
+					"key": "image_base",
+					"type": "image"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/categories/354101/image_assets/23229582/cms.jpeg?1568564912",
+					"key": "image_base_16x9",
+					"type": "image"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/categories/354101/image_assets/23229582/cms.jpeg?1568564912",
+					"key": "image_base_1x1",
+					"type": "image"
+				}]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9zZXJpZXMvY2hlcm5vYnlsXzEuanNvbg=="
+			},
+			"screen_type": "7c0ef1b5-fc7e-4572-ac91-c43f32ad4412"
+		},
+		{
 			"id": "1674",
 			"title": "שעת נעילה",
 			"summary": "יצירה טלוויזיונית מטלטלת על ימיה הראשונים של מלחמת יום הכיפורים",
@@ -121,6 +150,64 @@
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
 		{
+			"id": "the_spy",
+			"title": "The Spy",
+			"summary": "",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/categories/354088/image_assets/23228791/cms.jpg?1568547158",
+					"key": "image_base",
+					"type": "image"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/categories/354088/image_assets/23228791/cms.jpg?1568547158",
+					"key": "image_base_16x9",
+					"type": "image"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/categories/354088/image_assets/23228791/cms.jpg?1568547158",
+					"key": "image_base_1x1",
+					"type": "image"
+				}]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9zZXJpZXMvdGhlX3NweV8xLmpzb24="
+			},
+			"screen_type": "7c0ef1b5-fc7e-4572-ac91-c43f32ad4412"
+		},
+		{
+			"id": "little_america",
+			"title": "Little America",
+			"summary": "",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/categories/359494/image_assets/24060337/cms.png?1580056759",
+					"key": "image_base",
+					"type": "image"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/categories/359494/image_assets/24060337/cms.png?1580056759",
+					"key": "image_base_16x9",
+					"type": "image"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/categories/359494/image_assets/24060337/cms.png?1580056759",
+					"key": "image_base_1x1",
+					"type": "image"
+				}]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9zZXJpZXMvbGl0dGxlX2FtZXJpY2FfMS5qc29u"
+			},
+			"screen_type": "7c0ef1b5-fc7e-4572-ac91-c43f32ad4412"
+		},
+		{
 			"id": "1636",
 			"title": "מנאייכ",
 			"summary": "דרמת מתח משטרתית בכיכובם של שלום אסייג ועמוס תמם",
@@ -138,6 +225,27 @@
 			"content": {
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MzYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "gidi_aharoni",
+			"title": "גידי ואהרוני באמריקה",
+			"summary": "",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/categories/339969/image_assets/21695051/cms.jpg?1549235321",
+					"key": "image_base",
+					"type": "image"
+				}]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9zZXJpZXMvZ2lkaV9haGFyb25pX3VzYV8xLmpzb24="
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		}, {
@@ -250,6 +358,55 @@
 			"content": {
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0MTYmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		}, 
+		{
+			"id": "miflatzot",
+			"title": "מפלצות קטנות",
+			"summary": "",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/categories/359488/image_assets/24038579/cms.jpg?1579991346",
+					"key": "image_base",
+					"type": "image"
+				}]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9zZXJpZXMvbWlmbGF0em90X2t0YW5vdF8xLmpzb24="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},{
+			"id": "harmon",
+			"title": "הרמון",
+			"summary": "",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/categories/274506/image_assets/19136333/cms.jpg?1521920634",
+					"key": "image_base",
+					"type": "image"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/categories/274506/image_assets/19136333/cms.jpg?1521920634",
+					"key": "image_base_16x9",
+					"type": "image"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/categories/274506/image_assets/19136333/cms.jpg?1521920634",
+					"key": "image_base_1x1",
+					"type": "image"
+				}]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9zZXJpZXMvaGFybW9uXzEuanNvbg=="
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		}, {
