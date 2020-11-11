@@ -1,0 +1,353 @@
+{
+	"xmlns:applicaster": "http://schemas.applicaster.com/atom/1",
+	"xmlns": "http://www.w3.org/2005/Atom",
+	"xml:lang": "en-us",
+	"title": "Our Boys",
+	"subtitle": "In the summer of 2014, three Jewish teenagers are kidnapped and murdered by Hamas militants. Israel is shocked, shaken and furious. Two days later, the burned body of a Palestinian teenager from eastern Jerusalem is found in a forest on the western outskirts of the city. In the ensuing days, an agent from the internal terror division of the Shin Bet investigates the murder, while the parents of the slain teenager begin their long and anguished journey toward justice and consolation. Filmed in Israel, Our Boys is based on the true events which led to the outbreak of war in Gaza. The series follows the investigation of Mohammed Abu Khdeir’s murder, and tells the story of all those involved, Jews and Arabs alike, whose lives were forever changed by these events. Our Boys is a co-production of KI’s Keshet Studios and HBO.",
+	"link": {
+		"rel": "self",
+		"type": "atom",
+		"href": "http://www.example.com/news_feed.atom"
+	},
+	"updated": "",
+	"id": "our_boys",
+	"author": {
+		"name": "GolTV"
+	},
+	"entry": [{
+			"type": {
+				"value": "video"
+			},
+			"title": "Our Boys - Official Trailer",
+			"summary": "Filmed in Israel, Our Boys is based on the true events which led to the outbreak of war in Gaza. The series follows the investigation of Muhammad Abu Khdeir’s murder, and tells the story of all those involved, Jews and Arabs alike, whose lives were forever changed by these events.",
+			"id": "Red Moon",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/636/broadcasters/737/vod_items/7173835/f8841026b75b67ab1294/prog_index_ipad.m3u8?hdnea=exp=1571690598~acl=%2F%2A~hmac=ed6d5a01895ea01a7b55c144567bee75b8d5a2e7f95907d7024ebb204483d737"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7173835/image_assets/23232997/cms.png?1571035378",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		}, {
+			"type": {
+				"value": "video"
+			},
+			"title": "01 - Out of the Depth, I Cry to You",
+			"summary": "Series premiere. The disappearance of three Jewish boys sends shockwaves across Israel, as Simon, a Shabak terrorism agent, braces for escalating danger.",
+			"id": "01",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/636/broadcasters/737/vod_items/7222727/a433599704375e70de35/prog_index_ipad.m3u8?hdnea=exp=1571690645~acl=%2F%2A~hmac=321741a534aaced5bf25e8f176179a4f1cce46e0bb2e54e93505f4e0855fbc0b"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7222727/image_assets/23398652/cms.jpeg?1571036046",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "02 - I Love Toto",
+			"summary": "Simon and Mike disagree on their theories about the case; Hussein and Suha search for their son.",
+			"id": "02",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/636/broadcasters/737/vod_items/7223207/aac721c6649d94339e55/prog_index_ipad.m3u8?hdnea=exp=1571690681~acl=%2F%2A~hmac=4c5dd6f2d0a89dafe00e75bb60ef073bc58dbcc3c54fbb4011a93ad7a0443508"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7223207/image_assets/23399009/cms.jpeg?1571046710",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "03 - Two Packs of Red Next",
+			"summary": "Simon investigates an earlier abduction attempt for clues about Mohammed’s killers, as misinformation spreads in the media.",
+			"id": "03",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/636/broadcasters/737/vod_items/7222728/4f5a555b084e39bfd122/prog_index_ipad.m3u8?hdnea=exp=1571690718~acl=%2F%2A~hmac=622de0f0f57055a35a0f0d0c10e4387745b2d209d10bfa0f435b08bea7dc3eaa"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7222728/image_assets/23398643/cms.jpeg?1571036010",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "04 - The Dawn Martyr",
+			"summary": "Simon and his team focus on Yosef and his family as Sabbath approaches.",
+			"id": "04",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/636/broadcasters/737/vod_items/7223291/bb96e5cebfc5c1de5895/prog_index_ipad.m3u8?hdnea=exp=1571690762~acl=%2F%2A~hmac=9f6542e09969871c7b4d4104720eab2ead97efdfc193f8e32d087ead26c3f15d"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7223291/image_assets/23400616/cms.jpeg?1571085690",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "05 - Shabbat Shalom",
+			"summary": "Simon goes undercover to get the truth about Yosef and his nephews; Hussein and Suha mourn in different ways.",
+			"id": "05",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "http://233492reshet.pmd.applicaster.com/accounts/636/broadcasters/737/vod_items/7223292/90cfbd2645644e61722e/prog_index_ipad.m3u8?hdnea=exp=1571690796~acl=%2F%2A~hmac=5062ad03135910482cc7ce7fcf8c48b70773a071f66ae7a1a48ea9524a21b7d8"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7223292/image_assets/23400624/cms.jpeg?1571085731",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "06 - Acceptance of Silence",
+			"summary": "",
+			"id": "06",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7261813/5ace06c53e56d248fce9/prog_index_ipad.m3u8?hdnea=exp=1580594503~acl=%2F%2A~hmac=e92c3abc356cfe433b131fbb8fcfba1e1a9fa479decdf048cff0b93aabfee9fc"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7261813/image_assets/24038480/cms.jpeg?1579988642",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "07 - Judging by its End",
+			"summary": "",
+			"id": "07",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7261814/70cf5fe904162fb0f26d/prog_index_ipad.m3u8?hdnea=exp=1580594580~acl=%2F%2A~hmac=95dc4e0fd304784d38cdd9813612b0f89ff54f532ba7ef619373085e8d29053d"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7261814/image_assets/24038487/cms.jpeg?1579988687",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "08 - Defendants 2 and 3",
+			"summary": "",
+			"id": "08",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7261817/0c806c4bbf9dbceec9b5/prog_index_ipad.m3u8?hdnea=exp=1580596796~acl=%2F%2A~hmac=5d0f937ed1dd1755ec01900052fa321a2ad01463e723ed3394bd1dabbfe6cea6"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7261817/image_assets/24038649/cms.jpeg?1579992118",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},{
+			"type": {
+				"value": "video"
+			},
+			"title": "09 - The Perfumer and the Tanner",
+			"summary": "",
+			"id": "09",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7261815/6f442b7ecaa323620d37/prog_index_ipad.m3u8?hdnea=exp=1580594637~acl=%2F%2A~hmac=84f5d6902d237f0446c4c38dcbac609d481fcbb5b606c5b6e1cff1eba734fa63"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7261815/image_assets/24038494/cms.jpeg?1579988743",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "10 - A Shaft Into a Dark Tunnel",
+			"summary": "",
+			"id": "10",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7261816/be2efa3a1e00090fad12/prog_index_ipad.m3u8?hdnea=exp=1580594686~acl=%2F%2A~hmac=0b8e26b14a7c128fd62f9169c3f9b8e765f3f0b2ebd90a1c58a699d4c7c9c92a"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7261816/image_assets/24038501/cms.jpeg?1579989575",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "image_base"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		}
+	],
+	"type": {
+		"value": "feed"
+	}
+}
