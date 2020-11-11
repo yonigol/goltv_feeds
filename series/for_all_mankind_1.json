@@ -9,7 +9,7 @@
 			"value": "feed"
 		},
 		"content": {
-			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9naXRodWIuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvYmxvYi9tYWluL3Nlcmllcy9mb3JfYWxsX21hbmtpbmRfMi5qc29u"
+			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9zZXJpZXMvZm9yX2FsbF9tYW5raW5kXzIuanNvbg=="
 		}
 	}]
 }
