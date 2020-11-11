@@ -8,7 +8,7 @@
 			"value": "feed"
 		},
 		"content": {
-			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvaXRlbUpzb25UVi5hc2h4P2NhdFR5cGU9MSZjYXRJZD0xNjc0Jm1haW5DYXRJZD0z"
+			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9zZXJpZXMvdGhlX21vcm5pbmdfc2hvd18yLmpzb24="
 		}
 	}]
 }
