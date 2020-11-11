@@ -42,6 +42,26 @@
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9zZXJpZXMvdGhlX21vcm5pbmdfc2hvd18xLmpzb24="
 			},
 			"screen_type": "7c0ef1b5-fc7e-4572-ac91-c43f32ad4412"
+		}, {
+			"id": "our_boys",
+			"title": "Our Boys",
+			"summary": "",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+					"src": "https://www.apple.com/newsroom/images/product/apple-tv-plus/lifestyle-/Apple_tv_plus-the-morning-show-cover-art-09102019_big.jpg.large.jpg",
+					"key": "image_base",
+					"type": "image"
+				}]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9zZXJpZXMvb3VyX2JveXNfMS5qc29u"
+			},
+			"screen_type": "7c0ef1b5-fc7e-4572-ac91-c43f32ad4412"
 		}, 
 		{
 			"id": "1674",
