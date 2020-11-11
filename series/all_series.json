@@ -22,7 +22,27 @@
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9zZXJpZXMvZm9yX2FsbF9tYW5raW5kXzEuanNvbg=="
 			},
 			"screen_type": "7c0ef1b5-fc7e-4572-ac91-c43f32ad4412"
-		},
+		},{
+			"id": "the_morning_show",
+			"title": "The Morning Show",
+			"summary": "",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+					"src": "https://www.apple.com/newsroom/images/product/apple-tv-plus/lifestyle-/Apple_tv_plus-the-morning-show-cover-art-09102019_big.jpg.large.jpg",
+					"key": "image_base",
+					"type": "image"
+				}]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9zZXJpZXMvdGhlX21vcm5pbmdfc2hvd18xLmpzb24="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		}, 
 		{
 			"id": "1674",
 			"title": "שעת נעילה",
@@ -49,6 +69,34 @@
 			"content": {
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2NzQmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		}, {
+			"id": "1627",
+			"title": "טהרן",
+			"summary": "תמר רביניאן (ניב סולטן) היא סוכנת מוסד הנשלחת למשימתה הראשונה בלב טהרן",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+					"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/25/imgid=33995_A.jpeg&W=454&Q=80",
+					"key": "image_base",
+					"type": "image"
+				}, {
+					"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/25/imgid=33995_A.jpeg&W=454&Q=80",
+					"key": "image_base_16x9",
+					"type": "image"
+				}, {
+					"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/6/24/imgid=35721_E.jpeg",
+					"key": "image_base_1x1",
+					"type": "image"
+				}]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MjcmbWFpbkNhdElkPTM="
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
@@ -381,146 +429,146 @@
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		}, {
-		"id": "1635",
-		"title": "תקומה",
-		"summary": "סדרת טלוויזיה תיעודית המספרת על ההיסטוריה של מדינת ישראל",
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/21/imgid=36790_A.jpeg&W=454&Q=80",
-				"key": "image_base",
-				"type": "image"
-			}, {
-				"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/21/imgid=36790_A.jpeg&W=454&Q=80",
-				"key": "image_base_16x9",
-				"type": "image"
-			}, {
-				"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/7/21/imgid=36790_E.jpeg",
-				"key": "image_base_1x1",
-				"type": "image"
-			}]
-		}],
-		"type": {
-			"value": "feed"
+			"id": "1635",
+			"title": "תקומה",
+			"summary": "סדרת טלוויזיה תיעודית המספרת על ההיסטוריה של מדינת ישראל",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+					"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/21/imgid=36790_A.jpeg&W=454&Q=80",
+					"key": "image_base",
+					"type": "image"
+				}, {
+					"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/21/imgid=36790_A.jpeg&W=454&Q=80",
+					"key": "image_base_16x9",
+					"type": "image"
+				}, {
+					"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/7/21/imgid=36790_E.jpeg",
+					"key": "image_base_1x1",
+					"type": "image"
+				}]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MzUmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		}, {
+			"id": "1165",
+			"title": "הנשר הגדול",
+			"summary": "חייו והגותו של הרמב\"ם, רבי משה בן מימון, גדול ההוגים בתולדות היהדות",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+					"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3527_A.jpeg&W=454&Q=80",
+					"key": "image_base",
+					"type": "image"
+				}, {
+					"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3527_A.jpeg&W=454&Q=80",
+					"key": "image_base_16x9",
+					"type": "image"
+				}, {
+					"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3527_E.jpeg",
+					"key": "image_base_1x1",
+					"type": "image"
+				}]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExNjUmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		}, {
+			"id": "64",
+			"title": "והארץ הייתה תוהו ובוהו",
+			"summary": "סדרת תעודה על תולדות ארץ ישראל מהזמן הקדום ביותר ועד העת החדשה בתקופה ",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+					"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3526_A.jpeg&W=454&Q=80",
+					"key": "image_base",
+					"type": "image"
+				}, {
+					"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3526_A.jpeg&W=454&Q=80",
+					"key": "image_base_16x9",
+					"type": "image"
+				}, {
+					"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3526_E.jpeg",
+					"key": "image_base_1x1",
+					"type": "image"
+				}]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTY0Jm1haW5DYXRJZD0z"
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		}, {
+			"id": "1157",
+			"title": "לא תשקוט הארץ",
+			"summary": "4 פרקים שמתעדים לעומק ובהרחבה, ועם גילויים, את מלחמת יום הכיפורים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+					"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3518_A.jpeg&W=454&Q=80",
+					"key": "image_base",
+					"type": "image"
+				}, {
+					"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3518_A.jpeg&W=454&Q=80",
+					"key": "image_base_16x9",
+					"type": "image"
+				}, {
+					"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3518_E.jpeg",
+					"key": "image_base_1x1",
+					"type": "image"
+				}]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExNTcmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		}, {
+			"id": "1167",
+			"title": "צייד המרגלים",
+			"summary": "סרט העוקב אחרי כמה סיפורי ריגול מקומיים, בשנותיה הראשונות של המדינה",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+					"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3525_A.jpeg&W=454&Q=80",
+					"key": "image_base",
+					"type": "image"
+				}, {
+					"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3525_A.jpeg&W=454&Q=80",
+					"key": "image_base_16x9",
+					"type": "image"
+				}, {
+					"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3525_E.jpeg",
+					"key": "image_base_1x1",
+					"type": "image"
+				}]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExNjcmbWFpbkNhdElkPTM="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
-		"content": {
-			"type": "feed",
-			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MzUmbWFpbkNhdElkPTM="
-		},
-		"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
-	},  {
-		"id": "1165",
-		"title": "הנשר הגדול",
-		"summary": "חייו והגותו של הרמב\"ם, רבי משה בן מימון, גדול ההוגים בתולדות היהדות",
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3527_A.jpeg&W=454&Q=80",
-				"key": "image_base",
-				"type": "image"
-			}, {
-				"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3527_A.jpeg&W=454&Q=80",
-				"key": "image_base_16x9",
-				"type": "image"
-			}, {
-				"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3527_E.jpeg",
-				"key": "image_base_1x1",
-				"type": "image"
-			}]
-		}],
-		"type": {
-			"value": "feed"
-		},
-		"content": {
-			"type": "feed",
-			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExNjUmbWFpbkNhdElkPTM="
-		},
-		"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
-	}, {
-		"id": "64",
-		"title": "והארץ הייתה תוהו ובוהו",
-		"summary": "סדרת תעודה על תולדות ארץ ישראל מהזמן הקדום ביותר ועד העת החדשה בתקופה ",
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3526_A.jpeg&W=454&Q=80",
-				"key": "image_base",
-				"type": "image"
-			}, {
-				"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3526_A.jpeg&W=454&Q=80",
-				"key": "image_base_16x9",
-				"type": "image"
-			}, {
-				"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3526_E.jpeg",
-				"key": "image_base_1x1",
-				"type": "image"
-			}]
-		}],
-		"type": {
-			"value": "feed"
-		},
-		"content": {
-			"type": "feed",
-			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTY0Jm1haW5DYXRJZD0z"
-		},
-		"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
-	},{
-		"id": "1157",
-		"title": "לא תשקוט הארץ",
-		"summary": "4 פרקים שמתעדים לעומק ובהרחבה, ועם גילויים, את מלחמת יום הכיפורים",
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3518_A.jpeg&W=454&Q=80",
-				"key": "image_base",
-				"type": "image"
-			}, {
-				"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3518_A.jpeg&W=454&Q=80",
-				"key": "image_base_16x9",
-				"type": "image"
-			}, {
-				"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3518_E.jpeg",
-				"key": "image_base_1x1",
-				"type": "image"
-			}]
-		}],
-		"type": {
-			"value": "feed"
-		},
-		"content": {
-			"type": "feed",
-			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExNTcmbWFpbkNhdElkPTM="
-		},
-		"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
-	}, {
-		"id": "1167",
-		"title": "צייד המרגלים",
-		"summary": "סרט העוקב אחרי כמה סיפורי ריגול מקומיים, בשנותיה הראשונות של המדינה",
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3525_A.jpeg&W=454&Q=80",
-				"key": "image_base",
-				"type": "image"
-			}, {
-				"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/27/imgid=3525_A.jpeg&W=454&Q=80",
-				"key": "image_base_16x9",
-				"type": "image"
-			}, {
-				"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3525_E.jpeg",
-				"key": "image_base_1x1",
-				"type": "image"
-			}]
-		}],
-		"type": {
-			"value": "feed"
-		},
-		"content": {
-			"type": "feed",
-			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTExNjcmbWFpbkNhdElkPTM="
-		},
-		"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
-	}, 
 		{
 			"id": "1607",
 			"title": "זיכרון בסלון",
