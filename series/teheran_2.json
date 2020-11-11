@@ -1,0 +1,277 @@
+{
+	"type": {
+		"value": "feed"
+	},
+	"entry": [{
+		"type": {
+			"value": "video"
+		},
+		"id": "Kan11",
+		"title": "כאן 11",
+		"summary": "",
+		"content": {
+			"src": "https://kanapi.media.kan.org.il/Redirector/ipbc/direct/kan-11/hls-live.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431219/image_assets/19067959/cms.jpg?1521496118g",
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "QBS-TTV002",
+		"title": "Westworld",
+		"summary": "",
+		"content": {
+			"src": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/westworldwide.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "QBS-NTS003",
+		"title": "Better Call Saul",
+		"summary": "",
+		"content": {
+			"src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Saulwide.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "QBS-TTV004",
+		"title": "Chernobyl",
+		"summary": "",
+		"content": {
+			"src": "https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/chernobylwide.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "QBS-TTV005",
+		"title": "Killing Eve",
+		"summary": "",
+		"content": {
+			"src": "https://raw.githubusercontent.com/jejmoore/j.moore-applicaster.com/master/QBS%20Feeds/Assets/Videos/killing-eve.mp4",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/killingevewide2.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "QBS-TTV006",
+		"title": "iZombie",
+		"summary": "",
+		"content": {
+			"src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/izombiewide.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "QBS-TTV007",
+		"title": "Walking Dead",
+		"summary": "",
+		"content": {
+			"src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/walklingdeadwide.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "QBS-TTV008",
+		"title": "What We Do In The Shadows",
+		"summary": "",
+		"content": {
+			"src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/whatwedowide.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "QBS-TTV009",
+		"title": "Brooklyn Nine-Nine",
+		"summary": "",
+		"content": {
+			"src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/brooklynwide2.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "QBS-TTV010",
+		"title": "Bosch",
+		"summary": "",
+		"content": {
+			"src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/boschwide.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "QBS-TTV011",
+		"title": "Game Of Thrones",
+		"summary": "",
+		"content": {
+			"src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/gotwide.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "QBS-TTV012",
+		"title": "Mr Robot",
+		"summary": "",
+		"content": {
+			"src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Mrrobotwide.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "QBS-TTV013",
+		"title": "The Good Place",
+		"summary": "",
+		"content": {
+			"src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/goodplacewide1.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "QBS-TTV014",
+		"title": "Modern Family",
+		"summary": "",
+		"content": {
+			"src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://raw.githubusercontent.com/Davidapplicaster/Assets-Images/master/Modernwide.jpg"
+			}]
+		}]
+	}],
+	"author": {
+		"name": "Yonatan Gol"
+	},
+	"id": "GolTV1",
+	"title": "Israel"
+}

@@ -1,0 +1,384 @@
+{
+	"xmlns:applicaster": "http://schemas.applicaster.com/atom/1",
+	"xmlns": "http://www.w3.org/2005/Atom",
+	"xml:lang": "en-us",
+	"title": "The Morning Show",
+	"subtitle": "The Morning Show is an American drama web television series starring Jennifer Aniston, Reese Witherspoon, and Steve Carell, that premiered on Apple TV+ on November 1, 2019.
+
+Alex Levy anchors The Morning Show, a popular news program broadcast from Manhattan on the UBA network that has excellent viewership ratings and is perceived to have changed the face of American television.
+
+After her on-air partner of 15 years, Mitch Kessler, is fired amidst a sexual misconduct scandal, Alex fights to retain her job as top news anchor while sparking a rivalry with Bradley Jackson, a haphazard field reporter whose series of impulsive decisions bring her into a new world of TV journalism.",
+	"link": {
+		"rel": "self",
+		"type": "atom",
+		"href": "http://www.example.com/news_feed.atom"
+	},
+	"updated": "",
+	"id": "The Morning Show",
+	"author": {
+		"name": "GolTV"
+	},
+	"entry": [{
+			"type": {
+				"value": "video"
+			},
+			"title": "01 - In the Dark Night of the Soul It's Always 3:30 in the Morning",
+			"summary": "America's favorite morning news show is thrown into crisis when it becomes the news.",
+			"id": "01",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7259840/2a8181582d5222e604bf/prog_index_ipad.m3u8?hdnea=exp=1579544575~acl=%2F%2A~hmac=d8c60344c1b217763c8eb116aadfc3c244a3e7f49685a45b8bd9230487a9810a"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7259840/image_assets/23954178/cms.jpg?1579387456",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7259840/image_assets/23954178/cms.jpg?1579387456",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		}, {
+			"type": {
+				"value": "video"
+			},
+			"title": "02 - A Seat at the Table",
+			"summary": "Alex engages in contract negotiations as she prepares to accepts an award. Bradley is courted for a new opportunity.",
+			"id": "02",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260674/d22420c26c0ff7278010/prog_index_ipad.m3u8?hdnea=exp=1579992918~acl=%2F%2A~hmac=b887a7f42112028745f24f4b70814ec41c726062da9a8cfc5f19b0e30be5c338"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260674/image_assets/23977248/cms.jpg?1579387582",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260674/image_assets/23977248/cms.jpg?1579387582",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "03 - Chaos is the New Cocaine",
+			"summary": "In a weekend of turmoil, TMS scrambles to prepare for its new future.",
+			"id": "03",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260690/ec49b2264de305edd264/prog_index_ipad.m3u8?hdnea=exp=1579992919~acl=%2F%2A~hmac=c20259a0a3040d5d72b2da531772bb5b386c76420877c63ea5820a8d537f86a3"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260690/image_assets/23977255/cms.jpg?1579387654",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260690/image_assets/23977255/cms.jpg?1579387654",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "04 - That Woman",
+			"summary": "TMS experiences severe growing pains as it embarks on a new era.",
+			"id": "04",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260705/9833be587ab67bdebde8/prog_index_ipad.m3u8?hdnea=exp=1579992921~acl=%2F%2A~hmac=7475a6599fa4023c62ee7f165ef0d428214546b4e66df7896aa2f3adb69abef2"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260705/image_assets/23977262/cms.jpg?1579387727",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260705/image_assets/23977262/cms.jpg?1579387727",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "05 - No One's Gonna Harm You, Not While I'm Around",
+			"summary": "A looming article threatens to upend the TMS power structure.",
+			"id": "05",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260706/159b812d7f49d5753cdd/prog_index_ipad.m3u8?hdnea=exp=1579992922~acl=%2F%2A~hmac=2ff99f549fd72acf73f030bb4cc3667c7701451fc7ccd0cfa6c9f5f95de33c68"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260706/image_assets/23977269/cms.jpg?1579387788",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260706/image_assets/23977269/cms.jpg?1579387788",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "06 - The Pendulum Swings",
+			"summary": "TMS covers the California wildfire, while Alex and Bradley struggle to keep their relationship from going up in flames.",
+			"id": "06",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260707/c1126a3a743ac946c292/prog_index_ipad.m3u8?hdnea=exp=1579992924~acl=%2F%2A~hmac=5fdc580b2ef24566c5adc3a2d912d9f1c0fc558095ada5b27af1654bb739c0bb"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260707/image_assets/23977276/cms.jpg?1579387871",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260707/image_assets/23977276/cms.jpg?1579387871",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "07 - Open Waters",
+			"summary": "Alex shares news to Lizzy. Bradley meets with Mitch. Chip plots against Fred.",
+			"id": "07",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260740/ac7c7685e54d45783f8c/prog_index_ipad.m3u8?hdnea=exp=1579992926~acl=%2F%2A~hmac=7924d9a59d47264556b7035d0e099a2ff2081d8449aa9b9a3721846c71766413"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260740/image_assets/23977288/cms.jpg?1579387935",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260740/image_assets/23977288/cms.jpg?1579387935",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "08 - Lonely at the Top",
+			"summary": "Mitch celebrates his 50th birthday and Las Vegas has a shooting.",
+			"id": "08",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260741/f240d525a084c7c23395/prog_index_ipad.m3u8?hdnea=exp=1579992927~acl=%2F%2A~hmac=8e963118525804a5614729f42375bec953f45cd43302fccb10495084519feee5"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260741/image_assets/23977295/cms.jpg?1579387991",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260741/image_assets/23977295/cms.jpg?1579387991",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "09 - Play the Queen",
+			"summary": "Things are heading up and Bradley tells Alex about Mitch coming to her asking for an Interview. Alex gets scared and contacts the head of the network about it. Everyone is now in question and we don't know which way things will turn.",
+			"id": "09",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260742/7166b2ee3d6bdf4a450c/prog_index_ipad.m3u8?hdnea=exp=1579992930~acl=%2F%2A~hmac=21efd860d30a8d7ea3600888f6f560c74cabd099d83548e2bb5144edc214e8a6"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260742/image_assets/23977302/cms.jpg?1579388053",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260742/image_assets/23977302/cms.jpg?1579388053",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "10 - The Interview",
+			"summary": "TMS faces a fateful day as a plan to shake up UBA is set in motion.",
+			"id": "10",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7261810/a5218c784691147316ba/prog_index_ipad.m3u8?hdnea=exp=1580570951~acl=%2F%2A~hmac=b204eff0ef40593eaf392fb76b95cd0529da013caca564e8567375506d4bb24e"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7261810/image_assets/24038233/cms.jpg?1579966116",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7261810/image_assets/24038233/cms.jpg?1579966116",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		}
+	],
+	"type": {
+		"value": "feed"
+	}
+}

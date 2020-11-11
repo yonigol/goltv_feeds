@@ -1,0 +1,382 @@
+{
+	"xmlns:applicaster": "http://schemas.applicaster.com/atom/1",
+	"xmlns": "http://www.w3.org/2005/Atom",
+	"xml:lang": "en-us",
+	"title": "For All Mankind",
+	"subtitle": "For All Mankind is an American science fiction web television series created and written by Ronald D. Moore, Matt Wolpert and Ben Nedivi and produced for Apple TV+.
+
+The series dramatizes an alternate history depicting what would have happened if the global space race had never ended after the Soviet Union succeeds in the first manned Moon landing.",
+	"link": {
+		"rel": "self",
+		"type": "atom",
+		"href": "http://www.example.com/news_feed.atom"
+	},
+	"updated": "",
+	"id": "For All Mankind",
+	"author": {
+		"name": "GolTV"
+	},
+	"entry": [{
+			"type": {
+				"value": "video"
+			},
+			"title": "01 - Red Moon",
+			"summary": "NASA is in crisis as the Soviets land the first man on the moon in 1969, the beginning of an alternate history.",
+			"id": "Red Moon",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260743/d706ed027879e4f7a94f/prog_index_ipad.m3u8?hdnea=exp=1579991558~acl=%2F%2A~hmac=73e51696e80fbe31a41ededef1b2b8ca8c1c08c4e5c47bff3e370ea3336d9379"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260743/image_assets/23977175/cms.jpg?1579386043",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260743/image_assets/23977175/cms.jpg?1579386043",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		}, {
+			"type": {
+				"value": "video"
+			},
+			"title": "02 - He Built the Saturn V",
+			"summary": "Director von Braun opposes President Nixon's directive, with dire consequences.",
+			"id": "Ynet News",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260745/614b8f3a121f36c8b96b/prog_index_ipad.m3u8?hdnea=exp=1579991560~acl=%2F%2A~hmac=475cbe536681b7770d8e28b751645eed091562f0d04fe9cfb27ebe8e826b3199"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260745/image_assets/23977182/cms.jpg?1579386107",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260745/image_assets/23977182/cms.jpg?1579386107",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "03 - Nixon's Women",
+			"summary": "Deke must recruit female astronauts after Russia lands a woman on the moon.",
+			"id": "03 - Nixon's Women",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260744/616d2bdb55f0c8d91baf/prog_index_ipad.m3u8?hdnea=exp=1579991561~acl=%2F%2A~hmac=a843a3f48fea048f82d18c42296c81e25771e7834f1e4039a105cd26a37cef31"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260744/image_assets/23977189/cms.jpg?1579386168",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260744/image_assets/23977189/cms.jpg?1579386168",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "04 - Prime Crew",
+			"summary": "A training accident spurs a national debate about women astronauts.",
+			"id": "04 - Prime Crew",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260746/a5ad45a3832f60d23d4c/prog_index_ipad.m3u8?hdnea=exp=1579991562~acl=%2F%2A~hmac=b4642c10f5f141dc9694078c0f9962ae14a1caa6d0d29cbf01d3d60f239bfe0f"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260746/image_assets/23977196/cms.jpg?1579386298",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260746/image_assets/23977196/cms.jpg?1579386298",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "05 - Into the Abyss",
+			"summary": "Ed and the crew change Apollo 15's landing site after lunar ice is detected.",
+			"id": "05 - Into the Abyss",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260751/8a04de794c3de6713892/prog_index_ipad.m3u8?hdnea=exp=1579991564~acl=%2F%2A~hmac=83385269052ef401fe7f0e9b19ce1d16ad29e43bb69106f246133c8e2473b87a"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260751/image_assets/23977203/cms.jpg?1579386362",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260751/image_assets/23977203/cms.jpg?1579386362",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "06 - Home Again",
+			"summary": "A launchpad accident leads to delayed missions and FBI background checks.",
+			"id": "06 - Home Again",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260752/686be28a8efa36a917e8/prog_index_ipad.m3u8?hdnea=exp=1579991565~acl=%2F%2A~hmac=98022159fd2ef0980f8499d508a3d485c222fdea34242d8cf390b4fed7dc0d7e"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260752/image_assets/23977210/cms.jpg?1579386417",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260752/image_assets/23977210/cms.jpg?1579386417",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "07 - Hi Bob",
+			"summary": "Ed, Gordo, and Danielle struggle with an extended Jamestown mission.",
+			"id": "07 - Hi Bob",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260747/6eadea1e0a13ba96b5ea/prog_index_ipad.m3u8?hdnea=exp=1579991567~acl=%2F%2A~hmac=5f8cf8aa172535a8d5e5ed6b385fca9dd9f99938dd4c8aba1a7ed7d1d2b44cfd"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260747/image_assets/23977217/cms.jpg?1579386470",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260747/image_assets/23977217/cms.jpg?1579386470",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "08 - Rupture",
+			"summary": "NASA preps a Jamestown relief mission, while Karen waits for news at the hospital.",
+			"id": "08 - Rupture",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260748/388e7636be9ffad7ad5f/prog_index_ipad.m3u8?hdnea=exp=1579991569~acl=%2F%2A~hmac=68af9924016ca34a5a1ed8a323f98e4077434ddd01ee1a88ce35857ebec925cb"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260748/image_assets/23977224/cms.jpg?1579386521",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260748/image_assets/23977224/cms.jpg?1579386521",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "09 - Bent Bird",
+			"summary": "A crisis in space puts the Apollo 24 and 25 crews in peril.",
+			"id": "09 - Bent Bird",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260750/795d53eff417e21bafa4/prog_index_ipad.m3u8?hdnea=exp=1579991571~acl=%2F%2A~hmac=7194e6461a53c9cb95269df40faf8565f06d8490158ef2c667d65e89067d2cd5"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260750/image_assets/23977231/cms.jpg?1579386631",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260750/image_assets/23977231/cms.jpg?1579386631",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		},
+		{
+			"type": {
+				"value": "video"
+			},
+			"title": "10 - A City Upon a Hill",
+			"summary": "Ed handles a trespasser. Ellen and Deke chart a new course without Mission Control.",
+			"id": "10 - A City Upon a Hill",
+			"published": "",
+			"updated": "",
+			"content": {
+				"type": "video/hls",
+				"src": "https://assets-production.applicaster.com/accounts/636/broadcasters/737/vod_items/7260749/969945c54e5e71cbd2bb/prog_index_ipad.m3u8?hdnea=exp=1579991573~acl=%2F%2A~hmac=3a0a24f532463258a65ff29a7d6b03740ad115f02e402a11500473c57c2d1f54"
+			},
+			"link": {
+				"rel": "alternate",
+				"type": "text/html",
+				"href": ""
+			},
+			"media_group": [{
+				"type": "thumbnail",
+				"media_item": [{
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260749/image_assets/23977238/cms.jpg?1579386702",
+					"scale": "large",
+					"type": "thumbnail",
+					"key": "thumbnail-large"
+				}, {
+					"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/7260749/image_assets/23977238/cms.jpg?1579386702",
+					"scale": "small",
+					"type": "thumbnail",
+					"key": "thumbnail-small"
+				}]
+			}],
+			"author": {
+				"name": ""
+			}
+		}
+	],
+	"type": {
+		"value": "feed"
+	}
+}
