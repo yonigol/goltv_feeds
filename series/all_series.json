@@ -22,7 +22,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9zZXJpZXMvZm9yX2FsbF9tYW5raW5kXzEuanNvbg=="
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "7c0ef1b5-fc7e-4572-ac91-c43f32ad4412"
 		},
 		{
 			"id": "1700",
@@ -44,7 +44,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE3MDAmbWFpbkNhdElkPTM="
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "7c0ef1b5-fc7e-4572-ac91-c43f32ad4412"
 		},
 		{
 			"id": "1636",
@@ -98,7 +98,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MDcmbWFpbkNhdElkPTM="
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "7c0ef1b5-fc7e-4572-ac91-c43f32ad4412"
 		}
 	]
 }
