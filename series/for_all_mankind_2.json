@@ -3,9 +3,7 @@
 	"xmlns": "http://www.w3.org/2005/Atom",
 	"xml:lang": "en-us",
 	"title": "For All Mankind",
-	"subtitle": "For All Mankind is an American science fiction web television series created and written by Ronald D. Moore, Matt Wolpert and Ben Nedivi and produced for Apple TV+.
-
-The series dramatizes an alternate history depicting what would have happened if the global space race had never ended after the Soviet Union succeeds in the first manned Moon landing.",
+	"subtitle": "For All Mankind is an American science fiction web television series created and written by Ronald D. Moore, Matt Wolpert and Ben Nedivi and produced for Apple TV+. The series dramatizes an alternate history depicting what would have happened if the global space race had never ended after the Soviet Union succeeds in the first manned Moon landing.",
 	"link": {
 		"rel": "self",
 		"type": "atom",
