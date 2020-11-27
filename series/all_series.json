@@ -121,6 +121,38 @@
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		}, {
+		"id": "1713",
+		"title": "חזרות",
+		"summary": "קומדיה (לא) רומנטית על זוג יוצרי תיאטרון שנאלצים לעבוד ביחד אחרי פרידה",
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/11/1/imgid=41404_A.jpeg",
+				"key": "image_base",
+				"type": "image"
+			}, {
+				"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/11/1/imgid=41404_A.jpeg",
+				"key": "image_base_16x9",
+				"type": "image"
+			}, {
+				"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/11/1/imgid=41404_E.jpeg",
+				"key": "image_base_1x1",
+				"type": "image"
+			}]
+		}],
+		"type": {
+			"value": "feed"
+		},
+		"content": {
+			"type": "feed",
+			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW4vbWlkZGxlSnNvbi5hc2h4P2NhdFR5cGU9MSZjYXRJZD0xNzEzJm1haW5DYXRJZD0z"
+		},
+		"link": {
+			"rel": "alternate",
+			"href": "https://www.kan.org.il/program/?catid=1713"
+		},
+		"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+	}, {
 			"id": "1627",
 			"title": "טהרן",
 			"summary": "תמר רביניאן (ניב סולטן) היא סוכנת מוסד הנשלחת למשימתה הראשונה בלב טהרן",
