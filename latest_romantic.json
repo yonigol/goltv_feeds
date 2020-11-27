@@ -1,0 +1,334 @@
+{
+	"type": {
+		"value": "feed"
+	},
+	"entry": [{
+		"type": {
+			"value": "video"
+		},
+		"id": "christmas_drop",
+		"title": "Operation Christmas Drop",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt13236566",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://journal.com.ph/warehouse/2020/11/Operation-Christmas-drop.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "holidate",
+		"title": "Holidate",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt9866072",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://occ-0-114-116.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABURixsSus9MJO6NKpEeEyP07Gk_gRGQOlT2GMoJfkgEfiNtsFDWBJnsXw9iBg9k0uQtuTD8CK-Kpf2Y0j2P1MOL2g4aW8UQGdIiRRBqdvdY6hNdLX0_o31foU5z3BA.jpg?r=e0c"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "broken_hearts",
+		"title": "The Broken Hearts Gallery",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt2140571",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKu0GBJb_F3HGFnHieF2vJlTL3YOw5QJaf0w&usqp=CAU"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "love_guaranteed",
+		"title": "Love, Guaranteed",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt11100856",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://occ-0-325-395.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABToSo4xVrpe2KHhVRZ0MRXMNi77nPQmdD8OXHK7l0Hv045Rs8RpsgYI8opeWMVUA5XmGaFBzbspo2k2XwoZe9_yLsRh32udImf08T1dDgr145H0UwGS7kBp0yRPj.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "made_in_italy",
+		"title": "Made in Italy",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt9207700",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://cdn.traileraddict.com/vidquad/ifc-films/made-in-italy-poster/1.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "desperados",
+		"title": "Desperados",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt1545304",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZH7EmisTEXOtO5JGNeit-PWoV2u3XHbftQ&usqp=CAU"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "wrong_missy",
+		"title": "The Wrong Missy",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt9619798",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://occ-0-1853-299.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABY2yxZsyZdaV6AdjlymWgai1LDLFkivOCeVppyVMg3YxfmXZoycC82aOqz-AF93_HWkoKXleM86JbI3kyAIt6JFX0v8HHvZlRAjhgwC5FXSL-zTw-cPes38NGQ7-.jpg?r=0bb"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "bright_places",
+		"title": "All the Bright Places",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt3907584",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://occ-0-1853-299.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdGCujaChZo18hedjF0tnAfVRnq_13MjjhVSxp0p95dQDyqKVy12ZyaasQzNfplDpo2kKPG7bkgYaVD8ILRATMrGDJnh8kaNZSkpcVvazfLhvwmVeQthDCXqViTo.jpg?r=ee1"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "litttle_women",
+		"title": "Little Women",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt3281548",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://occ-0-1853-299.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWmh2fh0dng6LfK5eW_-EUQLPaCGgGIKdbU5mRzsqXfvBl57EicDPvo4rkwk6U7cWLnhuUQbYckhAtbLDldVWh6gXRw.jpg?r=356"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "waves",
+		"title": "Waves",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt8652728",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/A24-A24_Waves-Full-Image_GalleryCover-en-US-1595850548955._UY500_UX667_RI_V5fd745cb0249691f678972ea1b51d340_TTW_.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "let_it_snow",
+		"title": "Let it Snow",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt1950235",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://occ-0-1853-299.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABROvSv5srnhKiKG9fjPK7sWwXbJS9dYy_RAB4aDja6nrxI3D08ZDH0J50lb5kOKoqj7_kA22zo2qvwE1f1hcpoCdHzk_MK64hB7lEXBpdtY0NzLIm9MrbZYiFChB.jpg?r=484"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "last_christmas",
+		"title": "Last Christmas",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt8623904",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://dkfhw9rzsr80z.cloudfront.net/NBC-IN-001-A1239/artworks/posters/NBC-IN-001-A1239-P704.jpg?hash=1601219725"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "marriage_story",
+		"title": "Marriage Story",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt7653254",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://occ-0-1853-299.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABWcaXrr4DFaAC8t139We-wK2s0LLDXErPAeRxZ9WRpiInk9XAOw7k6UPozLLOPMxLB2XyNgMJVBRo23NMNQme3f9N7JaeDvrXwIVON2ANzUCAbv0FRhCVf0cCzeC.jpg?r=2ba"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "judy",
+		"title": "Judy",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt7549996",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://see.news/wp-content/uploads/2020/02/Judy-movie-poster-scaled.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "falling_inn_love",
+		"title": "Falling Inn Love",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt9860728",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://occ-0-1853-299.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZTc3UXPxFYF6CC14UP3S34HM4pmUTiGibKmnXY8_ETHmVTZ84EfvrB1PVl0Sxntgh2ey5EAQTffl07pRuqIIjf606elNCO81HxfK0kcnjQKOM587XpnVki_qKm-.jpg?r=7d8"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "rainy_day_in_new_york",
+		"title": "A Rainy Day in New York",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt7139936",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://i.ytimg.com/vi/Bc9Hi-12Bio/maxresdefault.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "isnt_it_romantic",
+		"title": "Isn't It Romantic",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt2452244",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://s3.amazonaws.com/saportakinsta/wp-content/uploads/2019/03/isnt-it-romantic.jpg"
+			}]
+		}]
+	}],
+	"author": {
+		"name": "Juan José"
+	},
+	"id": "GolTV_Movies_Romantic",
+	"title": "Movies Romantic"
+}
