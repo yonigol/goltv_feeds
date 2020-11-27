@@ -145,7 +145,7 @@
 		},
 		"content": {
 			"type": "feed",
-			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW4vbWlkZGxlSnNvbi5hc2h4P2NhdFR5cGU9MSZjYXRJZD0xNzEzJm1haW5DYXRJZD0z"
+			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE3MTMmbWFpbkNhdElkPTM="
 		},
 		"link": {
 			"rel": "alternate",
