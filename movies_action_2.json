@@ -44,6 +44,25 @@
 		"type": {
 			"value": "video"
 		},
+		"id": "wonder_woman_1984",
+		"title": "Wonder Woman 1984",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt7126948",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://wallpapercave.com/wp/wp6389854.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
 		"id": "enola_holmes",
 		"title": "Enola Holmes",
 		"summary": "",
