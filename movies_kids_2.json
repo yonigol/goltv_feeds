@@ -40,6 +40,25 @@
 				"src": "https://images.gmanews.tv/webpics/2020/09/640_mulan_2020_09_08_17_16_22.jpg"
 			}]
 		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "luca",
+		"title": "Luca",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/movie/tt12801262",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/FCGZXXRWNRHSJMAF364X6BONDI.jpg"
+			}]
+		}]
 	}, {
 		"type": {
 			"value": "video"
