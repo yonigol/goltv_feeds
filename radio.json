@@ -10,7 +10,7 @@
 		"title": "Reshet Bet",
 		"summary": "",
 		"content": {
-			"src": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCbetLAM",
+			"src": "https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/playlist.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -44,11 +44,49 @@
 		"type": {
 			"value": "video"
 		},
+		"id": "galatz",
+		"title": "Galatz",
+		"summary": "",
+		"content": {
+			"src": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://avisanto.co.il/wp-content/uploads/2016/09/galatz.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "echo_99",
+		"title": "Echo 99",
+		"summary": "",
+		"content": {
+			"src": "http://99.livecdn.biz/99fm",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://i.ytimg.com/vi/5dBqMHlqevk/maxresdefault.jpg"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
 		"id": "reshet_gimel",
 		"title": "Reshet Gimel",
 		"summary": "",
 		"content": {
-			"src": "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCgimmelLAM",
+			"src": "https://kanlivep2event-i.akamaihd.net/hls/live/749625/749625/playlist.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -82,11 +120,11 @@
 		"type": {
 			"value": "video"
 		},
-		"id": "harel",
-		"title": "Harel",
+		"id": "radio_tel_aviv",
+		"title": "Radio Tel Aviv",
 		"summary": "",
 		"content": {
-			"src": "https://5e0d15ab12687.streamlock.net/live/HAREL.stream/playlist.m3u8",
+			"src": "http://102.livecdn.biz/102fm_aac",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -94,159 +132,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/HAREL/harel.png"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "abu_ghosh",
-		"title": "Abu Ghosh",
-		"summary": "",
-		"content": {
-			"src": "https://5e0d15ab12687.streamlock.net/live/ABUGOSH.stream/chunklist_w741466022.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/ABUGOSH/abugosh.png"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "hemed",
-		"title": "Hemed",
-		"summary": "",
-		"content": {
-			"src": "https://5d8c50e7b358f.streamlock.net/live/HAMED.stream/playlist.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/HAMED/HEMED.PNG"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "shoresh",
-		"title": "Shoresh",
-		"summary": "",
-		"content": {
-			"src": "https://5d8c50e7b358f.streamlock.net/live/SHORES.stream/playlist.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/SHORES/shoresh.png"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "havat_shaar_hagai",
-		"title": "Havat Shaar Hagai",
-		"summary": "",
-		"content": {
-			"src": "https://5d8c50e7b358f.streamlock.net/live/HAVATSHAARHAGY.stream/playlist.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/HAVATSHAARHAGY/HAVATSHAARHAGAY.PNG"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "shaar_hagai",
-		"title": "Shaar Hagai",
-		"summary": "",
-		"content": {
-			"src": "https://5d8c50e7b358f.streamlock.net/live/SHAARHAGAI.stream/playlist.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/SHAARHAGAI/SHAARHAGAI.PNG"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "sataf",
-		"title": "Sataf",
-		"summary": "",
-		"content": {
-			"src": "https://5d8c50e7b358f.streamlock.net/live/SATAF.stream/playlist.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/SATAF/SATAF.PNG"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "bnei_dror",
-		"title": "Bnei Dror",
-		"summary": "",
-		"content": {
-			"src": "https://5e0d15ab12687.streamlock.net/live/BNEIDROR.stream/playlist.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/BNEIDROR/BNEI-DROR.PNG"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "netanya",
-		"title": "Netanya",
-		"summary": "",
-		"content": {
-			"src": "https://5e0d15ab12687.streamlock.net/live/NETANYA.stream/playlist.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/NETANYA/NETANYA_2.PNG"
+				"src": "https://danilevy.co.il/wp-content/uploads/2015/03/radio-tel-aviv.jpg"
 			}]
 		}]
 	}],
