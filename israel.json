@@ -48,7 +48,7 @@
 		"title": "Reshet - Channel 13",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/channel13.il.m3u8",
+			"src": "https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -56,7 +56,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431218/image_assets/19067955/cms.jpg?1521496129"
+				"src": "https://media.reshet.tv/image/upload/t_og_image/v1641070414/uploads/2022/902792949.jpg"
 			}]
 		}]
 	},{
