@@ -67,7 +67,7 @@
 		"title": "חינוכית 23",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/kankids.il.m3u8",
+			"src": "https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
