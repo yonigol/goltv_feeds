@@ -1,0 +1,220 @@
+{
+	"type": {
+		"value": "feed"
+	},
+	"entry": [{
+		"type": {
+			"value": "video"
+		},
+		"id": "Kan11",
+		"title": "Kan",
+		"summary": "",
+		"content": {
+			"src": "https://kanapi.media.kan.org.il/Redirector/ipbc/direct/kan-11/hls-live.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431219/image_assets/19067959/cms.jpg?1521496118"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "channel12",
+		"title": "Keshet - Channel 12",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/channel12.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431217/image_assets/19067935/cms.jpg?1521496145"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "channel13",
+		"title": "Reshet - Channel 13",
+		"summary": "",
+		"content": {
+			"src": "https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://media.reshet.tv/image/upload/t_og_image/v1641070414/uploads/2022/902792949.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "chinuchit_23",
+		"title": "חינוכית 23",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/kankids.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6552863/image_assets/20452779/cms.jpg?1533456024"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "keshet_news",
+		"title": "חדשות 12",
+		"summary": "",
+		"content": {
+			"src": "http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6460516/image_assets/19290100/cms.jpg?1525416100"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "ynet_news",
+		"title": "Ynet News",
+		"summary": "",
+		"content": {
+			"src": "https://ynet-lh.akamaihd.net/i/ynet_1@123290/index_1_av-p.m3u8?sd=10&rebase=on",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6630315/image_assets/21621472/cms.jpg?1548060007"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "channel20",
+		"title": "Channel 20",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/channel20.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6455428/image_assets/19243101/cms.jpg?1523827153"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "channel24",
+		"title": "ערוץ 24",
+		"summary": "",
+		"content": {
+			"src": "https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6896663/image_assets/21837652/cms.jpg?1550873710"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "knesset",
+		"title": "ערוץ הכנסת",
+		"summary": "",
+		"content": {
+			"src": "http://w3.013.gostreaming.tv:1935/Knesset/myStream/chunklist_w997581554.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6460515/image_assets/19290096/cms.jpg?1523827363"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "channel9",
+		"title": "Channel 9",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/channel9.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://images.applicaster.com/accounts/636/broadcasters/737/vod_items/6431231/image_assets/19093990/cms.jpg?1521493885"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "channel 98",
+		"title": "Channel 98",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/channel98.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf10Jer9A-YlaZAlKgjvfe0_3U9nRGusUMy91DS21eVOpVFsc&s"
+			}]
+		}]
+	}],
+	"author": {
+		"name": "Juan José"
+	},
+	"id": "GolTV_all_out_studio",
+	"title": "All Out Studio"
+}
