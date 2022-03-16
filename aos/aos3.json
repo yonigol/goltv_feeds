@@ -1,0 +1,15 @@
+{
+	"title": "All Out Studio - High Intensity Dance Cardio",
+	"subtitle": "",
+	"type": {
+		"value": "feed"
+	},
+	"entry": [{
+		"type": {
+			"value": "feed"
+		},
+		"content": {
+			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly96YXBwLXBpcGVzLmhlcm9rdWFwcC5jb20vaGVhcnN0ZHMvZmV0Y2hEYXRhP3R5cGU9ZmVlZCZ1cmw9UDNKemN6MW9kSFJ3Y3pvdkwyaHZkMlI1Wm1WbFpITXRjSEp2WkM1ek15NWhiV0Y2YjI1aGQzTXVZMjl0TDJGd2NHeHBZMkZ6ZEdWeUwwRndjR3hwWTJGemRHVnlMVUZzYkU5MWRGTjBkV1JwYnkxSWFXZG9MVWx1ZEdWdWMybDBlUzFFWVc1alpTMURZWEprYVc4dFZtbGtaVzh0Um1WbFpDNTRiV3dtWVhWMGFGOXBaRDFUT0RJek5EVXhNREkzWDFWVExGTTVNamswTlRBNU1EWmZWVk1tYzI5eWRFSjVQWFJwZEd4bA=="
+		}
+	}]
+}
