@@ -37,22 +37,22 @@
 		},
 		{
 			"id": "aos_2",
-			"title": "אחרי נעילה",
-			"summary": "מבט מעמיק על מלחמת יום הכיפורים - הקרבות, הפצעים, האנשים והשירים",
+			"title": "Fit After 40",
+			"summary": "",
 			"media_group": [{
 				"type": "image",
 				"media_item": [{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/15/imgid=40559_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/e3c0fd9a-a8a8-4a2c-9d5d-ecbc116bae6b/thumb_1920x1080_00002_1559658158_52758.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base",
 						"type": "image"
 					},
 					{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/15/imgid=40559_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/e3c0fd9a-a8a8-4a2c-9d5d-ecbc116bae6b/thumb_1920x1080_00002_1559658158_52758.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_16x9",
 						"type": "image"
 					},
 					{
-						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/10/15/imgid=40559_E.jpeg",
+						"src": "https://hips.hearstapps.com/vidthumb/e3c0fd9a-a8a8-4a2c-9d5d-ecbc116bae6b/thumb_1920x1080_00002_1559658158_52758.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_1x1",
 						"type": "image"
 					}
@@ -63,28 +63,28 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE3MDAmbWFpbkNhdElkPTM="
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMi5qc29u"
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
 		{
 			"id": "aos_3",
-			"title": "מנאייכ",
-			"summary": "דרמת מתח משטרתית בכיכובם של שלום אסייג ועמוס תמם",
+			"title": "Men after 40",
+			"summary": "",
 			"media_group": [{
 				"type": "image",
 				"media_item": [{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/21/imgid=36796_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/ac019ed7-f39f-4cb7-a25e-250135035b48/thumb_1920x1080_00002_1557507711_92021.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base",
 						"type": "image"
 					},
 					{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/7/21/imgid=36796_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/ac019ed7-f39f-4cb7-a25e-250135035b48/thumb_1920x1080_00002_1557507711_92021.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_16x9",
 						"type": "image"
 					},
 					{
-						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/7/21/imgid=36796_E.jpeg",
+						"src": "https://hips.hearstapps.com/vidthumb/ac019ed7-f39f-4cb7-a25e-250135035b48/thumb_1920x1080_00002_1557507711_92021.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_1x1",
 						"type": "image"
 					}
@@ -95,28 +95,28 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MzYmbWFpbkNhdElkPTM="
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMy5qc29u"
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
 		{
 			"id": "aos_4",
-			"title": "טהרן",
-			"summary": "תמר רביניאן (ניב סולטן) היא סוכנת מוסד הנשלחת למשימתה הראשונה בלב טהרן",
+			"title": "All Out at Home",
+			"summary": "",
 			"media_group": [{
 				"type": "image",
 				"media_item": [{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/25/imgid=33995_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/e9c87f91-22b7-4647-9337-97bcb3085fed/thumb_1920x1080_00002_1585321496_43944.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base",
 						"type": "image"
 					},
 					{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/25/imgid=33995_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/e9c87f91-22b7-4647-9337-97bcb3085fed/thumb_1920x1080_00002_1585321496_43944.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_16x9",
 						"type": "image"
 					},
 					{
-						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/6/24/imgid=35721_E.jpeg",
+						"src": "https://hips.hearstapps.com/vidthumb/e9c87f91-22b7-4647-9337-97bcb3085fed/thumb_1920x1080_00002_1585321496_43944.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_1x1",
 						"type": "image"
 					}
@@ -127,28 +127,28 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MjcmbWFpbkNhdElkPTM="
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zNC5qc29u"
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
 		{
 			"id": "aos_5",
-			"title": "שב\"ס",
-			"summary": "תכנית מערכונים המביאה את קורותיהם של הסוהרים והאסירים בכלא ענבים",
+			"title": "10 minute Pilates",
+			"summary": "",
 			"media_group": [{
 				"type": "image",
 				"media_item": [{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/8/23/imgid=37746_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/1a70d3f4-fa7f-4e07-b9a2-5928e96031d8/thumb_1920x1080_00002_1576861926_77704.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base",
 						"type": "image"
 					},
 					{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/8/23/imgid=37746_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/1a70d3f4-fa7f-4e07-b9a2-5928e96031d8/thumb_1920x1080_00002_1576861926_77704.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_16x9",
 						"type": "image"
 					},
 					{
-						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/8/23/imgid=37746_E.jpeg",
+						"src": "https://hips.hearstapps.com/vidthumb/1a70d3f4-fa7f-4e07-b9a2-5928e96031d8/thumb_1920x1080_00002_1576861926_77704.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_1x1",
 						"type": "image"
 					}
@@ -159,28 +159,28 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0ODkmbWFpbkNhdElkPTM="
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zNS5qc29u"
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
 		{
 			"id": "aos_6",
-			"title": "היהודים באים",
-			"summary": "סאטירה ישראלית החוזרת לרגעים הגדולים (וגם הקטנים) של העם היהודי",
+			"title": "Bare Burn",
+			"summary": "",
 			"media_group": [{
 				"type": "image",
 				"media_item": [{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/7/imgid=33071_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/ad4bbc11-8f86-4a04-a037-2047514bbc9e/thumb_1920x1080_00002_1561466582_34103.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base",
 						"type": "image"
 					},
 					{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/5/7/imgid=33071_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/ad4bbc11-8f86-4a04-a037-2047514bbc9e/thumb_1920x1080_00002_1561466582_34103.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_16x9",
 						"type": "image"
 					},
 					{
-						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/5/7/imgid=33071_E.jpeg",
+						"src": "https://hips.hearstapps.com/vidthumb/ad4bbc11-8f86-4a04-a037-2047514bbc9e/thumb_1920x1080_00002_1561466582_34103.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_1x1",
 						"type": "image"
 					}
@@ -191,28 +191,28 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTQ3Jm1haW5DYXRJZD0z"
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zNi5qc29u"
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
 		{
 			"id": "aos_7",
-			"title": "זהו זה 2020",
-			"summary": "תוכנית הקאלט המיתולוגית נקראה לדגל וחוזרת לרגל המצב",
+			"title": "Women's Health 30-Day Challenge",
+			"summary": "",
 			"media_group": [{
 				"type": "image",
 				"media_item": [{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/3/26/imgid=30844_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/dd25be06-0246-4e83-b090-3498faacb6c1/thumb_1920x1080_00001_1579708857_4212.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base",
 						"type": "image"
 					},
 					{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/3/26/imgid=30844_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/dd25be06-0246-4e83-b090-3498faacb6c1/thumb_1920x1080_00001_1579708857_4212.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_16x9",
 						"type": "image"
 					},
 					{
-						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/3/30/imgid=30844_E.jpeg",
+						"src": "https://hips.hearstapps.com/vidthumb/dd25be06-0246-4e83-b090-3498faacb6c1/thumb_1920x1080_00001_1579708857_4212.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_1x1",
 						"type": "image"
 					}
@@ -223,28 +223,28 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1OTUmbWFpbkNhdElkPTM="
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zNy5qc29u"
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
 		{
 			"id": "aos_8",
-			"title": "המרדף",
-			"summary": "שעשועון טריוויה אינטליגנטי, זוכה פרס האקדמיה, בהנחיית עידו רוזנבלום",
+			"title": "Toning Transformation",
+			"summary": "",
 			"media_group": [{
 				"type": "image",
 				"media_item": [{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/26/imgid=41075_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/c7eecfc5-2a8d-4b74-af66-d292662edc73/thumb_1920x1080_00002_1569597633_75159.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base",
 						"type": "image"
 					},
 					{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/10/26/imgid=41075_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/c7eecfc5-2a8d-4b74-af66-d292662edc73/thumb_1920x1080_00002_1569597633_75159.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_16x9",
 						"type": "image"
 					},
 					{
-						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/10/26/imgid=41075_E.jpeg",
+						"src": "https://hips.hearstapps.com/vidthumb/c7eecfc5-2a8d-4b74-af66-d292662edc73/thumb_1920x1080_00002_1569597633_75159.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_1x1",
 						"type": "image"
 					}
@@ -255,28 +255,28 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTQyJm1haW5DYXRJZD0z"
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zOC5qc29u"
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
 		{
 			"id": "aos_9",
-			"title": "כאן דוקו",
-			"summary": "יצירה דוקומנטרית, מקורית, מרגשת וחדשנית מבית כאן 11",
+			"title": "All in 18",
+			"summary": "",
 			"media_group": [{
 				"type": "image",
 				"media_item": [{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/11/imgid=16437_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/d4aca757-9c2e-4e07-b23d-cc4b5c2b8507/thumb_1920x1080_00002_1566229322_78735.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base",
 						"type": "image"
 					},
 					{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/7/11/imgid=16437_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/d4aca757-9c2e-4e07-b23d-cc4b5c2b8507/thumb_1920x1080_00002_1566229322_78735.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_16x9",
 						"type": "image"
 					},
 					{
-						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/7/11/imgid=16437_E.jpeg",
+						"src": "https://hips.hearstapps.com/vidthumb/d4aca757-9c2e-4e07-b23d-cc4b5c2b8507/thumb_1920x1080_00002_1566229322_78735.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_1x1",
 						"type": "image"
 					}
@@ -287,28 +287,28 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEwNzYmbWFpbkNhdElkPTM="
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zOS5qc29u"
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
 		{
 			"id": "aos_10",
-			"title": "זמן אמת",
-			"summary": "אסף ליברמן בתכנית תחקירים עם הסיפורים העיתונאיים החשובים ביותר",
+			"title": "Easy Yoga",
+			"summary": "",
 			"media_group": [{
 				"type": "image",
 				"media_item": [{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/29/imgid=3672_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/d05fa599-9fc0-44ac-b697-fb226b5fe6cf/thumb_1920x1080_00002_1559674675_23294.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base",
 						"type": "image"
 					},
 					{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2019/1/29/imgid=3672_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/d05fa599-9fc0-44ac-b697-fb226b5fe6cf/thumb_1920x1080_00002_1559674675_23294.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_16x9",
 						"type": "image"
 					},
 					{
-						"src": "https://kanweb.blob.core.windows.net/download/pictures/2019/5/22/imgid=3672_E.jpeg",
+						"src": "https://hips.hearstapps.com/vidthumb/d05fa599-9fc0-44ac-b697-fb226b5fe6cf/thumb_1920x1080_00002_1559674675_23294.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_1x1",
 						"type": "image"
 					}
@@ -319,28 +319,28 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEwNjYmbWFpbkNhdElkPTM="
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMTAuanNvbg=="
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
 		{
 			"id": "aos_11",
-			"title": "אנחנו על המפית",
-			"summary": "השף ברק יחזקאלי פוגש את השפים שחוקרים את המטבח המקומי והעכשווי",
+			"title": "Power Up",
+			"summary": "",
 			"media_group": [{
 				"type": "image",
 				"media_item": [{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/8/25/imgid=37834_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/2d51adf7-19aa-43d6-97ac-681780e7fe92/thumb_1920x1080_00002_1562083951_85075.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base",
 						"type": "image"
 					},
 					{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/8/25/imgid=37834_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/2d51adf7-19aa-43d6-97ac-681780e7fe92/thumb_1920x1080_00002_1562083951_85075.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_16x9",
 						"type": "image"
 					},
 					{
-						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/8/25/imgid=37834_E.jpeg",
+						"src": "https://hips.hearstapps.com/vidthumb/2d51adf7-19aa-43d6-97ac-681780e7fe92/thumb_1920x1080_00002_1562083951_85075.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_1x1",
 						"type": "image"
 					}
@@ -351,28 +351,28 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyNzQmbWFpbkNhdElkPTM="
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMTEuanNvbg=="
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
 		{
 			"id": "aos_12",
-			"title": "זיכרון בסלון",
-			"summary": "לזכור ולא לשכוח - בסלון. כאן מציגים מפגשי זיכרון מצולמים בסלון",
+			"title": "Burner",
+			"summary": "",
 			"media_group": [{
 				"type": "image",
 				"media_item": [{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/20/imgid=32188_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/d8ed616c-e3e1-4a4a-aedb-fb5c345105c1/thumb_1920x1080_00002_1559769632_39345.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base",
 						"type": "image"
 					},
 					{
-						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanweb.blob.core.windows.net/download/pictures/2020/4/20/imgid=32188_A.jpeg&W=454&Q=80",
+						"src": "https://hips.hearstapps.com/vidthumb/d8ed616c-e3e1-4a4a-aedb-fb5c345105c1/thumb_1920x1080_00002_1559769632_39345.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_16x9",
 						"type": "image"
 					},
 					{
-						"src": "https://kanweb.blob.core.windows.net/download/pictures/2020/4/20/imgid=32196_E.jpeg",
+						"src": "https://hips.hearstapps.com/vidthumb/d8ed616c-e3e1-4a4a-aedb-fb5c345105c1/thumb_1920x1080_00002_1559769632_39345.jpg?crop=1xw:1xh;center,top",
 						"key": "image_base_1x1",
 						"type": "image"
 					}
@@ -383,7 +383,7 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2MDcmbWFpbkNhdElkPTM="
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMTIuanNvbg=="
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		}
