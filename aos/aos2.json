@@ -10,6 +10,7 @@
 		},
 		"content": {
 			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMi5qc29u"
-		}
-	}]
+}
+}
+]
 }
