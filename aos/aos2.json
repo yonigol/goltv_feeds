@@ -1,5 +1,5 @@
 {
-	"title": "All Out Studio - Fit After 40",
+	"title": "All Out Studio - High Intensity Dance Cardio",
 	"subtitle": "",
 	"type": {
 		"value": "feed"
@@ -9,6 +9,7 @@
 			"value": "feed"
 		},
 		"content": {
-			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly96YXBwLXBpcGVzLmhlcm9rdWFwcC5jb20vaGVhcnN0ZHMvZmV0Y2hEYXRhP3R5cGU9ZmVlZCZ1cmw9UDNKemN6MW9kSFJ3Y3pvdkwyaHZkMlI1Wm1WbFpITXRjSEp2WkM1ek15NWhiV0Y2YjI1aGQzTXVZMjl0TDJGd2NHeHBZMkZ6ZEdWeUwwRndjR3hwWTJGemRHVnlMVUZzYkU5MWRGTjBkV1JwYnkxR2FYUXRRV1owWlhJdE5EQXRWbWxrWlc4dFJtVmxaQzU0Yld3bVlYVjBhRjlwWkQxVE9ESXpORFV4TURJM1gxVlRMRk01TWprME5UQTVNRFpmVlZNbWMyOXlkRUo1UFhScGRHeGw="
+			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMi5qc29u"
+		}
 	}]
 }
