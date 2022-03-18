@@ -3,6 +3,574 @@
 		"value": "feed"
 	},
 	"entry": [{
+			"id": "1808",
+			"title": "שקשוקה",
+			"summary": "שקשוקה ממשיכה להוביל שיח עכשווי המביא את עולמם של ילדי בית הספר",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2022/3/6/imgid=70406_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2022/3/6/imgid=70406_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2022/3/6/imgid=70406_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE4MDgmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		},
+		{
+			"id": "1729",
+			"title": "הבאר",
+			"summary": "עונה שנייה מפתיעה במיוחד לסדרת המתח וההתבגרות. 8+",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2022/2/2/imgid=68599_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2022/2/2/imgid=68599_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2022/2/2/imgid=68599_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE3MjkmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		},
+		{
+			"id": "1527",
+			"title": "סליחה על השאלה ילדים",
+			"summary": " ילדים אמיצים עונים על השאלות שתמיד רציתם לשאול",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2022/1/30/imgid=68440_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2022/1/30/imgid=68440_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2021/4/29/imgid=51908_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MjcmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		},
+		{
+			"id": "1904",
+			"title": "כראמל",
+			"summary": "אגדה על שלושה ילדים שיום אחד יורשים טירה, מפעל, וחתול פלאי בשם כראמל",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/12/20/imgid=66148_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/12/20/imgid=66148_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2021/12/27/imgid=66534_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE5MDQmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		},
+		{
+			"id": "1819",
+			"title": "מקיף מילאנו",
+			"summary": "מה קורה כשמגמת עיצוב אופנה זוהרת נוחתת בבית ספר מקצועי מחוספס?",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/9/14/imgid=60907_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/9/14/imgid=60907_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2021/9/14/imgid=60907_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE4MTkmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		},
+		{
+			"id": "1890",
+			"title": "האחיין שלי בנץ",
+			"summary": "השטן מבטיח להפוך מורה למנהל בית ספר אם יצליח להעביר את הבן שלו בגרויות",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/11/25/imgid=64855_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/11/25/imgid=64855_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2021/12/5/imgid=65397_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE4OTAmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		},
+		{
+			"id": "1905",
+			"title": "האולפן שלי בנץ",
+			"summary": "תכנית ראיונות קומית המלווה את \"האחיין שלי בנץ\" בהנחייתו של שרון טייכר",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/11/25/imgid=64869_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/11/25/imgid=64869_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2021/11/25/imgid=64874_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE5MDUmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		},
+		{
+			"id": "1872",
+			"title": "השמרטפים",
+			"summary": "הכירו את השמרטפים החדשים של ילדי ישראל! בכל פרק נכיר את עולמו של ילד",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/10/4/imgid=61858_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/10/4/imgid=61858_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2021/10/4/imgid=61858_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE4NzImbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		},
+		{
+			"id": "1898",
+			"title": "בלוגה בלוז",
+			"summary": "קומדיה על מחנה הקיץ הכי קרוע בארץ ואוסף הדמויות שהופכות אותו למה שהוא",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/10/18/imgid=62717_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/10/18/imgid=62717_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2021/10/18/imgid=62717_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE4OTgmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		},
+		{
+			"id": "1883",
+			"title": "חקירות קטנות",
+			"summary": "ארבעה ילדים פותחים סוכנות בילוש ומתעדים את הרפתקאותיהם בוידאו בלוג",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/8/8/imgid=58848_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/8/8/imgid=58848_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2021/8/8/imgid=58848_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE4ODMmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		}, {
+			"id": "1778",
+			"title": "לבד בבית",
+			"summary": "כשההורים שלך נוסעים לחופשה של כמה ימים בחו\"ל ו...נתקעים שם",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/1/20/imgid=45850_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/1/20/imgid=45850_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2021/1/12/imgid=45298_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE3NzgmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		}, {
+			"id": "1875",
+			"title": "מי פה הבוס?",
+			"summary": "שש רגליים היא חברת פרסום חדשנית, אבל מי הם אלו שעומדים מאחוריה...?",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/7/20/imgid=57465_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/7/20/imgid=57465_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2021/7/20/imgid=57465_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE4NzUmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		}, {
+			"id": "1791",
+			"title": "מקס המדען",
+			"summary": "סדרה מדעית, בה עושים ניסויים ענקיים, והפוכים את המדע למרתק ומרגש",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/2/15/imgid=47451_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/2/15/imgid=47451_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2021/2/15/imgid=47451_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE3OTEmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		}, {
+			"id": "1744",
+			"title": "חג האורים",
+			"summary": "בחג החנוכה מתגלים הנסים אשר ערבות הדדית וחברות מחוללים",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2020/12/9/imgid=43421_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2020/12/9/imgid=43421_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2020/12/9/imgid=43421_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE3NDQmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		}, {
+			"id": "1794",
+			"title": "10 עובדות על...",
+			"summary": "מה באמת קורה כשחלום הופך למציאות? צאו איתנו למסע בעברם של מנהיגי ישראל",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/3/11/imgid=48916_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2021/3/11/imgid=48916_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2021/3/11/imgid=48916_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE3OTQmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		},
+		{
+			"id": "1300",
+			"title": "אחת שיודעת",
+			"summary": "טוק שואו מומצא, בהנחיית הזמרת, השחקנית והמנחה שני כהן",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2020/11/21/imgid=21150_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2020/11/21/imgid=21150_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2020/11/21/imgid=21150_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMDAmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		}, {
+			"id": "1307",
+			"title": "הפסקת אוכל",
+			"summary": "תוכנית העשרה בנושא אוכל ותזונה בהנחיית רותי רוסו",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2019/1/27/imgid=3484_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2019/1/27/imgid=3484_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2020/11/24/imgid=21154_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMDcmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		}, {
+			"id": "1370",
+			"title": "אפסילון",
+			"summary": "סדרה לימודית לילדים שעוסקת בתחומי המתמטיקה והמדעים בדרך עכשווית וקלילה",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2020/11/21/imgid=21153_A.jpeg&W=454&Q=80",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://www.kan.org.il/AppKan_TV/thumbnailSet.aspx?Img=https://kanstatic.azureedge.net/download/pictures/2020/11/21/imgid=21153_A.jpeg&W=454&Q=80",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://kanstatic.azureedge.net/download/pictures/2020/11/21/imgid=21153_E.jpeg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzNzAmbWFpbkNhdElkPTEx"
+			},
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
+		}, {
 			"id": "1664",
 			"title": "משפחה באוטו",
 			"summary": "בכל חג נרגשים, מצפים ושרים נוסעים יעלי ויויו עם הוריהם לחגוג את החג",
@@ -32,7 +600,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2NjQmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1648",
@@ -64,7 +632,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2NDgmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1645",
@@ -96,7 +664,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE2NDUmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1527",
@@ -128,7 +696,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MjcmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1310",
@@ -160,7 +728,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMTAmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1587",
@@ -192,7 +760,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1ODcmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1299",
@@ -224,7 +792,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyOTkmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1296",
@@ -256,7 +824,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyOTYmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1530",
@@ -288,7 +856,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MzAmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1537",
@@ -320,7 +888,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MzcmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1528",
@@ -352,7 +920,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MjgmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1298",
@@ -384,7 +952,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEyOTgmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1441",
@@ -416,7 +984,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0NDEmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1315",
@@ -448,7 +1016,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMTUmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1314",
@@ -480,7 +1048,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMTQmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1325",
@@ -512,7 +1080,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMjUmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1333",
@@ -544,7 +1112,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMzMmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1313",
@@ -576,7 +1144,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMTMmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1301",
@@ -608,7 +1176,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMDEmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1303",
@@ -640,7 +1208,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMDMmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1316",
@@ -672,7 +1240,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMTYmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1318",
@@ -704,7 +1272,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMTgmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1305",
@@ -736,7 +1304,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMDUmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1300",
@@ -768,7 +1336,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMDAmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1302",
@@ -800,7 +1368,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMDImbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1502",
@@ -832,7 +1400,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE1MDImbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1307",
@@ -864,7 +1432,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMDcmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1410",
@@ -896,7 +1464,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0MTAmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1499",
@@ -928,7 +1496,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTE0OTkmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1370",
@@ -960,7 +1528,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzNzAmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1312",
@@ -992,7 +1560,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMTImbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		},
 		{
 			"id": "1309",
@@ -1024,7 +1592,7 @@
 				"type": "feed",
 				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly93d3cua2FuLm9yZy5pbC9hcHBLYW5fVFYvbWlkZGxlSnNvblRWLmFzaHg/Y2F0VHlwZT0xJmNhdElkPTEzMDkmbWFpbkNhdElkPTEx"
 			},
-			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+			"screen_type": "42b75abd-f132-4cbe-afa2-98b7aa9a312f"
 		}
 	]
 }
