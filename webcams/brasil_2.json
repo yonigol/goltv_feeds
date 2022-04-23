@@ -6,11 +6,11 @@
 		"type": {
 			"value": "video"
 		},
-		"id": "Latrun",
-		"title": "Latrun",
+		"id": "copacabana_1",
+		"title": "Copacabana 1",
 		"summary": "",
 		"content": {
-			"src": "https://5d8c50e7b358f.streamlock.net/live/LATRUN.stream/playlist.m3u8",
+			"src": "https://videos-3.earthcam.com/fecnetwork/6593.flv/chunklist_w728650068.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwB3QE2VbeuyYEcTikLxInyaj8ATRA%2FlHyD621wxpGzow",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -18,18 +18,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/LATRUN/LATRUN.PNG"
+				"src": "https://cdn.skylinewebcams.com/live604.webp"
 			}]
 		}]
 	}, {
 		"type": {
 			"value": "video"
 		},
-		"id": "netanya",
-		"title": "Netanya",
+		"id": "copacabana_2",
+		"title": "Copacabana 2",
 		"summary": "",
 		"content": {
-			"src": "https://5e0d15ab12687.streamlock.net/live/NETANYA.stream/playlist.m3u8",
+			"src": "https://hd-auth.skylinewebcams.com/live.m3u8?a=e89t1cej7c8j1jghujk01ra6c3",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -37,7 +37,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/NETANYA/NETANYA_2.PNG"
+				"src": "https://cdn.skylinewebcams.com/live578.webp"
 			}]
 		}]
 	}],
