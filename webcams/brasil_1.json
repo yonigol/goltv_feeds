@@ -1,0 +1,15 @@
+{
+	"title": "WebCams - Brasil",
+	"subtitle": "",
+	"type": {
+		"value": "feed"
+	},
+	"entry": [{
+		"type": {
+			"value": "feed"
+		},
+		"content": {
+			"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi93ZWJjYW1zL2JyYXNpbF8yLmpzb24="
+		}
+	}]
+}
