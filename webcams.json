@@ -31,13 +31,13 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMV9hLmpzb24="
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi93ZWJjYW1zL3VzYV8xLmpzb24="
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
 		{
-			"id": "webcams_spain",
-			"title": "WebCams Spain",
+			"id": "webcams_brasil",
+			"title": "WebCams Brasil",
 			"summary": "",
 			"media_group": [{
 				"type": "image",
@@ -63,13 +63,46 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMi5qc29u"
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi93ZWJjYW1zL2JyYXNpbF8xLmpzb24="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+
+		{
+			"id": "webcams_spain",
+			"title": "WebCams España",
+			"summary": "",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi93ZWJjYW1zL3NwYWluXzEuanNvbg=="
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
 		{
 			"id": "webcams_italy",
-			"title": "WebCams Italy",
+			"title": "WebCams Italia",
 			"summary": "",
 			"media_group": [{
 				"type": "image",
@@ -95,7 +128,7 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMi5qc29u"
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi93ZWJjYW1zL2l0YWx5XzEuanNvbg=="
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
@@ -127,7 +160,7 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMy5qc29u"
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi93ZWJjYW1zL3BvcnR1Z2FsXzEuanNvbg=="
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		},
@@ -159,7 +192,7 @@
 			},
 			"content": {
 				"type": "feed",
-				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMTIuanNvbg=="
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi93ZWJjYW1zL2lzcmFlbF8xLmpzb24="
 			},
 			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
 		}
