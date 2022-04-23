@@ -6,11 +6,11 @@
 		"type": {
 			"value": "video"
 		},
-		"id": "Latrun",
-		"title": "Latrun",
+		"id": "usa1",
+		"title": "Times Square Crossroads 1",
 		"summary": "",
 		"content": {
-			"src": "https://5d8c50e7b358f.streamlock.net/live/LATRUN.stream/playlist.m3u8",
+			"src": "https://videos-3.earthcam.com/fecnetwork/15559.flv/chunklist_w671021134.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -25,11 +25,201 @@
 		"type": {
 			"value": "video"
 		},
-		"id": "netanya",
-		"title": "Netanya",
+		"id": "usa2",
+		"title": "Times Square Crossroads 2",
 		"summary": "",
 		"content": {
-			"src": "https://5e0d15ab12687.streamlock.net/live/NETANYA.stream/playlist.m3u8",
+			"src": "https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w160013666.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwOcaHzS7h83wBuEGaawzROVj6kgYJMpeZZ2hPBKapdMp",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "usa3",
+		"title": "Time Square Street Cam",
+		"summary": "",
+		"content": {
+			"src": "https://videos-3.earthcam.com/fecnetwork/9974.flv/chunklist_w408887958.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwPZHxHGYYNyj1sOjnb9uNRQ45maXKnipXypeiM1N0aBL",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "usa4",
+		"title": "Times Square South View 1",
+		"summary": "",
+		"content": {
+			"src": "https://videos-3.earthcam.com/fecnetwork/1415.flv/chunklist_w842108161.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwOOV0bnLm2XRbE8w0C4%2FmsUNofZga3%2FQxYC%2FD4yyF9kV",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "usa5",
+		"title": "Time Square South View 2",
+		"summary": "",
+		"content": {
+			"src": "https://videos-3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w1850506920.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwHB1DaCumZFtnvmdEXPWFoD883uJimxnVbzD4pjddgZW",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "usa6",
+		"title": "Herald Square",
+		"summary": "",
+		"content": {
+			"src": "https://videos-3.earthcam.com/fecnetwork/23505.flv/chunklist_w1477564602.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwGayaPzl3pwWV8IrLGG0pt7yp6oaTtFkGusjvj5QM5PF",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "usa7",
+		"title": "Empire State Building Panorama",
+		"summary": "",
+		"content": {
+			"src": "https://videos-3.earthcam.com/fecnetwork/13908.flv/chunklist_w1349534452.m3u8?t=R3bNUFQw1fOgbBpNsGnoJBEeDuIAjbC88j%2FJbJzKBSQ%3D&cid=",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "usa8",
+		"title": "Empire State Building",
+		"summary": "",
+		"content": {
+			"src": "https://videos-3.earthcam.com/fecnetwork/20489.flv/chunklist_w1702809485.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwMftPIFN7TLpSyTMEIjPp1FgA5ZXl1Yfl6r3mjWDX0Hk",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "usa9",
+		"title": "Midtown Manhattan",
+		"summary": "",
+		"content": {
+			"src": "https://videos-3.earthcam.com/fecnetwork/13903.flv/chunklist_w1379066122.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwHC3cZU5ue3QOrqM8D8HHEv%2BhZFnGEZWpvaweykhIdPx",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "usa10",
+		"title": "World Trade Center",
+		"summary": "",
+		"content": {
+			"src": "https://videos-3.earthcam.com/fecnetwork/10874.flv/chunklist_w1090211286.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwKnHUrZWdXWLXLBY6mTvbYpEqM51uAYOFYSnZDeKw8nJ",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "usa11",
+		"title": "Statue of Liberty",
+		"summary": "",
+		"content": {
+			"src": "https://videos-3.earthcam.com/fecnetwork/statueoflibertyHD.flv/chunklist_w1460770311.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwEpdSn8Z8Ap7sW0bbda4vaogaKjVpxNzSfEBli96tKQg",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "usa12",
+		"title": "Brooklyn Bridge",
+		"summary": "",
+		"content": {
+			"src": "https://videos-3.earthcam.com/fecnetwork/3983.flv/chunklist_w1430677582.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwEpdSn8Z8Ap7sW0bbda4vaqNOY7iWh2%2FhnlW3o9unalH",
 			"type": "video/hls"
 		},
 		"media_group": [{
