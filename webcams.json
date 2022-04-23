@@ -1,0 +1,167 @@
+{
+	"title": "WebCams",
+	"type": {
+		"value": "feed"
+	},
+	"entry": [{
+			"id": "webcams_usa",
+			"title": "WebCams USA",
+			"summary": "",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMV9hLmpzb24="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "webcams_spain",
+			"title": "WebCams Spain",
+			"summary": "",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMi5qc29u"
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+    {
+			"id": "webcams_italy",
+			"title": "WebCams Italy",
+			"summary": "",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMi5qc29u"
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+		{
+			"id": "webcams_portugal",
+			"title": "WebCams Portugal",
+			"summary": "",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMy5qc29u"
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		},
+    {
+			"id": "webcams_Israel",
+			"title": "WebCams Israel",
+			"summary": "",
+			"media_group": [{
+				"type": "image",
+				"media_item": [{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base",
+						"type": "image"
+					},
+					{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base_16x9",
+						"type": "image"
+					},
+					{
+						"src": "https://i.pinimg.com/236x/24/a3/7e/24a37e74a463d927180a41f5c90de75f--big-brother-uk-celebrity-big-brother.jpg",
+						"key": "image_base_1x1",
+						"type": "image"
+					}
+				]
+			}],
+			"type": {
+				"value": "feed"
+			},
+			"content": {
+				"type": "feed",
+				"src": "general-provider://fetchData?type=FEED_JSON&url=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3lvbmlnb2wvZ29sdHZfZmVlZHMvbWFpbi9hb3MvYW9zMTIuanNvbg=="
+			},
+			"screen_type": "82db283f-058b-44a8-818d-3480f30116cd"
+		}
+	]
+}
