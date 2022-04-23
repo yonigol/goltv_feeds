@@ -1,0 +1,49 @@
+{
+	"type": {
+		"value": "feed"
+	},
+	"entry": [{
+		"type": {
+			"value": "video"
+		},
+		"id": "Latrun",
+		"title": "Latrun",
+		"summary": "",
+		"content": {
+			"src": "https://5d8c50e7b358f.streamlock.net/live/LATRUN.stream/playlist.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://iroads.bvtech.co.il:444/upfiles/LATRUN/LATRUN.PNG"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "netanya",
+		"title": "Netanya",
+		"summary": "",
+		"content": {
+			"src": "https://5e0d15ab12687.streamlock.net/live/NETANYA.stream/playlist.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://iroads.bvtech.co.il:444/upfiles/NETANYA/NETANYA_2.PNG"
+			}]
+		}]
+	}],
+	"author": {
+		"name": "Juan José"
+	},
+	"id": "webcams_spain_2",
+	"title": "WebCams Spain"
+}
