@@ -2,74 +2,48 @@
 	"type": {
 		"value": "feed"
 	},
-	"title": "WebCams Israel",
 	"entry": [{
-			"type": {
-				"value": "video"
-			},
-			"id": "bd7424bc-671d-4a21-bf5a-dd87d8fa7140",
-			"title": "01: Dance Strength",
-			"published": "Invalid date",
-			"summary": "Equipment: Dumbbells,  Mat",
-			"media_group": [{
-				"type": "image",
-				"media_item": [{
-					"src": "https://hips.hearstapps.com/vidthumb/images/dancestrength-1560784962.jpg?crop=1.00xw:1.00xh;0,0",
-					"key": "image_base"
-				}]
-			}],
-			"content": {
-				"src": "https://streaming.hearstdigitalstudios.com/bd7424bc-671d-4a21-bf5a-dd87d8fa7140/video_rover_16x9_720p_hd_1560192782_28202.mp4",
-				"type": "video/hls"
-			},
-			"link": {
-				"type": "text/html",
-				"rel": "alternate",
-				"href": "hearst://play?voditemid=bd7424bc-671d-4a21-bf5a-dd87d8fa7140"
-			},
-			"extensions": {
-				"free": true,
-				"auth_id": "S823451027_US,S929450906_US",
-				"videoAds": [],
-				"duration": "1858",
-				"requires_authentication": false,
-				"ds_product_ids": ["S823451027_US", "S929450906_US"],
-				"is_downloadable": true
-			}
+		"type": {
+			"value": "video"
 		},
-		{
-			"type": {
-				"value": "video"
-			},
-			"id": "9f1ccfa5-a72f-4304-8c7c-4a354475aab6",
-			"title": "05: 10-Minute Yoga",
-			"published": "Invalid date",
-			"summary": "Equipment: Mat",
-			"media_group": [{
+		"id": "Latrun",
+		"title": "Latrun",
+		"summary": "",
+		"content": {
+			"src": "https://5d8c50e7b358f.streamlock.net/live/LATRUN.stream/playlist.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
 				"type": "image",
-				"media_item": [{
-					"src": "https://hips.hearstapps.com/vidthumb/9f1ccfa5-a72f-4304-8c7c-4a354475aab6/thumb_1280x720_00002_1559587942_62786.jpg?crop=1xw:1xh;center,top",
-					"key": "image_base"
-				}]
-			}],
-			"content": {
-				"src": "https://streaming.hearstdigitalstudios.com/9f1ccfa5-a72f-4304-8c7c-4a354475aab6/video_rover_16x9_720p_hd_1559587942_70636.mp4",
-				"type": "video/hls"
-			},
-			"link": {
-				"type": "text/html",
-				"rel": "alternate",
-				"href": "hearst://play?voditemid=9f1ccfa5-a72f-4304-8c7c-4a354475aab6"
-			},
-			"extensions": {
-				"free": true,
-				"auth_id": "S823451027_US,S929450906_US",
-				"videoAds": [],
-				"duration": "543",
-				"requires_authentication": false,
-				"ds_product_ids": ["S823451027_US", "S929450906_US"],
-				"is_downloadable": true
-			}
-		}
-	]
+				"key": "image_base",
+				"src": "https://iroads.bvtech.co.il:444/upfiles/LATRUN/LATRUN.PNG"
+			}]
+		}]
+	}, {
+		"type": {
+			"value": "video"
+		},
+		"id": "netanya",
+		"title": "Netanya",
+		"summary": "",
+		"content": {
+			"src": "https://5e0d15ab12687.streamlock.net/live/NETANYA.stream/playlist.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://iroads.bvtech.co.il:444/upfiles/NETANYA/NETANYA_2.PNG"
+			}]
+		}]
+	}],
+	"author": {
+		"name": "Juan José"
+	},
+	"id": "webcams_israel_2",
+	"title": "WebCams Israel"
 }
