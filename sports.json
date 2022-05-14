@@ -151,7 +151,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://lh5.googleusercontent.com/proxy/mbqsusb6eUd_pEzRc7AqPkcdchdnIZU-_ie61Xn3rdLbMhiD-l58gHNuGdy4XIRq-K82b42DkkKh9yBkzWyzhXoJFLGmy_sIc4ZbyfgB2t4V_2K5yw6a"
+				"src": "https://www.partner.co.il/globalassets/global/tv-channels/web/images/channels/sport_3.jpg"
 			}]
 		}]
 	},{
@@ -170,7 +170,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://lh3.googleusercontent.com/proxy/qLzzGgvwQQNLF8H1KkV_FfKpV9Zt9uX1AweC-RQtJJx3QascZoG7SkK0k4nwPYBH--T8C-tU_nmKmb_uz80hDf-icTAc02223SpKMnr70Ph1S3PeoEG9"
+				"src": "https://www.partner.co.il/globalassets/global/tv-channels/web/images/channels/sport_4.jpg"
 			}]
 		}]
 	},{
@@ -209,82 +209,6 @@
 				"type": "image",
 				"key": "image_base",
 				"src": "https://www.partner.co.il/globalassets/global/tv-channels/web/images/channels/one2.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "bein_laliga_es",
-		"title": "beIN Sports Liga ES",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/bein.laliga.es.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://www.mundoplus.tv/img/03608656708deffab39679bfd2a7ea0e"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "bein_es",
-		"title": "beIN Sports ES",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/bein.sports.es.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-E6iYjRw9drRvUMzla29dRGIL2prvRSMXuQ&usqp=CAU"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "bein_laliga_us",
-		"title": "beIN Sports Liga US",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/bein.sports.liga.us.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://lh3.googleusercontent.com/F-sCk1Grb90B21nor5TwwA4KLiRcf7uZ5-JFfAd0oE4i8x4jOgUTttw2loUEmoVAnqY"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "la_liga_tv",
-		"title": "La Liga TV",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/laligatv.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://images2.imgbox.com/75/5a/LgPtF6wk_o.jpg"
 			}]
 		}]
 	},{
