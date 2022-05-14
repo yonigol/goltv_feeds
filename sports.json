@@ -633,6 +633,25 @@
 		"type": {
 			"value": "video"
 		},
+		"id": "nba_pass_wizards",
+		"title": "NBA Washington Wizards",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nba.washington.wizards.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://cdn-wp.thesportsrush.com/2020/12/45b28a56-untitled-design-2020-12-23t222349.419.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
 		"id": "nba_pass_clipper",
 		"title": "NBA L.A. Clippers",
 		"summary": "",
