@@ -234,196 +234,6 @@
 		"type": {
 			"value": "video"
 		},
-		"id": "sky_serie_a",
-		"title": "Sky Sport Serie A",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.sport.serie.a.it.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://www.digital-news.it/img/palinsesti/2018/09/1537543096-skysport-seriea.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "sky_sport_uno",
-		"title": "Sky Sport Uno",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.sport.uno.it.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://1.bp.blogspot.com/-KUS7Ep2NsNw/XsPbUDS-KCI/AAAAAAAADBA/35I7H1Uk9jQkbm0fmlZrOksQ_GrQ6LB_QCLcBGAsYHQ/s640/Sky%2BSport%2B1%2BHD%2BUno%2BITALIA.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "sky_sport_arena_ita",
-		"title": "Sky Sport Arena ITA",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.sport.arena.it.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://www.stream2watch.is/images/streams/126637/15995822669373.png"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "sky_sports_preiemer",
-		"title": "Sky Sports Premiere League",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/diiefbxx.ss.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://matchannell.com/images/sky-premierleague.png"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "bt_1",
-		"title": "BT Sports 1",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/bt.sport.1.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://1.bp.blogspot.com/--39tlGEDcKg/Xrlu4H9h8RI/AAAAAAAAC0w/8DKRvcdZkvcpB-UY2y37IcMYDOlsICceACLcBGAsYHQ/s640/bt%2Bsport%2B1%2Bhd.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "bt_2",
-		"title": "BT Sports 2",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/bt.sport.2.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://1.bp.blogspot.com/-cdEdB1nUzR8/Xrlu04SX5YI/AAAAAAAAC0k/Drb931RKTSotbd4IsLSD-Nc-SXC0kwv0ACLcBGAsYHQ/s640/BT%2BSport%2B2%2BHD.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "bt_3",
-		"title": "BT Sports 3",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/bt.sport.3.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://1.bp.blogspot.com/-PFtd5AUmEDw/Xrlu1_xJjEI/AAAAAAAAC0s/jOGcsAytVHgAqtLBvpYFjWBKJEimFfgDwCLcBGAsYHQ/s640/BT%2BSport%2B3%2BHD.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "premier_1",
-		"title": "Premier 1",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/premier.1.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://1.bp.blogspot.com/-pod9UBc08z8/Xrlu40dJlfI/AAAAAAAAC04/sxtCnFk11fkYB-2IKzdl5rlMkCbUscBpwCLcBGAsYHQ/s640/premier%2Bsports%2B1.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "premier_2",
-		"title": "Premier 2",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/premier.2.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://1.bp.blogspot.com/-fnCrbg-BMqo/Xrlu5M6OikI/AAAAAAAAC08/0gpEwW7EtLQz6BNx6RlWwV32RcZRgiJpACLcBGAsYHQ/s1200/premier%2Bsports%2B2.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "freesports",
-		"title": "FreeSports",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/premier.3.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://www.tvwhirl.co.uk/media/115587/freesports2018b_9.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
 		"id": "nbc_sports_us",
 		"title": "NBC Sports US",
 		"summary": "",
@@ -551,6 +361,44 @@
 				"type": "image",
 				"key": "image_base",
 				"src": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "espn_us_2",
+		"title": "ESPN US 2",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/espn2.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://cdn.discgolf.ultiworld.com/wp-content/uploads/2020/10/ESPN2.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "espn_us_u",
+		"title": "ESPN U",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/espn.u.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://ustv247.tv/wp-content/uploads/2021/01/espnu.jpg"
 			}]
 		}]
 	},{
