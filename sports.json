@@ -310,44 +310,6 @@
 		"type": {
 			"value": "video"
 		},
-		"id": "cbs_sports_us",
-		"title": "CBS Sports",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/cbs.sports.network.usa.us.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://sportsfly.cbsistatic.com/fly-1016/bundles/sportsmediacss/images/fantasy/default-article-image-large.png"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "espn_deportes",
-		"title": "ESPN Deportes",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/espn.deportes.us.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://www.newswhip.com/wp-content/uploads/2018/02/Espndeportes-1080x625.png"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
 		"id": "espn_us",
 		"title": "ESPN US",
 		"summary": "",
@@ -437,63 +399,6 @@
 				"type": "image",
 				"key": "image_base",
 				"src": "https://cdn.technadu.com/wp-content/uploads/2020/02/FS2.png"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "bein_sports_1_AU",
-		"title": "beIN 1 AU",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nsw.sydney.bein.sports.1.au.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-AUSTRALIA.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "bein_sports_2_AU",
-		"title": "beIN 2 AU",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nsw.sydney.bein.sports.2.au.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-AUSTRALIA.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "bein_sports_3_AU",
-		"title": "beIN 3 AU",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nsw.sydney.bein.sports.3.au.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-AUSTRALIA.jpg"
 			}]
 		}]
 	},{
