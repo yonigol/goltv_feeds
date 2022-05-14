@@ -82,11 +82,11 @@
 		"type": {
 			"value": "video"
 		},
-		"id": "hot_action",
-		"title": "HOT Action",
+		"id": "hot_cinema1",
+		"title": "HOT Cinema 1",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hotaction.il.m3u8",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hot.cinema.1.il.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -101,11 +101,11 @@
 		"type": {
 			"value": "video"
 		},
-		"id": "hot_drama",
-		"title": "HOT Drama",
+		"id": "hot_cinema2",
+		"title": "HOT Cinema 2",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hotdrama.il.m3u8",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hot.cinema.2.il.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -113,18 +113,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/hotdrama.jpg"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/hotaction.jpg"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "hot_fun",
-		"title": "HOT Fun",
+		"id": "hot_cinema3",
+		"title": "HOT Cinema 3",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hotfun.il.m3u8",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hot.cinema.3.il.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -132,18 +132,18 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/hotfun.jpg"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/hotaction.jpg"
 			}]
 		}]
 	},{
 		"type": {
 			"value": "video"
 		},
-		"id": "hot_gold",
-		"title": "HOT Gold",
+		"id": "hot_cinema4",
+		"title": "HOT Cinema 4",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hotgold.il.m3u8",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hot.cinema.4.il.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -151,216 +151,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/hotgold.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "sky_atlantic",
-		"title": "Sky Atlantic",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.atlantic.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_atlantic.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "sky_action",
-		"title": "Sky Action",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.action.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_action.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "sky_comedy",
-		"title": "Sky Comedy",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.comedy.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_comdy.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "sky_disney",
-		"title": "Sky Disney",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.disney.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_disney.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "sky_drama",
-		"title": "Sky Drama",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.drama.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_drama.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "sky_family",
-		"title": "Sky Family",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.family.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_family.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "sky_cinema_greats",
-		"title": "Sky Cinema Greats",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.greats.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_greats.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "sky_cinema_hit",
-		"title": "Sky Cinema Hits",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.hits.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_hits.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "sky_cinema_premiere",
-		"title": "Sky Cinema Premiere",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.premiere.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_premiere.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "sky_cinema_scifi_horror",
-		"title": "Sky Cinema Sci-fi Horror",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.sci.fihorror.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_scifi.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "sky_cinema_thriller",
-		"title": "Sky Cinema Thriller",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sky.cinema.thriller.uk.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/sky_cinema_thriller.jpg"
+				"src": "http://assets-production.applicaster.com/applicaster-employees/support_team/yona/GolTV/channel_images/hotaction.jpg"
 			}]
 		}]
 	},{
