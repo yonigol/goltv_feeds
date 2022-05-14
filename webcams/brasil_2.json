@@ -18,7 +18,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://cdn.skylinewebcams.com/live604.webp"
+				"src": "https://github.com/yonigol/goltv_feeds/raw/main/webcams/images/copacabana_1.png"
 			}]
 		}]
 	}, {
@@ -29,7 +29,7 @@
 		"title": "Copacabana 2",
 		"summary": "",
 		"content": {
-			"src": "https://hd-auth.skylinewebcams.com/live.m3u8?a=e89t1cej7c8j1jghujk01ra6c3",
+			"src": "https://hd-auth.skylinewebcams.com/live.m3u8?a=4e3ckjefc7ofbupljp60j178i1",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -37,7 +37,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://cdn.skylinewebcams.com/live578.webp"
+				"src": "https://github.com/yonigol/goltv_feeds/raw/main/webcams/images/copacabana_2.png"
 			}]
 		}]
 	}],
