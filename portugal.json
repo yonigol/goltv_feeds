@@ -116,6 +116,25 @@
 				"src": "https://media.tv4.live/lasexta.es.png"
 			}]
 		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "globo_tv",
+		"title": "Globo TV Rio",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/globo.rj.br.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://futebolplayhd.com/imagens-futebol/9ff443ecc4ce15f6b54829d44e3a2b8f.jpg"
+			}]
+		}]
 	}],
 	"author": {
 		"name": "Juan José"
