@@ -614,11 +614,11 @@
 		"type": {
 			"value": "video"
 		},
-		"id": "nba_pass_toronto",
-		"title": "NBA Toronto Raptors",
+		"id": "nba_pass_cleveland",
+		"title": "NBA Cleveland Cavaliers",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nba.toronto.raptors.us.m3u8",
+			"src": "hhttps://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nba.cleveland.cavaliers.us.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -626,7 +626,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://thestreamable.com/media/pages/news/sling-tv-to-offer-free-preview-of-nba-league-pass-to-start-2019-2020-season/37f9fd0feb-1598051129/2019-10-21-at-7.27-am.jpeg"
+				"src": "https://cdn-wp.thesportsrush.com/2020/12/45b28a56-untitled-design-2020-12-23t222349.419.jpg"
 			}]
 		}]
 	},{
@@ -645,7 +645,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://thestreamable.com/media/pages/news/sling-tv-to-offer-free-preview-of-nba-league-pass-to-start-2019-2020-season/37f9fd0feb-1598051129/2019-10-21-at-7.27-am.jpeg"
+				"src": "https://cdn-wp.thesportsrush.com/2020/12/45b28a56-untitled-design-2020-12-23t222349.419.jpg"
 			}]
 		}]
 	},{
@@ -664,7 +664,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://thestreamable.com/media/pages/news/sling-tv-to-offer-free-preview-of-nba-league-pass-to-start-2019-2020-season/37f9fd0feb-1598051129/2019-10-21-at-7.27-am.jpeg"
+				"src": "hhttps://cdn-wp.thesportsrush.com/2020/12/45b28a56-untitled-design-2020-12-23t222349.419.jpg"
 			}]
 		}]
 	},{
@@ -683,7 +683,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://thestreamable.com/media/pages/news/sling-tv-to-offer-free-preview-of-nba-league-pass-to-start-2019-2020-season/37f9fd0feb-1598051129/2019-10-21-at-7.27-am.jpeg"
+				"src": "https://cdn-wp.thesportsrush.com/2020/12/45b28a56-untitled-design-2020-12-23t222349.419.jpg"
 			}]
 		}]
 	},{
@@ -702,7 +702,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://thestreamable.com/media/pages/news/sling-tv-to-offer-free-preview-of-nba-league-pass-to-start-2019-2020-season/37f9fd0feb-1598051129/2019-10-21-at-7.27-am.jpeg"
+				"src": "https://cdn-wp.thesportsrush.com/2020/12/45b28a56-untitled-design-2020-12-23t222349.419.jpg"
 			}]
 		}]
 	},{
