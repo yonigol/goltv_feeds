@@ -21,26 +21,7 @@
 				"src": "https://images.globes.co.il/images/NewGlobes/big_image_800/2015/01_logo_sport-chanel-blue_Square800jpg.jpg"
 			}]
 		}]
-	}, {
-		"type": {
-			"value": "video"
-		},
-		"id": "sport_5_gold",
-		"title": "Sport 5 Gold",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/5gold.il.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://cdn.the7eye.org.il/uploads/2014/02/342342341.jpg"
-			}]
-		}]
-	}, {
+	},{
 		"type": {
 			"value": "video"
 		},
@@ -95,6 +76,25 @@
 				"type": "image",
 				"key": "image_base",
 				"src": "https://www.partner.co.il/globalassets/global/tv-channels/web/images/channels/sport5.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "sport_5_gold",
+		"title": "Sport 5 Gold",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/5gold.il.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://cdn.the7eye.org.il/uploads/2014/02/342342341.jpg"
 			}]
 		}]
 	},{
