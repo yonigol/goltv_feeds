@@ -443,6 +443,63 @@
 		"type": {
 			"value": "video"
 		},
+		"id": "nbc_sports_bay",
+		"title": "NBC Sports Bay Area",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nbc.sports.bay.area.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.soda.com/wp-content/uploads/2017/03/NBC-Sports-Bay-Area-live-stream-600x361.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "pac_network_bay",
+		"title": "`PAC 12 Network Bay Area",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/pac.12.bay.area.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.mercurynews.com/wp-content/uploads/2019/11/pac12networks.jpg?w=640"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "nbc_sports_bay_plus",
+		"title": "NBC Sports Bay Area Plus",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nbc.sports.bay.area.plus.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nbcsports.com%2F&psig=AOvVaw2D6sr_g0bzLseGcCvHc1BQ&ust=1652618573019000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODA6YqC3_cCFQAAAAAdAAAAABA-"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
 		"id": "cbs_sports_us",
 		"title": "CBS Sports",
 		"summary": "",
