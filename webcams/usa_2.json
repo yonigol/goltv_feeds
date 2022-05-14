@@ -18,7 +18,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/LATRUN/LATRUN.PNG"
+				"src": "https://github.com/yonigol/goltv_feeds/raw/main/webcams/images/time_square_crossroads_1.png"
 			}]
 		}]
 	}, {
@@ -37,7 +37,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+				"src": "https://github.com/yonigol/goltv_feeds/raw/main/webcams/images/time_square_crossroads_2.png"
 			}]
 		}]
 	},{
@@ -56,7 +56,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+				"src": "https://github.com/yonigol/goltv_feeds/raw/main/webcams/images/times_square_street_cam.png"
 			}]
 		}]
 	},{
@@ -75,7 +75,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+				"src": "https://github.com/yonigol/goltv_feeds/raw/main/webcams/images/Times_Square_South_View_1.png"
 			}]
 		}]
 	},{
@@ -94,7 +94,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+				"src": "https://github.com/yonigol/goltv_feeds/raw/main/webcams/images/Times_Square_South_View_2.png"
 			}]
 		}]
 	},{
@@ -113,7 +113,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+				"src": "https://github.com/yonigol/goltv_feeds/raw/main/webcams/images/herald_square.png"
 			}]
 		}]
 	},{
@@ -132,7 +132,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+				"src": "https://github.com/yonigol/goltv_feeds/raw/main/webcams/images/empire_state_buillding_panorama.png"
 			}]
 		}]
 	},{
@@ -151,7 +151,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://iroads.bvtech.co.il:444/upfiles/SHILAT/SHILAT.PNG"
+				"src": "https://github.com/yonigol/goltv_feeds/raw/main/webcams/images/empire_state_building.png"
 			}]
 		}]
 	},{
