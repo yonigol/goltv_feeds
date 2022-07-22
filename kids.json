@@ -132,7 +132,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://i.ytimg.com/vi/g4WBr41Dn7Y/maxresdefault.jpg"
+				"src": "https://i.ytimg.com/vi/26G4YrsTwzU/mqdefault.jpg"
 			}]
 		}]
 	},{
@@ -253,25 +253,6 @@
 		"type": {
 			"value": "video"
 		},
-		"id": "knowledge",
-		"title": "Knowledge Kids",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/knowledge.network.ca.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://www.imaginecanada.ca/sites/default/files/2019-05/1_Wordmark.png"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
 		"id": "hop",
 		"title": "הופ",
 		"summary": "",
@@ -314,7 +295,7 @@
 		"title": "BabyFirst",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/baby.first.tv.us.m3u8",
+			"src": "https://tvnow.best/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/baby.first.tv.us.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -333,7 +314,7 @@
 		"title": "Baby TV IL",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/baby.il.m3u8",
+			"src": "https://tvnow.best/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/baby.il.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -352,7 +333,7 @@
 		"title": "Baby TV US",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/baby.tv.us.m3u8",
+			"src": "https://tvnow.best/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/baby.tv.us.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -367,11 +348,30 @@
 		"type": {
 			"value": "video"
 		},
+		"id": "cbeebies",
+		"title": "Cbeebies UK",
+		"summary": "",
+		"content": {
+			"src": "https://tvnow.best/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/cbeebies.uk.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.logolynx.com/images/logolynx/a8/a866a0ecc774f43b1f0c46533eb35c26.jpeg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
 		"id": "jimjam",
 		"title": "JimJam",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/jimjam.ze.m3u8",
+			"src": "https://tvnow.best/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/jimjam.ze.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -390,7 +390,7 @@
 		"title": "Cartoon Network",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/cartoon.network.usa.eastern.us.m3u8",
+			"src": "https://tvnow.best/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/cartoon.network.usa.eastern.us.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
