@@ -455,7 +455,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://i.ytimg.com/vi/GMDI-_YN0a4/maxresdefault.jpg"
+				"src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Star_Kids.jpg"
 			}]
 		}]
 	},{
@@ -519,7 +519,7 @@
 		"type": {
 			"value": "video"
 		},
-		"id": "ka_plus_kids",
+		"id": "a_plus_kids",
 		"title": "A Plus Kids",
 		"summary": "",
 		"content": {
@@ -531,7 +531,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://videos.thematv.com/a-plus-kids-tv.jpg"
+				"src": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/a-plus-tv.jpg"
 			}]
 		}]
 	}],
