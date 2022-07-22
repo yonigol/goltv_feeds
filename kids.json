@@ -447,7 +447,7 @@
 		"title": "ערוץ הכוכבים",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/stars.il.m3u8",
+			"src": "https://tvnow.best/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/stars.il.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -456,25 +456,6 @@
 				"type": "image",
 				"key": "image_base",
 				"src": "https://i.ytimg.com/vi/GMDI-_YN0a4/maxresdefault.jpg"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "hot_kidz",
-		"title": "HOT Kidz",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/kidz.il.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://www.hot.net.il/UploadedImages//01_2018/logo_kidz_510X287.png"
 			}]
 		}]
 	},{
@@ -504,7 +485,7 @@
 		"title": "RTE Jr",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/disney.jr.uk.m3u8",
+			"src": "https://tvnow.best/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/rte.jr.uk.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
