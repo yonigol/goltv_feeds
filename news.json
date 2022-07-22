@@ -200,7 +200,7 @@
 		"title": "Bloomberg",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/bloomberg.uk.m3u8",
+			"src": "https://tvnow.best/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/bloomberg.tv.usa.us.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -253,6 +253,25 @@
 		"type": {
 			"value": "video"
 		},
+		"id": "cheddar",
+		"title": "Cheddar News",
+		"summary": "",
+		"content": {
+			"src": "https://tvnow.best/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/cheddar.news.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://cheddar-production.s3.amazonaws.com/assets/cheddar_news_share.png"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
 		"id": "rai_news",
 		"title": "Rai News",
 		"summary": "",
@@ -292,10 +311,10 @@
 			"value": "video"
 		},
 		"id": "rt_uk",
-		"title": "RT UK",
+		"title": "RT US",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/rt.uk.m3u8",
+			"src": "https://tvnow.best/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/rt.russia.today.us.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -303,7 +322,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://mirror.umd.edu/xbmc/addons/gotham/plugin.video.rt/fanart.jpg"
+				"src": "https://www.coolstreaming.us/img/ch/image83083365299.jpg"
 			}]
 		}]
 	},{
@@ -550,7 +569,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://www.straitstimes.com/sites/default/files/styles/article_pictrure_780x520_/public/articles/2018/09/06/nz-tv-060918.jpg?itok=Ct7j_gSN&timestamp=1536192037"
+				"src": "https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg"
 			}]
 		}]
 	},{
