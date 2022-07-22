@@ -272,25 +272,6 @@
 		"type": {
 			"value": "video"
 		},
-		"id": "pac_network_bay",
-		"title": "PAC 12 Network Bay Area",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/pac.12.bay.area.us.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://www.mercurynews.com/wp-content/uploads/2019/11/pac12networks.jpg?w=640"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
 		"id": "nbc_sports_bay_plus",
 		"title": "NBC Sports Bay Area Plus",
 		"summary": "",
@@ -304,6 +285,25 @@
 				"type": "image",
 				"key": "image_base",
 				"src": "https://pbs.twimg.com/media/C8Ho9y5UAAABODC.jpg"
+			}]
+		}]
+	},{
+		"type": {
+			"value": "video"
+		},
+		"id": "pac_network_bay",
+		"title": "PAC 12 Network Bay Area",
+		"summary": "",
+		"content": {
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/pac.12.bay.area.us.m3u8",
+			"type": "video/hls"
+		},
+		"media_group": [{
+			"type": "image",
+			"media_item": [{
+				"type": "image",
+				"key": "image_base",
+				"src": "https://www.mercurynews.com/wp-content/uploads/2019/11/pac12networks.jpg?w=640"
 			}]
 		}]
 	},{
@@ -428,7 +428,7 @@
 		"title": "NBA Cleveland Cavaliers",
 		"summary": "",
 		"content": {
-			"src": "hhttps://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nba.cleveland.cavaliers.us.m3u8",
+			"src": "https://tvnow.best/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/nba.cleveland.cavaliers.us.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
