@@ -170,7 +170,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://i.ytimg.com/vi/8XP7tX550FM/maxresdefault.jpg"
+				"src": "https://i.ytimg.com/vi/f1hqpEvYkU8/maxresdefault.jpg"
 			}]
 		}]
 	},{
@@ -189,7 +189,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://i.vimeocdn.com/video/473574756_1280x720.jpg"
+				"src": "data:image/png;base64,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"
 			}]
 		}]
 	},{
@@ -208,7 +208,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://i.vimeocdn.com/video/473608829_1280x720.jpg"
+				"src": "https://p.kindpng.com/picc/s/277-2770652_image-g-ery-starz-logo-starz-edge-hd.png"
 			}]
 		}]
 	},{
@@ -227,7 +227,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://www.unblockitall.com/wp-content/uploads/2018/10/starz-encore-300x194.jpg"
+				"src": "https://i.ytimg.com/vi/ykzqUGKMN7Q/maxresdefault.jpg"
 			}]
 		}]
 	},{
@@ -238,7 +238,7 @@
 		"title": "Sony Movie Channel",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sony.movie.channel.us.m3u8",
+			"src": "https://tvnow.best/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/sony.movies.us.m3u8",
 			"type": "video/hls"
 		},
 		"media_group": [{
@@ -246,7 +246,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://upload.wikimedia.org/wikipedia/en/d/de/Sonymoviesuk.jpg"
+				"src": "https://www.backtothemovies.com/wp-content/uploads/2019/09/sonymovies.jpg"
 			}]
 		}]
 	},{
@@ -284,7 +284,7 @@
 			"media_item": [{
 				"type": "image",
 				"key": "image_base",
-				"src": "https://nitrocdn.com/tPmOtEiKDWAARLPbkNDMvQBJYLQuGGXp/assets/static/optimized/rev-cd2ff2c/wp-content/uploads/2018/05/2018-05-15_15-11-53-990x556.png"
+				"src": "https://i0.wp.com/thisismystic.com/wp-content/uploads/2021/04/hallmark-logo.jpg?fit=600%2C357&ssl=1"
 			}]
 		}]
 	},{
@@ -329,30 +329,11 @@
 		"type": {
 			"value": "video"
 		},
-		"id": "hot_bollywood",
-		"title": "HOT Bollywood",
+		"id": "hot_bolywood",
+		"title": "HOT Bolywood",
 		"summary": "",
 		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hotbollywood.il.m3u8",
-			"type": "video/hls"
-		},
-		"media_group": [{
-			"type": "image",
-			"media_item": [{
-				"type": "image",
-				"key": "image_base",
-				"src": "https://lh3.googleusercontent.com/proxy/mdIp2HHv1sJ9XtoHr5_4NTraVdfvc36jNnoeWlSskLrWbjiWl2GBbPpvnNka3duk0SBZB0mkkcwVQIdQMJ9W-VZFZW8USaAIgK3pF1M6WCdc8XyydMeOjQ"
-			}]
-		}]
-	},{
-		"type": {
-			"value": "video"
-		},
-		"id": "hot_bombay",
-		"title": "HOT Bombay",
-		"summary": "",
-		"content": {
-			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hotbombay.il.m3u8",
+			"src": "https://tv4.live/api/stream/jorgebalagani@gmail.com/878095/livetv.epg/hotbollywood.il.m3u8"",
 			"type": "video/hls"
 		},
 		"media_group": [{
